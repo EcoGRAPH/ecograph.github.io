@@ -8,6 +8,7 @@ My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
+- Try editing the text to see what happens...
 
 What else do you need?
 
