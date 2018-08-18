@@ -19,6 +19,9 @@ title: EcoGRAPH Research Group
 # Short description of your site
 description: EcoGRAPH Research Group Website
 
+# How many news items to show in the Latest News section on the landing page
+num_latest_news_to_show: 3
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
