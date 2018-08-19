@@ -4,7 +4,7 @@ title: My website
 subtitle: This is where I will tell my friends way too much about me
 use-site-title: true
 bigimg: 
-  - "/img/filename of image" : "comment"
+  - "/img/Ethiopia 2009 334.jpg" : "this is a comment"
 ---
 
 This is some stuff on the page
