@@ -3,7 +3,7 @@ title: People
 subtitle: The humans behind this project
 board-list:
   - name: Gregory Armstrong
-    img: /img/people/gregory-armstrong.jpg
+    img: /img/Wimberly.jpg
     desc: Director of the Advanced Molecular Detection initiative, with extensive experience in epidemiology and outbreak response at CDC, Atlanta, USA.
     website: http://www.cdc.gov/amd/
     url: http://www.cdc.gov/amd/
