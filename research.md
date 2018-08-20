@@ -1,7 +1,7 @@
 ---
 title: Research
 subtitle: Our Projects
-project-list:
+projects-list:
   - name: EPIDEMIA
     img: /img/Wimberly.jpg
     desc: Malaria early warning
