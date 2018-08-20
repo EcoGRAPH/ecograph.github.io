@@ -15,6 +15,27 @@ people-list:
     url: http://gaborcsardi.org/
     github: http://github.com/gaborcsardi
     twitter: http://twitter.com/gaborcsardi
+  - name: Francis K. Dwomoh
+    img: /img/people/gabor-csardi.jpg
+    desc: Postdoctoral Research Associate.
+    website: http://gaborcsardi.org/
+    url: http://gaborcsardi.org/
+    github: http://github.com/gaborcsardi
+    twitter: http://twitter.com/gaborcsardi
+  - name: Andrea Hess
+    img: /img/people/gabor-csardi.jpg
+    desc: Graduate Research Assistant.
+    website: http://gaborcsardi.org/
+    url: http://gaborcsardi.org/
+    github: http://github.com/gaborcsardi
+    twitter: http://twitter.com/gaborcsardi
+  - name: Dawn Nekorchuk
+    img: /img/people/gabor-csardi.jpg
+    desc: Postdoctoral Research Associate.
+    website: http://gaborcsardi.org/
+    url: http://gaborcsardi.org/
+    github: http://github.com/gaborcsardi
+    twitter: http://twitter.com/gaborcsardi
 ---
 
 ## Community
