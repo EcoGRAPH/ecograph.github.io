@@ -5,9 +5,8 @@ projects-list:
   - name: EPIDEMIA
     img: /img/Wimberly.jpg
     desc: Malaria early warning
-    website: https://globalmonitoring.sdstate.edu/wimberly
-    url: https://globalmonitoring.sdstate.edu/wimberly
-    twitter: https://twitter.com/mcwimberly
+    website: https://ecograph.github.io/epidemia
+    url: https://ecograph.github.io/epidemia
   - name: ArboMAP
     img: /img/people/gabor-csardi.jpg
     desc: Arbovirus Modeling and Prediction to Forecast Mosquito-Borne Disease Outbreaks
