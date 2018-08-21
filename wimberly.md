@@ -1,5 +1,6 @@
 ---
 layout: page
+title:
 bigimg: 
   - "/img/IMG_1637.JPG" : "this is a comment"
 ---
