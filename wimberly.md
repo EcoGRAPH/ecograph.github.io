@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: "This is a test"
 bigimg: 
   - "/img/IMG_1637.JPG" : "this is a comment"
 ---
