@@ -1,6 +1,7 @@
 ---
 layout: page
-
+bigimg: 
+  - "/img/IMG_1637.JPG" : "this is a comment"
 ---
 
 # Dr. Michael C. Wimberly
