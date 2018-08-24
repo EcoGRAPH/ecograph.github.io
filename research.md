@@ -4,16 +4,14 @@ subtitle: Our Projects
 projects-list:
   - name: EPIDEMIA
     img: /img/Wimberly.jpg
-    desc: Malaria early warning
+    desc: Malaria early warning in the Amhara region of Ethiopia
     website: https://ecograph.github.io/epidemia
     url: https://ecograph.github.io/epidemia
   - name: ArboMAP
-    img: /img/people/gabor-csardi.jpg
+    img: /img/Wimberly.jpg
     desc: Arbovirus Modeling and Prediction to Forecast Mosquito-Borne Disease Outbreaks
-    website: http://gaborcsardi.org/
-    url: http://gaborcsardi.org/
-    github: http://github.com/gaborcsardi
-    twitter: http://twitter.com/gaborcsardi
+    website: https://ecograph.github.io/epidemia
+    url: https://ecograph.github.io/epidemia
   - name: WAForDD
     img: /img/people/gabor-csardi.jpg
     desc: West Africa Forest Degradation Dataset
