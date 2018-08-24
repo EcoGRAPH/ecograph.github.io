@@ -8,7 +8,7 @@ projects-list:
     website: https://ecograph.github.io/epidemia
     url: https://ecograph.github.io/epidemia
   - name: ArboMAP
-    img: /img/Wimberly.jpg
+    img: /img/junk.jpg
     desc: Arbovirus Modeling and Prediction to Forecast Mosquito-Borne Disease Outbreaks
     website: https://ecograph.github.io/arbomap
     url: https://ecograph.github.io/arbomap
