@@ -1,7 +1,7 @@
 ---
 layout: page
-title: EPIDEMIA
-subtitle: Malaria early warning in the Amhara region of Ethiopia
+title: ArboMAP
+subtitle: Arbovirus Mapping and Prediction
 bigimg: 
   - "/img/IMG_1637.JPG" : "this is a comment"
 ---
