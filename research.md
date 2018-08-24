@@ -10,8 +10,8 @@ projects-list:
   - name: ArboMAP
     img: /img/Wimberly.jpg
     desc: Arbovirus Modeling and Prediction to Forecast Mosquito-Borne Disease Outbreaks
-    website: https://ecograph.github.io/epidemia
-    url: https://ecograph.github.io/epidemia
+    website: https://ecograph.github.io/arbomap
+    url: https://ecograph.github.io/arbomap
   - name: WAForDD
     img: /img/people/gabor-csardi.jpg
     desc: West Africa Forest Degradation Dataset
