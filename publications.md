@@ -6,23 +6,23 @@ subtitle: Check out this list of publications
 ---
 
 ### 2018
-* Vincent, G. P., J. K. Davis, M. C. Wimberly, C. D. Carlson, and M. B. Hildreth. 2018. Permethrin susceptibility for the vector Culex tarsalis and a nuisance mosquito Aedes vexans in an area endemic for West Nile virus. BioMed Research International, Article ID 2014746.
 * Davis, J. K., G. P. Vincent, M. B. Hildreth, L. Kightlinger, and M. C. Wimberly. 2018. Improving the prediction of arbovirus outbreaks: a comparison of climate-driven models for West Nile virus in an endemic region of the United States. Acta Tropica 185: 242-250.
 * Lin, Y., M. C. Wimberly, P. Da Rosa, J. Hoover, and W. F. Athas. 2018. Geographic Access to radiation therapy facilities and disparities of early-stage breast cancer treatment. Geospatial Health 13:622.
+* Vincent, G. P., J. K. Davis, M. C. Wimberly, C. D. Carlson, and M. B. Hildreth. 2018. Permethrin susceptibility for the vector Culex tarsalis and a nuisance mosquito Aedes vexans in an area endemic for West Nile virus. BioMed Research International, Article ID 2014746.
+* Wimberly, M. C., D. M. Narem, P. J. Bauman, B. T. Carlson, and M. A. Ahlering. 2018. Grassland connectivity in fragmented agricultural landscapes of the north-central United States. Biological Conservation 217: 121-130.te Sensing 9: 1117.
 ### 2017
-* Wimberly, M. C., D. M. Narem, P. J. Bauman, B. T. Carlson, and M. A. Ahlering. 2018. Grassland connectivity in fragmented agricultural landscapes of the north-central United States. Biological Conservation 217: 121-130.
 * Davis J. K., Vincent G. P., Hildreth M. B., Kightlinger L., Carlson C., and M. C. Wimberly. 2017. Integrating Environmental Monitoring and Mosquito Surveillance to Predict Vector-borne Disease: Prospective Forecasts of a West Nile Virus Outbreak. PLoS Currents Outbreaks. 2017 May 23. Edition 1. doi: 10.1371/currents.outbreaks.90e80717c4e67e1a830f17feeaaf85de.
 * Dwomoh, F. K., and M. C. Wimberly. 2017. Fire regimes and forest resilience: alternative vegetation states in the West African tropics. Landscape Ecology 32: 1849-1865.
-* Dwomoh, F. K., and M. C. Wimberly. 2017. Fire regimes and their drivers in the Upper Guinean Region of West Africa. Remote Sensing 9: 1117.
+* Dwomoh, F. K., and M. C. Wimberly. 2017. Fire regimes and their drivers in the Upper Guinean Region of West Africa. Remo
 * Lin, Y., and M. C. Wimberly. 2017. Geographic variations of colorectal and breast cancer late-stage diagnosis and the effects of neighborhood-level factors. Journal of Rural Health 33: 146-157. 
-* Merkord, C. L., Y. Liu, A. Mihretie, T. Gebrehiwot, W. Awoke, E. Bayabil, G. M. Henebry, G. T. Kassa, M. Lake, and M. C. Wimberly. 2017. Integrating malaria surveillance with climate data for outbreak detection and forecasting: the EPIDEMIA system. Malaria Journal 16:89.
-* Wang, T. M. Luri, L. Janssen, D. A. Hennessy, H. Feng, M. C. Wimberly, and G. Arora. 2017. Determinants of motives for land use decisions at the margins of the Corn Belt. Ecological Economics: 134: 227-237.
-* Vogelmann, J. E., P. V. Khoa, D. X. Lan, J. Shermeyer, H. Shi, M. C. Wimberly, H. T. Duong, and L. V. Huong, L.V., 2017. Assessment of Forest Degradation in Vietnam Using Landsat Time Series Data. Forests, 8(7), 238.
-* Wimberly, M. C., L. L. Janssen, D. A. Hennessy, M. Luri, N. M. Chowdhury, and H. Feng. 2017. Cropland expansion and grassland loss in the eastern Dakotas: New insights from a farm-level survey. Land Use Policy 63: 160-173.
 * Liu, Z., M. C. Wimberly, F. K Dwomoh. 2017. Vegetation dynamics in the Upper Guinean Forest region of West Africa from 2001 to 2015. Remote Sensing. 9(1): 5. 
+* Merkord, C. L., Y. Liu, A. Mihretie, T. Gebrehiwot, W. Awoke, E. Bayabil, G. M. Henebry, G. T. Kassa, M. Lake, and M. C. Wimberly. 2017. Integrating malaria surveillance with climate data for outbreak detection and forecasting: the EPIDEMIA system. Malaria Journal 16:89.
+* Vogelmann, J. E., P. V. Khoa, D. X. Lan, J. Shermeyer, H. Shi, M. C. Wimberly, H. T. Duong, and L. V. Huong, L.V., 2017. Assessment of Forest Degradation in Vietnam Using Landsat Time Series Data. Forests, 8(7), 238.
+* Wang, T. M. Luri, L. Janssen, D. A. Hennessy, H. Feng, M. C. Wimberly, and G. Arora. 2017. Determinants of motives for land use decisions at the margins of the Corn Belt. Ecological Economics: 134: 227-237.
+* Wimberly, M. C., L. L. Janssen, D. A. Hennessy, M. Luri, N. M. Chowdhury, and H. Feng. 2017. Cropland expansion and grassland loss in the eastern Dakotas: New insights from a farm-level survey. Land Use Policy 63: 160-173.
 ### 2016
-* Sohl, T. L., M. C. Wimberly, V. C. Radeloff, D. M. Theobald, B. M. Sleeter. 2016. Divergent projections of future land use in the United States arising from different models and scenarios. Ecological Modelling 337: 281–297
 * Liu, Z., M. C. Wimberly. 2016. Direct and indirect effects of climate change on projected future fire regimes in the western United States. Science of the Total Environment 542: 65-75. 
+* Sohl, T. L., M. C. Wimberly, V. C. Radeloff, D. M. Theobald, B. M. Sleeter. 2016. Divergent projections of future land use in the United States arising from different models and scenarios. Ecological Modelling 337: 281–297
 * Wimberly, M. C., T. Gebrehiwot, M. Bishaw, W. Yalew, and A. Mihretie. 2016. EPIDEMIA: Integrating climate information and disease surveillance for malaria epidemic forecasting in Ethiopia. Pages 110-113 In: J. Shumake-Guillemot and L. Fernandez-Montoya, editors. Climate Services for Health: Improving Public Health Decision-Making in a New Climate. World Health Organization/World Meteorological Organization. Geneva, Switzerland.
 ### 2015
 * Alemu, H. T., A. T. Kaptue, B. G. Senay, M. C. Wimberly, and G. M. Henebry. 2015. Evapotranspiration in the Nile Basin: Identifying dynamics and drivers, (2002-2011). Water 7: 4914-4931.
@@ -43,11 +43,11 @@ subtitle: Check out this list of publications
 * Zhang, Y., G. Yu, J. Yang, M. C. Wimberly, X. Zhang, J. Tao, Y. Jiang, and J. Zhu. 2014. Climate-driven global changes in carbon use efficiency. Global Ecology and Biogeography 23: 144-155.
 ### 2013
 * Broich, M., M. C. Hansen, P. V. Potapov, and M. C. Wimberly 2013. Patterns of tree cover loss along the Indonesia-Malaysia border on Borneo. International Journal of Remote Sensing. 34: 5748-5760.
- Chintala, R., M. C. Wimberly, G. D. Djira, and M. G. Tulbure. 2013. Interannual variability of crop residue potential in the north-central region of the United States. Biomass and Bioenergy 49: 231-238.
+* Chintala, R., M. C. Wimberly, G. D. Djira, and M. G. Tulbure. 2013. Interannual variability of crop residue potential in the north-central region of the United States. Biomass and Bioenergy 49: 231-238.
 * Narayanaraj, G., and M. C. Wimberly. 2013. Influences of forest roads and their edge effects on the spatial pattern of burn severity. International Journal of Applied Earth Observation and Geoinformation 23: 62-70. 
 * Stanturf, J. A., and M. C. Wimberly. 2013. Demographic trends in the Eastern US and the wildland-urban interface: Implications for fire management. Pages 19-40 In: J. J. Qu, W. Sommers, A. Biebau, R. Yang, and M. Kafaros, editors. Remote Sensing and Modeling Applications to Wildland Fires. Springer, New York.
-* Wright, C. K., and M. C. Wimberly. 2013. Recent land use change in the western Corn Belt threatens grasslands and wetlands. Proceedings of the National Academy of Sciences of the United States of America 110: 4134-4139. 
 * Wimberly, M. C., P. Giacomo, L. Kightlinger, and M. B. Hildreth. 2013. Spatio-temporal epidemiology of human West Nile virus disease in South Dakota. International Journal of Environmental Research and Public Health 10: 5584-5602.
+* Wright, C. K., and M. C. Wimberly. 2013. Recent land use change in the western Corn Belt threatens grasslands and wetlands. Proceedings of the National Academy of Sciences of the United States of America 110: 4134-4139. 
 ### 2012
 * Chuang, T., C. W. Hockett, L. Kightlinger, and M. C. Wimberly. 2012. Landscape-level spatial patterns of West Nile virus risk in the northern Great Plains. American Journal of Tropical Medicine and Hygiene 86: 724-731.
 * Chuang, T., G. M Henebry, J. S. Kimball, D.L. VanRoekel-Patton, M. B. Hildreth, and M. C. Wimberly. 2012. Satellite microwave remote sensing for environment modeling of mosquito population dynamics. Remote Sensing of Environment 125: 147-156. 
