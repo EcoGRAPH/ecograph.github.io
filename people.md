@@ -5,8 +5,8 @@ people-list:
   - name: Michael C. Wimberly
     img: /img/Wimberly.jpg
     desc: Principal Investigator. 
-    website: https://globalmonitoring.sdstate.edu/wimberly
-    url: https://globalmonitoring.sdstate.edu/wimberly
+    website: https://ecograph.github.io/wimberly
+    url: https://ecograph.github.io/wimberly
     twitter: https://twitter.com/mcwimberly
   - name: Justin K. Davis
     img: /img/people/gabor-csardi.jpg
