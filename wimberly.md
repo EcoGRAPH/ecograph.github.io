@@ -2,7 +2,7 @@
 layout: page
 title: ""
 bigimg: 
-  - "/img/IMG_1637.JPG" : "this is a comment"
+  - "/img/Wimberly_HaymanFire_2014.JPG" : "this is a comment"
 ---
 
 # Dr. Michael C. Wimberly
