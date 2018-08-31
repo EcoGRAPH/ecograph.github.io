@@ -6,7 +6,7 @@ subtitle: Check out this list of publications
 ---
 
 ### 2018
-* Davis, J. K., G. P. Vincent, M. B. Hildreth, L. Kightlinger, and M. C. Wimberly. 2018. Improving the prediction of arbovirus outbreaks: a comparison of climate-driven models for West Nile virus in an endemic region of the United States. Acta Tropica 185: 242-250.
+* Davis, J. K., G. P. Vincent, M. B. Hildreth, L. Kightlinger, and M. C. Wimberly. 2018. ]Improving the prediction of arbovirus outbreaks: a comparison of climate-driven models for West Nile virus in an endemic region of the United States](https://www.researchgate.net/publication/324880544_Improving_the_prediction_of_arbovirus_outbreaks_A_comparison_of_climate-driven_models_for_West_Nile_virus_in_an_endemic_region_of_the_United_States). Acta Tropica 185: 242-250.
 * Lin, Y., M. C. Wimberly, P. Da Rosa, J. Hoover, and W. F. Athas. 2018. Geographic Access to radiation therapy facilities and disparities of early-stage breast cancer treatment. Geospatial Health 13:622.
 * Vincent, G. P., J. K. Davis, M. C. Wimberly, C. D. Carlson, and M. B. Hildreth. 2018. Permethrin susceptibility for the vector Culex tarsalis and a nuisance mosquito Aedes vexans in an area endemic for West Nile virus. BioMed Research International, Article ID 2014746.
 * Wimberly, M. C., D. M. Narem, P. J. Bauman, B. T. Carlson, and M. A. Ahlering. 2018. Grassland connectivity in fragmented agricultural landscapes of the north-central United States. Biological Conservation 217: 121-130.te Sensing 9: 1117.
