@@ -18,7 +18,7 @@ people-list:
     desc: Postdoctoral Research Associate.
     website: https://ecograph.github.io/wimberly
     url: https://ecograph.github.io/wimberly
-    - name: Andrea Hess
+  - name: Andrea Hess
     img: /img/Andrea.jpg
     desc: Graduate Research Assistant.
     website: https://ecograph.github.io/wimberly
