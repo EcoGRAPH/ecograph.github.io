@@ -9,28 +9,28 @@ people-list:
     url: https://ecograph.github.io/wimberly
     twitter: https://twitter.com/mcwimberly
   - name: Justin K. Davis
-    img: /img/people/gabor-csardi.jpg
+    img: /img/Justin.jpg
     desc: Postdoctoral Research Associate.
     website: http://gaborcsardi.org/
     url: http://gaborcsardi.org/
     github: http://github.com/gaborcsardi
     twitter: http://twitter.com/gaborcsardi
   - name: Francis K. Dwomoh
-    img: /img/people/gabor-csardi.jpg
+    img: /img/Francis.jpg
     desc: Postdoctoral Research Associate.
     website: http://gaborcsardi.org/
     url: http://gaborcsardi.org/
     github: http://github.com/gaborcsardi
     twitter: http://twitter.com/gaborcsardi
   - name: Andrea Hess
-    img: /img/people/gabor-csardi.jpg
+    img: /img/people/Andrea.jpg
     desc: Graduate Research Assistant.
     website: http://gaborcsardi.org/
     url: http://gaborcsardi.org/
     github: http://github.com/gaborcsardi
     twitter: http://twitter.com/gaborcsardi
   - name: Dawn Nekorchuk
-    img: /img/people/gabor-csardi.jpg
+    img: /img/people/Dawn.jpg
     desc: Postdoctoral Research Associate.
     website: http://gaborcsardi.org/
     url: http://gaborcsardi.org/
