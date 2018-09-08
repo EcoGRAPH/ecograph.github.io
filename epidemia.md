@@ -14,7 +14,7 @@ Outbreaks of malaria are often linked to climate variations and land use changes
 
 EPIDEMIA is being developed and tested by an interdisciplinary team that includes scientists from the University of Oklahoma and South Dakota State University along with partners from public health agencies, non-governmental organizations, and universities in Ethiopia. Weekly malaria surveillance data is provided by the Amhara Regional Health Bureau (ARHB) , and project scientists generate weekly forecasting reports that are shared with the ARHB and other public health organizaitons in Ethiopia. The software for operational data aquisition, processing and modeling is impelemted using the R language and environment and Google Earth Engine, and we are in the process of transferring these tools to our partners in Ethiopia. This research is funded by a grant from the National Institutes of Health, National Institute of Allergy and Infectious Diseases (R01AI079411). Development of software for acquisition and processing of earth observation data has also been supported by NASA (NNX11AF67G). Additional information is available at <https://epidemia.sdstate.edu/>.
 
-![EPIDEMIA forecast graph](/img/epidemia_forecast_graph.JPG)
+![EPIDEMIA forecast graph](/img/epidemia_forecast_graph.jpg)
 
 ## Partner Organizations
 
