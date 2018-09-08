@@ -15,8 +15,8 @@ projects-list:
   - name: WAForDD
     img: /img/people/gabor-csardi.jpg
     desc: West Africa Forest Degradation Dataset
-    website: https://ecograph.github.io/epidemia
-    url: https://ecograph.github.io/epidemia
+    website: https://ecograph.github.io/degradation
+    url: https://ecograph.github.io/degradation
   - name: CHANGE
     img: /img/people/gabor-csardi.jpg
     desc: Landscape Change Modeling
