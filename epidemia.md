@@ -10,12 +10,12 @@ bigimg:
 
 Outbreaks of malaria are often linked to climate variations and land use changes that affect the life cycles of the mosquito vector and the *Plasmodium* parasite. Early warning of the timing and locations of epidemics can facilitate more effective targeting of resources for disease prevention, control, and treatment. Our malaria research involves developing novel informatics systems to acquire and harmonize remotely-sensed environmental data and epidemiological surveillance data. We analyze these data to identify the environmental triggers of malaria outbreaks and determine the best forecasting models for predicting outbreaks. The results have been applied to create the Epidemic Prognosis Incorporating Disease and Environmental Monitoring for Integrated Assessment (EPIDEMIA) system, which supports malaria forecasting in epidemic-prone regions of the Ethiopian highlands. The system incorporates a set of linked software components that automate data access and harmonization, implement predictive modeling of malaria outbreaks, and generate charts and maps to communicate the predictions. 
 
-![EPIDEMIA system flowchart](/img/epidemia_system_diagram.gif)
+![EPIDEMIA system flowchart](/img/epidemia_system_diagram.gif)<br/>
 *Conceptual diagram of information flow through the EPIDEMIA system (Merkord et al. 2017).*
 
 EPIDEMIA is being developed and tested by an interdisciplinary team that includes scientists from the University of Oklahoma and South Dakota State University along with partners from public health agencies, non-governmental organizations, and universities in Ethiopia. Weekly malaria surveillance data is provided by the Amhara Regional Health Bureau (ARHB) , and project scientists generate weekly forecasting reports that are shared with the ARHB and other public health organizaitons in Ethiopia. The software for operational data aquisition, processing and modeling is impelemted using the R language and environment and Google Earth Engine, and we are in the process of transferring these tools to our partners in Ethiopia. This research is funded by a grant from the National Institutes of Health, National Institute of Allergy and Infectious Diseases (R01AI079411). Development of software for acquisition and processing of earth observation data has also been supported by NASA (NNX11AF67G). Additional information is available at <https://epidemia.sdstate.edu/>.
 
-![EPIDEMIA forecast graph](/img/epidemia_forecast_graph.jpg)
+![EPIDEMIA forecast graph](/img/epidemia_forecast_graph.jpg)<br/>
 *Malaria forecast for Abargelie Woreda, Waghimira Zone, for week 39 of 2016 (Merkord et al. 2017).*
 
 ## Partner Organizations
