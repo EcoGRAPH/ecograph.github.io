@@ -1,7 +1,7 @@
 ---
 layout: page
-title: WAForDD
-subtitle: West Africa Forest Degradation Dataset
+title: Tropical Forest Degradation Monitoring
+subtitle: Landscape Change in the Upper Guinean Forests of West Africa
 bigimg: 
   - "/img/IMG_1637.JPG" : "this is a comment"
 ---
