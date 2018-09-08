@@ -14,7 +14,7 @@ The Epidemic Prognosis Incorporating Disease and Environmental Monitoring for In
 
 A major feature of EPIDEMIA is the integration of temperature, precipitation, and vegetation data from earth-observing satellites to monitor the environmental risk factors for malaria outbreaks. These tools are being developed and tested by an interdisciplinary team that includes scientists from the University of Oklahoma and South Dakota State University along with partners from public health agencies, non-governmental organizations, and universities in Ethiopia. This research is funded by a grant from the National Institutes of Health, National Institute of Allergy and Infectious Diseases (R01AI079411). Development of software for acquisition and processing of earth observation data has also been supported by NASA (NNX11AF67G). More information is available at https://epidemia.sdstate.edu/.
 
-![EPIDEMIA forecast graph](/img/epidemia_forecast_graph.jpg)
+![EPIDEMIA forecast graph](/img/epidemia_forecast_graph.JPG)
 
 ## Partner Organizations
 
