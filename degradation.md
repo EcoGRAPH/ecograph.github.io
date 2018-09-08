@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tropical Forest Degradation Monitoring
-subtitle: Landscape Change in the Upper Guinean Forests of West Africa
+title: Tropical Forest Degradation
+subtitle: Monitoring forest landscape change in West Africa
 bigimg: 
   - "/img/IMG_1637.JPG" : "this is a comment"
 ---
