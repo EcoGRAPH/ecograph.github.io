@@ -3,7 +3,7 @@ layout: page
 title: Tropical Forest Degradation
 subtitle: Monitoring forest landscape change in West Africa
 bigimg: 
-  - "/img/IMG_1637.JPG" : "this is a comment"
+  - "/img/Kakum_Forest_2013.JPG" : "this is a comment"
 ---
 
 ## Project Description
