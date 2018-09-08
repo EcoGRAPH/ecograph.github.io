@@ -9,12 +9,12 @@ projects-list:
     url: https://ecograph.github.io/epidemia
   - name: ArboMAP
     img: /img/junk.jpg
-    desc: Arbovirus Modeling and Prediction to Forecast Mosquito-Borne Disease Outbreaks
+    desc: West Nile virus surveillance and forecasting
     website: https://ecograph.github.io/arbomap
     url: https://ecograph.github.io/arbomap
-  - name: WAForDD
+  - name: Tropical Forest Degradation
     img: /img/people/gabor-csardi.jpg
-    desc: West Africa Forest Degradation Dataset
+    desc: Monitoring forest landscape change in West Africa
     website: https://ecograph.github.io/degradation
     url: https://ecograph.github.io/degradation
   - name: CHANGE
