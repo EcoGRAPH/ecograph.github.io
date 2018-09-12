@@ -13,12 +13,12 @@ projects-list:
     website: https://ecograph.github.io/arbomap
     url: https://ecograph.github.io/arbomap
   - name: Tropical Forest Degradation
-    img: /img/people/forest_small.JPG
+    img: /img/forest_small.JPG
     desc: Monitoring forest landscape change in West Africa
     website: https://ecograph.github.io/degradation
     url: https://ecograph.github.io/degradation
   - name: CHANGE
-    img: /img/people/wui_small.JPG
+    img: /img/wui_small.JPG
     desc: Integrated land use change and vegetation dynamics modeling
     website: https://ecograph.github.io/change
     url: https://ecograph.github.io/change
