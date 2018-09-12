@@ -10,7 +10,13 @@ bigimg:
 
 West Nile virus (WNV) is endemic in the United States and poses a persistent threat to public health in many parts of the U.S. In particular, the Northern Great Plains is a persistent hot spot for WNV transmission, and South Dakota has the highest long-term incidence of West Nile neuroinvasive disease in the country. We have conducted research on WNV epidemiology to explore the environmental risk factors that affect transmission to humans. The spatial and temporal distributions of the vector mosquitoes and bird hosts, and consequently the risk of disease in humans, are strongly influenced by temperature, humidity, vegetation, soils, and land use. These relationships can be quantified using mathematical models and applied to develop maps of WNV risk and forecast the probability of future outbreaks. 
 
+![ArboMAP system flowchart](/img/Arbomap_system.jpg)<br/>
+*Conceptual diagram of information flow through the ArboMAP system.*
+
 We have applied these results to develop a WNV early warning system for South Dakota that combines environmental monitoring with mosquito surveillance produce weekly maps of WNV risk during the transmission season. The Arbovirus Mapping and Prediction (ArboMAP) system ingests gridded meteorological data using Google Earth Engine, a cloud-based platform for Earth science data analysis. Mosquito abundance and testing data are uploaded from multiple locations throughout the state via a web-based surveillance platform. Statistical models are used to estimate the mosquito infection rate from recent surveillance data, and to predict numbers of human cases based on mosquito infection rate, temperature, and humidity. These models are implemented using the R programming landuage and sofware environment, and all code is publically available via GitHub. This work is supported in part by a grant from the NASA Applied Sciences Public Health and Air Quality Program (NNX15AF74G).
+
+![ArboMAP predictions](/img/WNV_predictions.jpg)<br/>
+*Prospective WNV forecasts. Black line/Gray shading: prediction with 95% intervals; Red line: Observed cases in 2016 or 2017; Dashed line: Observed cases in 2012; Dotted line: Observed cases in 2015.*
 
 ## Partner Organizations
 
