@@ -3,7 +3,7 @@ layout: page
 title: CHANGE
 subtitle: Coupled Human and Natural Geospatial Environments
 bigimg: 
-  - "/img/IMG_1637.JPG" : "this is a comment"
+  - "/img/Colorado_WUI.JPG" : "Wildland-urban interface in the Colorado Front Range"
 ---
 
 ## Project Description
