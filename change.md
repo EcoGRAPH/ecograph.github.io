@@ -1,23 +1,21 @@
 ---
 layout: page
 title: CHANGE
-subtitle: Integrated Land Use Change and Vegetation Dynamics Modeling
+subtitle: Coupled Human and Natural Geospatial Environments
 bigimg: 
   - "/img/IMG_1637.JPG" : "this is a comment"
 ---
 
 ## Project Description
 
-West Nile virus (WNV) is endemic in the United States and poses a persistent threat to public health in many parts of the U.S. In particular, the Northern Great Plains is a persistent hot spot for WNV transmission, and South Dakota has the highest long-term incidence of West Nile neuroinvasive disease in the country. We have conducted research on WNV epidemiology to explore the environmental risk factors that affect transmission to humans. The spatial and temporal distributions of the vector mosquitoes and bird hosts, and consequently the risk of disease in humans, are strongly influenced by temperature, humidity, vegetation, soils, and land use. These relationships can be quantified using mathematical models and applied to develop maps of WNV risk and forecast the probability of future outbreaks. 
+Climate change is having myriad effects on ecosystems worldwide, with natural and human-caused disturbances serving as major drivers. In addition, increasing human exploitation of fire-prone ecosytems is altering fire regimes, increase human vulnerability, and limiting management options. To better understand the implications of these changes, there is a need for simulation models that can project future landscape dynamics in the context of changing climates and expanding human populations. We developed an integrated land change simulator by coupling a model of natural disturbances and vegetation dynamics (LADS, the LAndscape Dynamics Simulator developed by Mike Wimberly) with a model of human driven land use and land cover change (FORE-SCE, the FOREcasting SCEnarios of future land cover model developed by Terry Sohl at the USGS Center for Earth Resources Observation and Science). The result is a novel model for Simulating Coupled Human and Natural Environments (CHANGE). 
 
-We have applied these results to develop a WNV early warning system for South Dakota that combines environmental monitoring with mosquito surveillance produce weekly maps of WNV risk during the transmission season. The Arbovirus Mapping and Prediction (ArboMAP) system ingests gridded meteorological data using Google Earth Engine, a cloud-based platform for Earth science data analysis. Mosquito abundance and testing data are uploaded from multiple locations throughout the state via a web-based surveillance platform. Statistical models are used to estimate the mosquito infection rate from recent surveillance data, and to predict numbers of human cases based on mosquito infection rate, temperature, and humidity. These models are implemented using the R programming landuage and sofware environment, and all code is publically available via GitHub. This work is supported in part by a grant from the NASA Applied Sciences Public Health and Air Quality Program (NNX15AF74G).
+The CHANGE model simulates gridded landscapes classified into discrete land use and land cover (LULC) classes such as developed land, forest, shrubland, and cropland. Transitions between these LULC classes are modeled using a demand-allocation algorithm that was adapted from FOR-SCE. Naturally-vegetated LCLU classes are further divided into vegetation states that represent unique combinations of vegetation structure and species composition . Within these naturally-vegetated areas, succession is modeled deterministically using a state-and-transition model, and wildfires are modeled using a stochastic cellular fire spread algorithm derived from LADS. CHANGE also includes new components for explicitly modeling the human-natural interface (HNI) as a hybrid LULC class. Examples of the HNI include low-density housing in fire-prone forests in the western United States and small-scale agricultural encroachment into tropical forests in West Africa.
 
 ## Partner Organizations
 
-* South Dakota State University
-* South Dakota Department of Health
-* City of Sioux Falls Health Department
-* City of Aberdeen Parks Department
+* [USGS Center for Earth Resources Observation and Science](https://eros.usgs.gov/)
+* [SERVIR West Africa](https://servirglobal.net/Regions/West-Africa)
 
 ## Publications
 
