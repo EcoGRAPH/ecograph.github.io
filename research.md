@@ -19,7 +19,7 @@ projects-list:
     url: https://ecograph.github.io/degradation
   - name: CHANGE
     img: /img/people/gabor-csardi.jpg
-    desc: Landscape Change Modeling
+    desc: Integration land use change and vegetation dynamics modeling
     website: http://gaborcsardi.org/
     url: http://gaborcsardi.org/
     github: http://github.com/gaborcsardi
