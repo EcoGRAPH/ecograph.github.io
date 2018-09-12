@@ -3,7 +3,7 @@ layout: page
 title: ArboMAP
 subtitle: Arbovirus Mapping and Prediction to Forecast Mosuqito-Borne Disease Outbreaks
 bigimg: 
-  - "/img/Irrigation_SD.png" : "Irrigated hayfield in western SD"
+  - "/img/Culex_mosquito.jpg" : "Engorged culicine mosquito (CDC PHIL)"
 ---
 
 ## Project Description
