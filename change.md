@@ -10,7 +10,13 @@ bigimg:
 
 Climate change is having myriad effects on ecosystems worldwide, with natural and human-caused disturbances serving as major drivers. In addition, increasing human exploitation of fire-prone ecosytems is altering fire regimes, increase human vulnerability, and limiting management options. To better understand the implications of these changes, there is a need for simulation models that can project future landscape dynamics in the context of changing climates and expanding human populations. We developed an integrated land change simulator by coupling a model of natural disturbances and vegetation dynamics (LADS, the LAndscape Dynamics Simulator developed by Mike Wimberly) with a model of human driven land use and land cover change (FORE-SCE, the FOREcasting SCEnarios of future land cover model developed by Terry Sohl at the USGS Center for Earth Resources Observation and Science). The result is a novel model for Simulating Coupled Human and Natural Environments (CHANGE). 
 
+![CHANGE system flowchart](/img/CHANGE_flowchart.jpg)<br/>
+*Conceptual diagram of the CHANGE simulation model.*
+
 The CHANGE model simulates gridded landscapes classified into discrete land use and land cover (LULC) classes such as developed land, forest, shrubland, and cropland. Transitions between these LULC classes are modeled using a demand-allocation algorithm that was adapted from FOR-SCE. Naturally-vegetated LCLU classes are further divided into vegetation states that represent unique combinations of vegetation structure and species composition . Within these naturally-vegetated areas, succession is modeled deterministically using a state-and-transition model, and wildfires are modeled using a stochastic cellular fire spread algorithm derived from LADS. CHANGE also includes new components for explicitly modeling the human-natural interface (HNI) as a hybrid LULC class. Examples of the HNI include low-density housing in fire-prone forests in the western United States and small-scale agricultural encroachment into tropical forests in West Africa.
+
+![CHANGE sample output](/img/Change_example.jpg)<br/>
+*Output of the CHANGE model with example of landscape changes in the Colorado Front Range: A) Wildland-urban interface expansion, B) Wildfire in the Wildland-urban interface, C) Expansion of the Wildland-urban interface, D) Wildfire outside of the wildland-urban interface.*
 
 ## Partner Organizations
 
