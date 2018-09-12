@@ -7,8 +7,7 @@ bigimg:
   - "/img/Amhara_Landscape_2009.JPG" : "Landscape, Amhara Region of Ethiopia"
   - "/img/Amhara_Wetland_2012.JPG" : "Wetland, Amhara Region of Ethiopia"
   - "/img/Camp_32_2007.JPG" : "Camp 32 Fire, Northwestern Montana"
-  - "/img/Degraded_Ghana_2013.JPG" : "Degraded Forest, Brong Ahafo Region of Ghana"
-  - "/img/Grand_Canyon_2007.JPG" : "Kaibab Plateau, North Rim of the Grand Canyon"
+  - "/img/Kakum_Forest_2013.JPG" : "Kakum National Park, Ghana"
   - "/img/Tana_Sunset_2009.JPG" : "Lake Tana, Ahmara Region of Ethiopia"
 ---
 
