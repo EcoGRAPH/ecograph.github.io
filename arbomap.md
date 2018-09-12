@@ -3,7 +3,7 @@ layout: page
 title: ArboMAP
 subtitle: Arbovirus Mapping and Prediction to Forecast Mosuqito-Borne Disease Outbreaks
 bigimg: 
-  - "/img/IMG_1637.JPG" : "this is a comment"
+  - "/img/irrigation_SD.png" : "Irrigated hayfield in western SD"
 ---
 
 ## Project Description
