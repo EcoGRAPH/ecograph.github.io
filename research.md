@@ -3,32 +3,25 @@ title: Research
 subtitle: Our Projects
 projects-list:
   - name: EPIDEMIA
-    img: /img/Wimberly.jpg
+    img: /img/clinic_small.jpg
     desc: Malaria early warning in the Amhara region of Ethiopia
     website: https://ecograph.github.io/epidemia
     url: https://ecograph.github.io/epidemia
   - name: ArboMAP
-    img: /img/junk.jpg
+    img: /img/mosquito_small.JPG.jpg
     desc: West Nile virus surveillance and forecasting
     website: https://ecograph.github.io/arbomap
     url: https://ecograph.github.io/arbomap
   - name: Tropical Forest Degradation
-    img: /img/people/gabor-csardi.jpg
+    img: /img/people/forest_small.jpg
     desc: Monitoring forest landscape change in West Africa
     website: https://ecograph.github.io/degradation
     url: https://ecograph.github.io/degradation
   - name: CHANGE
-    img: /img/people/gabor-csardi.jpg
+    img: /img/people/wui_small.jpg
     desc: Integrated land use change and vegetation dynamics modeling
     website: https://ecograph.github.io/change
     url: https://ecograph.github.io/change
-  - name: OLUCNP
-    img: /img/people/gabor-csardi.jpg
-    desc: Postdoctoral Research Associate.
-    website: http://gaborcsardi.org/
-    url: http://gaborcsardi.org/
-    github: http://github.com/gaborcsardi
-    twitter: http://twitter.com/gaborcsardi
 ---
 
 ## Projects
