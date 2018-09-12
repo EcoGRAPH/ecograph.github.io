@@ -10,7 +10,13 @@ bigimg:
 
 The Upper Guinean Forests of West Africa are among the most vulnerable of the Earth’s tropical ecosystems to human-driven environmental change. They are considered climatically marginal, having the highest temperatures and longest dry seasons of all tropical forest systems worldwide. The region is also under enormous pressure from a rapidly growing human population and its demands for agricultural production as well as wood and other forest products. As a result, much of the original native forest cover has already been lost and the remnants are scattered in isolated fragments. Although Ghana has maintained a substantial area of closed canopy forest in a network of reserves, these reserves are at risk from illegal logging combined with agricultural encroachment and wildfires. The consequence is gradual forest degradation through a positive feedback loop of declining canopy cover and increasing fire frequency, leading to the establishment of fire-prone vegetation dominated by grasses and invasive shrubs
 
+![UG Forest Photo](/img/Bobiri_forest.jpg)<br/>
+*Closed canopy forest in the Bobiri Reserve, Ghana.*
+
 Given these threats, there is a need for more precise geospatial information about the amounts and spatial patterns of forest degradation along with projections of the likely effects of future climate and land use change. However, detecting the subtle changes associated with degradation presents a challenge for forest monitoring with satellite remote sensing. To address this challenge, we have developed the West Africa Forest Degradation Dataset (WAForDD), which uses all available imagery from the 18-year archive of Landsat 7 and Landsat 8 imagery in West Africa. We apply time series analysis to detect gradual forest degradation and recovery as well as sudden deforestation events. Our team is working with partners at the University of Ghana and the Forestry Commission of Ghana to derive annual estimates of emissions from degradation to in support or measurement, reporting, and validation for Ghana's REDD+ program.
+
+![WAForDD Map](/img/WAForDD_map.jpg)<br/>
+*West Africa Forest Degradation Dataset (WAForDD) Version 1.0, including current conditions, long-term trends, and disturbance anomalies based on the Normalized Different Fraction Index (NDFI).*
 
 ## Partner Organizations
 
