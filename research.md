@@ -19,7 +19,7 @@ projects-list:
     url: https://ecograph.github.io/degradation
   - name: CHANGE
     img: /img/people/gabor-csardi.jpg
-    desc: Integratied land use change and vegetation dynamics modeling
+    desc: Integrated land use change and vegetation dynamics modeling
     website: https://ecograph.github.io/change
     url: https://ecograph.github.io/change
   - name: OLUCNP
