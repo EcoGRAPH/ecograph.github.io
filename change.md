@@ -16,7 +16,7 @@ Climate change is having myriad effects on ecosystems worldwide, with natural an
 The CHANGE model simulates gridded landscapes classified into discrete land use and land cover (LULC) classes such as developed land, forest, shrubland, and cropland. Transitions between these LULC classes are modeled using a demand-allocation algorithm that was adapted from FOR-SCE. Naturally-vegetated LCLU classes are further divided into vegetation states that represent unique combinations of vegetation structure and species composition . Within these naturally-vegetated areas, succession is modeled deterministically using a state-and-transition model, and wildfires are modeled using a stochastic cellular fire spread algorithm derived from LADS. CHANGE also includes new components for explicitly modeling the human-natural interface (HNI) as a hybrid LULC class. Examples of the HNI include low-density housing in fire-prone forests in the western United States and small-scale agricultural encroachment into tropical forests in West Africa.
 
 ![CHANGE sample output](/img/Change_example.jpg)<br/>
-*Output of the CHANGE model with example of landscape changes in the Colorado Front Range: A) Wildland-urban interface expansion, B) Wildfire in the Wildland-urban interface, C) Expansion of the Wildland-urban interface, D) Wildfire outside of the wildland-urban interface.*
+*Output of the CHANGE model with examples of landscape change in the Colorado Front Range: A) Wildland-urban interface expansion, B) Wildfire in the Wildland-urban interface, C) Urban growth, and D) Wildfire outside of the wildland-urban interface.*
 
 ## Partner Organizations
 
