@@ -3,7 +3,7 @@ layout: page
 title: Tropical Forest Degradation
 subtitle: Monitoring forest landscape change in West Africa
 bigimg: 
-  - "/img/Kakum_Forest_2013.JPG" : "this is a comment"
+  - "/img/Degraded_Ghana_2013.JPG" : "Degraded Forest, Brong Ahafo Region of Ghana"
 ---
 
 ## Project Description
