@@ -20,8 +20,8 @@ projects-list:
   - name: CHANGE
     img: /img/people/gabor-csardi.jpg
     desc: Integratied land use change and vegetation dynamics modeling
-    website: https://ecograph.github.io/arbomap
-    url: https://ecograph.github.io/arbomap
+    website: https://ecograph.github.io/change
+    url: https://ecograph.github.io/change
   - name: OLUCNP
     img: /img/people/gabor-csardi.jpg
     desc: Postdoctoral Research Associate.
