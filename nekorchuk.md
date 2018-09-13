@@ -2,7 +2,7 @@
 layout: page
 title: ""
 bigimg: 
-  - "/img/Mike_HaymanFire_2014.JPG" : "this is a comment"
+  - "/img/bluesquare.JPG" : "this is a comment"
 ---
 
 # Dr. Dawn Nekorchuk
