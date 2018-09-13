@@ -2,7 +2,7 @@
 layout: page
 title: ""
 bigimg: 
-  - "/img/Mike_HaymanFire_2014.JPG" : "this is a comment"
+  - "/img/bluesquare.jpg" : "this is a comment"
 ---
 
 # Andrea Hess
