@@ -16,18 +16,18 @@ people-list:
   - name: Francis K. Dwomoh
     img: /img/Francis.jpg
     desc: Postdoctoral Research Associate.
-    website: https://ecograph.github.io/wimberly
-    url: https://ecograph.github.io/wimberly
+    website: https://ecograph.github.io/dwomoh
+    url: https://ecograph.github.io/dwomoh
   - name: Andrea Hess
     img: /img/Andrea.jpg
     desc: Graduate Research Assistant.
-    website: https://ecograph.github.io/wimberly
-    url: https://ecograph.github.io/wimberly
+    website: https://ecograph.github.io/hess
+    url: https://ecograph.github.io/hess
   - name: Dawn Nekorchuk
     img: /img/Dawn.jpg
     desc: Postdoctoral Research Associate.
-    website: https://ecograph.github.io/wimberly
-    url: https://ecograph.github.io/wimberly
+    website: https://ecograph.github.io/nekorchuk
+    url: https://ecograph.github.io/nekorchuk
 ---
 
 ## Current Group Members
