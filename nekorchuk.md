@@ -2,7 +2,7 @@
 layout: page
 title: ""
 bigimg: 
-  - "/img/bluesquare.JPG" : "this is a comment"
+  - "/img/bluesquare.jpg" : "this is a comment"
 ---
 
 # Dr. Dawn Nekorchuk
