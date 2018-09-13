@@ -11,8 +11,8 @@ people-list:
   - name: Justin K. Davis
     img: /img/Justin.jpg
     desc: Postdoctoral Research Associate.
-    website: https://ecograph.github.io/wimberly
-    url: https://ecograph.github.io/wimberly
+    website: https://ecograph.github.io/davis
+    url: https://ecograph.github.io/davis
   - name: Francis K. Dwomoh
     img: /img/Francis.jpg
     desc: Postdoctoral Research Associate.
