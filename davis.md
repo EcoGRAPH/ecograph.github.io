@@ -1,3 +1,10 @@
+---
+layout: page
+title: ""
+bigimg: 
+  - "/img/bluesquare.JPG" : "this is a comment"
+---
+
 # Dr. Justin Davis
 ## Postdoctoral Research Associate
 
