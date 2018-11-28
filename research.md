@@ -1,6 +1,6 @@
 ---
 title: Research
-subtitle: Our Projects
+subtitle: Our main areas of research
 projects-list:
   - name: EPIDEMIA
     img: /img/clinic_small.JPG
@@ -30,7 +30,5 @@ projects-list:
 ---
 
 ## Projects
-
-Our main areas of research
 
 {% include list-circles.html items=page.projects-list %}
