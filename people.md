@@ -1,6 +1,5 @@
 ---
 title: People
-subtitle: The humans behind this project
 people-list:
   - name: Michael C. Wimberly
     img: /img/Wimberly.jpg
