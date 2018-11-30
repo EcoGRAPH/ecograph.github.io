@@ -1,6 +1,5 @@
 ---
 title: Research
-subtitle: Our main areas of research
 projects-list:
   - name: EPIDEMIA
     img: /img/clinic_small.JPG
