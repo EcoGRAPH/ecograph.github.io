@@ -13,16 +13,17 @@ The prairies of North America are among the most threatened terrestrial ecosyste
 ![UG Forest Photo](/img/Bobiri_forest.JPG)<br/>
 *Closed canopy forest in the Bobiri Reserve, Ghana.*
 
-Given these threats, there is a need for more precise geospatial information about the amounts and spatial patterns of forest degradation along with projections of the likely effects of future climate and land use change. However, detecting the subtle changes associated with degradation presents a challenge for forest monitoring with satellite remote sensing. To address this challenge, we have developed the West Africa Forest Degradation Dataset (WAForDD), which uses all available imagery from the 18-year archive of Landsat 7 and Landsat 8 imagery in West Africa. We apply time series analysis to detect gradual forest degradation and recovery as well as sudden deforestation events. Our team is working with partners at the University of Ghana and the Forestry Commission of Ghana to derive annual estimates of emissions from degradation to in support or measurement, reporting, and validation for Ghana's REDD+ program.
+Our research group uses satellite remote sensing and geospatial analysis to measure the rates and spatial patterns of grassland loss throughout the region, and we also study the drivers and ecological impacts of these changes. We found that ??? ha of grassland in the western Corn Belt was lost between 2007-2011 (Wright and Wimberly, 2013). Although most of the converted grasslands were former croplands enrolled in the conservation reserve program, nearly 20% were undisturbed native grasslands (Wimberly et al. 2017). Larger farms, younger farm operators, higher levels of farm income, higher proportions of rented croplands, and marginal yields are associated with higher rates of cropland expansion and grassland conversion (Wimberly et al. 2017). in eastern South Dakota, the remaining native grasslands are highly fragmented, with major habitat concentations connected by narrow corridotrs of "stepping stone" patches (Wimberly et al. 2018). Current efforts are aimed at developing improved methods for monitoring native grassland loss and supporting grassland conservation planning.
 
 ![WAForDD Map](/img/WAForDD_map.jpg)<br/>
 *West Africa Forest Degradation Dataset (WAForDD) Version 1.0, including current conditions, long-term trends, and disturbance anomalies based on the Normalized Different Fraction Index (NDFI).*
 
 ## Partner Organizations
 
-* [Centre for Remote Sensing and Geographic Information Services](http://www.cersgis.org/)
-* [Forestry Commission of Ghana](http://www.fcghana.org/)
-* [SERVIR West Africa](https://servirglobal.net/Regions/West-Africa)
+* [David Hennessy, Michigan State University](https://www.canr.msu.edu/people/david_hennessy)
+* [Hongli Feng, Michigan State University](https://www.canr.msu.edu/people/hongli_feng)
+* [Peter Bauman, South Dakota State University](https://www.sdstate.edu/directory/peter-bauman)
+* [Marissa Ahlering, The Nature Conservancy](https://www.researchgate.net/profile/Marissa_Ahlering)
 
 ## Publications
 
