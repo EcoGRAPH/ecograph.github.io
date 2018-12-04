@@ -3,7 +3,7 @@ layout: page
 title: Agricultural Landscape Change
 subtitle: Cropland Expansion and Grassland Loss in the Central United States
 bigimg: 
-  - "/img/Degraded_Ghana_2013.JPG" : "Degraded Forest, Brong Ahafo Region of Ghana"
+  - "/img/CIMG3179.JPG" : "Pasture converted to cropland, South Dakota"
 ---
 
 ## Project Description
