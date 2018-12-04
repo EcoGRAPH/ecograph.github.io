@@ -27,8 +27,5 @@ Our research group uses satellite remote sensing and geospatial analysis to meas
 
 ## Publications
 
-* Dwomoh, F. K., and M. C. Wimberly. 2017. Fire regimes and forest resilience: alternative vegetation states in the West African tropics. Landscape Ecology 32: 1849-1865.
-* Dwomoh, F. K., and M. C. Wimberly. 2017. Fire regimes and their drivers in the Upper Guinean Region of West Africa. Remote Sensing 9: 1117.
-* Vogelmann, J. E., P. V. Khoa, D. X. Lan, J. Shermeyer, H. Shi, M. C. Wimberly, H. T. Duong, and L. V. Huong, L.V., 2017. Assessment of Forest Degradation in Vietnam Using Landsat Time Series Data. Forests, 8(7), 238.
-* Liu, Z., M. C. Wimberly, F. K Dwomoh. 2017. Vegetation dynamics in the Upper Guinean Forest region of West Africa from 2001 to 2015. Remote Sensing. 9(1): 5. 
+Need to add publication here
 
