@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agricultural Landscape Change
+title: Agricultural Land Systems
 subtitle: Cropland Expansion and Grassland Loss in the Central United States
 bigimg: 
   - "/img/CIMG3179.JPG" : "Pasture converted to cropland, South Dakota"
