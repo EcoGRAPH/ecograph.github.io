@@ -21,8 +21,8 @@ projects-list:
     desc: Integrated land use change and vegetation dynamics modeling
     website: https://ecograph.github.io/change
     url: https://ecograph.github.io/change
-  - name: Agricultural Landscape Change
-    img: /img/wui_small.JPG
+  - name: Agricultural Land Systems
+    img: /img/CIMG3179.JPG
     desc: Cropland expansion and grassland loss
     website: https://ecograph.github.io/agriculture
     url: https://ecograph.github.io/agriculture
