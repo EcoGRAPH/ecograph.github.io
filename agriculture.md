@@ -18,7 +18,7 @@ Our research group uses satellite remote sensing and geospatial analysis to meas
 ![Land Use Change Maps](/img/WEA17_F6SM.jpg)<br/>
 *land use change in eastern South Dakota from 2004 to 2014 expressed as (A–E) percent of farm operators making the land use change; and (F–J) acres of land-use change as a percent of the total farmland acres in 2014 (Wimberly et al. 2017).*
 
-## Partner Organizations
+## Collaborators
 
 * [David Hennessy, Michigan State University](https://www.canr.msu.edu/people/david_hennessy)
 * [Hongli Feng, Michigan State University](https://www.canr.msu.edu/people/hongli_feng)
