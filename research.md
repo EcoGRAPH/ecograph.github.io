@@ -22,7 +22,7 @@ projects-list:
     website: https://ecograph.github.io/change
     url: https://ecograph.github.io/change
   - name: Agricultural Land Systems
-    img: /img/CIMG3179.JPG
+    img: /img/grassland_conversion_2014_small.jpg
     desc: Cropland expansion and grassland loss
     website: https://ecograph.github.io/agriculture
     url: https://ecograph.github.io/agriculture
