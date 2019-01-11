@@ -4,6 +4,7 @@ title: Publications
 ---
 
 ### 2018
+* Hess, A., J. K. Davis, and M. C. Wimberly. 2018. Identifying environmental risk factors and mapping the distribution of West Nile virus in an endemic region of North America. GeoHealth 2: https://doi.org/10.1029/2018GH000161. 
 * Davis, J. K., G. P. Vincent, M. B. Hildreth, L. Kightlinger, C. Carlson, and M. C. Wimberly. 2018. [Improving the prediction of arbovirus outbreaks: a comparison of climate-driven models for West Nile virus in an endemic region of the United States](https://www.sciencedirect.com/science/article/pii/S0001706X18300512). Acta Tropica 185: 242-250.
 * Lin, Y., M. C. Wimberly, P. Da Rosa, J. Hoover, and W. F. Athas. 2018. [Geographic access to radiation therapy facilities and disparities of early-stage breast cancer treatment](https://geospatialhealth.net/index.php/gh/article/view/622). Geospatial Health 13:622.
 * Vincent, G. P., J. K. Davis, M. C. Wimberly, C. D. Carlson, and M. B. Hildreth. 2018. [Permethrin susceptibility for the vector *Culex tarsalis* and a nuisance mosquito *Aedes vexans* in an area endemic for West Nile virus](https://www.hindawi.com/journals/bmri/2018/2014764/). BioMed Research International, Article ID 2014746.
