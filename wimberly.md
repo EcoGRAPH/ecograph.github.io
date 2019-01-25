@@ -2,7 +2,7 @@
 layout: page
 title: ""
 bigimg: 
-  - "/img/Mike_field.JPG" : "this is a comment"
+  - "/img/Mike_field.JPG" : "Mosquito breeding habitat in Ethiopia"
 ---
 
 # Dr. Michael C. Wimberly
