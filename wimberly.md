@@ -99,12 +99,12 @@ Wimberly, M. C. T. L. Sohl, Z. Liu, and A. Lamsal. 2015. Simulating forest lands
 
 ### University Courses Taught
 
-## University of Oklahoma
+#### University of Oklahoma
 
 GIS 4453/5453 - Advanced GIS and Spatial Analysis (3 semester credits, lecture/lab)
 2019
 
-## South Dakota State University
+#### South Dakota State University
 
 GSE 743 – Geospatial Analysis (3 semester credits, lecture/lab)
 2007, 2008, 2010, 2012, 2013, 2015, 2017
@@ -118,7 +118,7 @@ GSE 792 – Special Topics: GIS Application in Ecology (3 semester credits, lect
 NRM 706 – Landscape Ecology (3 semester credits, lecture/lab
 2014, 2016
 
-## University of Georgia
+#### University of Georgia
 
 FORS 3910 – Spatial Information in Forest Resources (3 semester credits, lecture/lab)
 2002, 2003, 2004, 2005
@@ -136,7 +136,7 @@ FORS 8330 – Landscape Ecology (3 semester credits, lecture/lab/discussion)
 
 2003, 2004, 2005
 
-## Oregon State University
+#### Oregon State University
 
 FS 599 – Applied Landscape Ecology Seminar (2 quarter credits, lecture/lab/discussion)
 2000, 2001
