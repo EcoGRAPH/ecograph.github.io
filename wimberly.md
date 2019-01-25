@@ -19,13 +19,15 @@ Dr. Mike Wimberly is a Professor in the Department of Geography and Environmenta
 ### Curriculum Vitae - Mike Wimberly
 
 ### Project Information
-EPIDEMIA - Epidemic Prognosis Incorporating Disease and Environmental Monitoring for Integrated Assessment
+[EPIDEMIA - Malaria Early Warning in the Amhara Region of Ethiopoia](https://ecograph.github.io/epidemia)
 
-SDMIS - South Dakota Mosquito Information Systems for West Nile Virus Forecasting
+[ARBOMAP - West Nile Virus Surveillance and Forecasting](https://ecograph.github.io/arbomap)
 
-EASTWeb - Software to Aquire and Process Earth Science Data for Climate and Health Applications
+[Tropial Forest Degradation - Monitoring Landscape Change in West Africa](https://ecograph.github.io/degradation)
 
-REACH Dataset - Records for Epidemiological Applications in Climate and Health
+[CHANGE - Integrated Land Use and Vegetation Dynamics Modeling](https://ecograph.github.io/change)
+
+[Agricultural Land System - Cropland Expansion and Grassland Loss](https://ecograph.github.io/agriculture)
 
 ### Media Coverage
 
