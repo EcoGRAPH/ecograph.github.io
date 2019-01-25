@@ -29,13 +29,11 @@ REACH Dataset - Records for Epidemiological Applications in Climate and Health
 
 ### Media Coverage
 
-Tools for Forecasting Malaria Outbreaks - Bioscience
+[Tools for Forecasting Malaria Outbreaks - Bioscience](https://academic.oup.com/bioscience/article/67/11/1012/4557604)
 
-Mosquito Meets MODIS - NASA Video on West Nile Virus Forecasting
+[Mosquito Meets MODIS - NASA Video on West Nile Virus Forecasting](https://www.youtube.com/watch?v=ag-Zo0izSNg)
 
-Biofuels and Grassland Conversion - USA Today
-
-The Farmer and the Rancher - Agricultural Land Use in the Northern Great Plains
+[Biofuels and Grassland Conversion - USA Today](https://www.usatoday.com/story/news/nation/2014/05/01/ozy-bad-side-biofuel/8558385/)
 
 ### Recent Grants
 
