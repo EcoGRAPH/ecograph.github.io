@@ -99,6 +99,11 @@ Wimberly, M. C. T. L. Sohl, Z. Liu, and A. Lamsal. 2015. Simulating forest lands
 
 ### University Courses Taught
 
+University of Oklahoma
+
+GIS 4453/5453 - Advanced GIS and Spatial Analysis (3 semester credits, lecture/lab)
+2019
+
 South Dakota State University
 
 GSE 743 – Geospatial Analysis (3 semester credits, lecture/lab)
@@ -138,14 +143,16 @@ FS 599 – Applied Landscape Ecology Seminar (2 quarter credits, lecture/lab/dis
 
 ### Graduate Student Supervised
 
-Francis Dwomoh (In Progress)
-Ph.D. in Geospatial Science and Engineering, South Dakota State University
-
 Andrea Hess (In Progress)
 Ph.D. in Geospatial Science and Engineering, South Dakota State University
 
-Kyle Kaskie (In Progress)
+Francis Dwomoh (5/2018)
+Ph.D. in Geospatial Science and Engineering, South Dakota State University
+Dissertation: Vulnerability of Protected Areas to Human Encroachment, Climate Change and Fire in the Fragmented Tropical Forests of West Africa
+
+Kyle Kaskie (5/2018)
 M.S. in Biological Sciences, South Dakota State University
+Thesis: Mapping and Risk Assessment of Juniper Encroachment Into a Prairie Landscape
 
 Henok Alemu (5/2015)
 Ph.D. in Geospatial Science and Engineering, South Dakota State University
@@ -188,6 +195,8 @@ M.S. in Forest Biology, University of Georgia
 Thesis: Plant Community Dynamics Following Wildfire in the South Appalachians: Changes in Diversity at Multiple Spatial Scales.
 
 ### Postdoctoral Scholars Supervised
+
+Francis Dwomoh (2018-present)
 
 Dawn Nekorchuk (2017-present)
 
