@@ -3,6 +3,9 @@ layout: page
 title: Publications
 ---
 
+### 2019
+* Dwomoh, F. K., M. C. Wimberly, M. A. Cochrane, and I. Numata. 2019. [Forest degradation promotes fire during drought in moist tropical forests of Ghana](https://www.sciencedirect.com/science/article/pii/S0378112718321893). Forest Ecology and Management 440: 148-168.
+
 ### 2018
 * Hess, A., J. K. Davis, and M. C. Wimberly. 2018. Identifying environmental risk factors and mapping the distribution of West Nile virus in an endemic region of North America. GeoHealth 2: https://doi.org/10.1029/2018GH000161. 
 * Davis, J. K., G. P. Vincent, M. B. Hildreth, L. Kightlinger, C. Carlson, and M. C. Wimberly. 2018. [Improving the prediction of arbovirus outbreaks: a comparison of climate-driven models for West Nile virus in an endemic region of the United States](https://www.sciencedirect.com/science/article/pii/S0001706X18300512). Acta Tropica 185: 242-250.
