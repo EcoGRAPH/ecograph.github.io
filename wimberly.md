@@ -77,125 +77,88 @@ PI: M. C. Wimberly; Co-I: Y. Liu
 ### University Courses Taught
 
 #### University of Oklahoma
-
-GIS 4453/5453 - Advanced GIS and Spatial Analysis (3 semester credits, lecture/lab)
+* GIS 4453/5453 - Advanced GIS and Spatial Analysis (3 semester credits, lecture/lab)
 2019
-
 #### South Dakota State University
-
-GSE 743 – Geospatial Analysis (3 semester credits, lecture/lab)
+* GSE 743 – Geospatial Analysis (3 semester credits, lecture/lab)
 2007, 2008, 2010, 2012, 2013, 2015, 2017
-
-GSE 792 – Special Topics: Geospatial Analysis (3 semester credits, lecture/lab)
+* GSE 792 – Special Topics: Geospatial Analysis (3 semester credits, lecture/lab)
 2006
-
-GSE 792 – Special Topics: GIS Application in Ecology (3 semester credits, lecture/lab)
+* GSE 792 – Special Topics: GIS Application in Ecology (3 semester credits, lecture/lab)
 2009, 2011
-
-NRM 706 – Landscape Ecology (3 semester credits, lecture/lab
+* NRM 706 – Landscape Ecology (3 semester credits, lecture/lab
 2014, 2016
-
 #### University of Georgia
-
-FORS 3910 – Spatial Information in Forest Resources (3 semester credits, lecture/lab)
+* FORS 3910 – Spatial Information in Forest Resources (3 semester credits, lecture/lab)
 2002, 2003, 2004, 2005
-
-FORS 4730 – Senior Project (4 semester credits, lecture/discussion)
+* FORS 4730 – Senior Project (4 semester credits, lecture/discussion)
 2003
-
-FORS 5930 – Prescribed Fire in the Forest Ecosystem (2 semester credits, field class)
+* FORS 5930 – Prescribed Fire in the Forest Ecosystem (2 semester credits, field class)
 2002, 2003, 2004, 2005
-
-FORS 8000 – Landscape Ecology Seminar (2 semester credits, lecture/lab/discussion)
+* FORS 8000 – Landscape Ecology Seminar (2 semester credits, lecture/lab/discussion)
 2002
-
-FORS 8330 – Landscape Ecology (3 semester credits, lecture/lab/discussion)
-
+* FORS 8330 – Landscape Ecology (3 semester credits, lecture/lab/discussion)
 2003, 2004, 2005
-
 #### Oregon State University
-
-FS 599 – Applied Landscape Ecology Seminar (2 quarter credits, lecture/lab/discussion)
+* FS 599 – Applied Landscape Ecology Seminar (2 quarter credits, lecture/lab/discussion)
 2000, 2001
 
 ### Graduate Student Supervised
-
-Andrea Hess (In Progress)
+* Andrea Hess (In Progress)
 Ph.D. in Geospatial Science and Engineering, South Dakota State University
-
-Francis Dwomoh (5/2018)
+* Francis Dwomoh (5/2018)
 Ph.D. in Geospatial Science and Engineering, South Dakota State University
 Dissertation: Vulnerability of Protected Areas to Human Encroachment, Climate Change and Fire in the Fragmented Tropical Forests of West Africa
-
-Kyle Kaskie (5/2018)
+* Kyle Kaskie (5/2018)
 M.S. in Biological Sciences, South Dakota State University
 Thesis: Mapping and Risk Assessment of Juniper Encroachment Into a Prairie Landscape
-
-Henok Alemu (5/2015)
+* Henok Alemu (5/2015)
 Ph.D. in Geospatial Science and Engineering, South Dakota State University
 Dissertation: Contemporary Evapotranspiration Changes and Drivers in the Nile Basin.
-
-Alemayehu Midekisa (12/2014)
+* Alemayehu Midekisa (12/2014)
 Ph.D. in Geospatial Science and Engineering, South Dakota State University
 Dissertation: Integrating Multi-Sensor Satellite Data for Malaria Early Warning in the Amhara Region of Ethiopia.
-
-Aaron Friesz (8/2012)
+* Aaron Friesz (8/2012)
 M.S. in Geography, South Dakota State University
 Thesis: Effects of Bird Community Structure on West Nile Virus Incidence in the Northern Great Plains.
-
-Narayana Ganapathy (12/2011)
+* Narayana Ganapathy (12/2011)
 Ph.D. in Geospatial Science and Engineering, South Dakota State University
 Dissertation: Influences of Forest Roads on the Spatial Pattern of Modern Wildfire Regimes in the East Cascades of Washington State.
-
-Aashis Lamsal (8/2011)
+* Aashis Lamsal (8/2011)
 M.S. in Geography, South Dakota State University
 Thesis: Evaluating Geospatial Visualization Methods for West Nile Virus Risk Mapping.
-
-Stephen Boyte (8/2009)
+* Stephen Boyte (8/2009)
 M.S. in Geography, South Dakota State University
 Thesis: Modeling Fire Disturbance and Forest Structure Change in the Black Hills
-
-Jamie Manangan (12/2006)
+* Jamie Manangan (12/2006)
 M.S. in Wildlife Ecology and Management, University of Georgia
 Thesis: Spatial Analysis of the Distributions of Two Tick-Borne Bacteria, Anaplasma phagocytophilum and Ehrlichia chaffeensis, in the Mississippi Alluvial Valley.
-
-Darroc Goolsby (12/2005)
+* Darroc Goolsby (12/2005)
 M.S. in Forest Biology, University of Georgia
 Thesis: Patterns of Land Use and Succession in a Longleaf Pine Forest.
-
-Yangjian Zhang (5/2005)
+* Yangjian Zhang (5/2005)
 Ph.D. in Forest Resource Management, University of Georgia
 Dissertation: Identification of the Wildland-Urban Interface at Regional and Landscape Scales.
-
-Matthew Reilly (8/2004)
+* Matthew Reilly (8/2004)
 M.S. in Forest Biology, University of Georgia
 Thesis: Plant Community Dynamics Following Wildfire in the South Appalachians: Changes in Diversity at Multiple Spatial Scales.
 
 ### Postdoctoral Scholars Supervised
 
-Francis Dwomoh (2018-present)
-
-Dawn Nekorchuk (2017-present)
-
-Justin Davis (2016-present)
-
-Christopher Merkord (2014-2017)
+* Francis Dwomoh (2018-present)
+* Dawn Nekorchuk (2017-present)
+* Justin Davis (2016-present)
+* Christopher Merkord (2014-2017)
 Current Position: Assistant Professor, Minnesota State University Mankato
-
-Zhihua Liu (2012-2016)
+* Zhihua Liu (2012-2016)
 Current Position: Postdoctoral Scholar, University of Montana
-
-Ramu Sudhagoni (2012-2013)
+* Ramu Sudhagoni (2012-2013)
 Current Position: Assistant Professor, University of South Dakota
-
-Chris Wright (2011-2013)
+* Chris Wright (2011-2013)
 Current Position: Research Associate, Natural Resources Research Institute
-
-Ting-Wu Chuang (2009-2012)
+* Ting-Wu Chuang (2009-2012)
 Current Position: Assistant Professor, Taipei Medical University
-
-Aki Michimi (2008-2011)
+* Aki Michimi (2008-2011)
 Current Position: Adjunct Professor, Eastern Connecticut State University
-
-Mirela Tulbure (2008-2010)
+* Mirela Tulbure (2008-2010)
 Current Position: Senior Lecturer, University of New South Wales
