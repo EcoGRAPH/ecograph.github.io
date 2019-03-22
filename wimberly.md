@@ -19,23 +19,23 @@ Dr. Mike Wimberly is a Professor in the Department of Geography and Environmenta
 ### Curriculum Vitae - Mike Wimberly
 
 ### Project Information
-[EPIDEMIA - Malaria Early Warning in the Amhara Region of Ethiopoia](https://ecograph.github.io/epidemia)
+* [EPIDEMIA - Malaria Early Warning in the Amhara Region of Ethiopoia](https://ecograph.github.io/epidemia)
 
-[ARBOMAP - West Nile Virus Surveillance and Forecasting](https://ecograph.github.io/arbomap)
+* [ARBOMAP - West Nile Virus Surveillance and Forecasting](https://ecograph.github.io/arbomap)
 
-[Tropial Forest Degradation - Monitoring Landscape Change in West Africa](https://ecograph.github.io/degradation)
+* [Tropial Forest Degradation - Monitoring Landscape Change in West Africa](https://ecograph.github.io/degradation)
 
-[CHANGE - Integrated Land Use and Vegetation Dynamics Modeling](https://ecograph.github.io/change)
+* [CHANGE - Integrated Land Use and Vegetation Dynamics Modeling](https://ecograph.github.io/change)
 
-[Agricultural Land System - Cropland Expansion and Grassland Loss](https://ecograph.github.io/agriculture)
+* [Agricultural Land System - Cropland Expansion and Grassland Loss](https://ecograph.github.io/agriculture)
 
 ### Media Coverage
 
-[Tools for Forecasting Malaria Outbreaks - Bioscience](https://academic.oup.com/bioscience/article/67/11/1012/4557604)
+* [Tools for Forecasting Malaria Outbreaks - Bioscience](https://academic.oup.com/bioscience/article/67/11/1012/4557604)
 
-[Mosquito Meets MODIS - NASA Video on West Nile Virus Forecasting](https://www.youtube.com/watch?v=ag-Zo0izSNg)
+* [Mosquito Meets MODIS - NASA Video on West Nile Virus Forecasting](https://www.youtube.com/watch?v=ag-Zo0izSNg)
 
-[Biofuels and Grassland Conversion - USA Today](https://www.usatoday.com/story/news/nation/2014/05/01/ozy-bad-side-biofuel/8558385/)
+* [Biofuels and Grassland Conversion - USA Today](https://www.usatoday.com/story/news/nation/2014/05/01/ozy-bad-side-biofuel/8558385/)
 
 ### Recent Grants
 
