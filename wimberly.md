@@ -32,9 +32,9 @@ Dr. Mike Wimberly is a Professor in the Department of Geography and Environmenta
 * [Biofuels and Grassland Conversion - USA Today](https://www.usatoday.com/story/news/nation/2014/05/01/ozy-bad-side-biofuel/8558385/)
 
 ### Professional Service
-Communications and Outreach Committee Co-Chair - GeoHealth Section, American Geophysical Union
-Associate Editor - Transactions of the Royal Society of Tropical Medicine and Hygiene
-Scientific Program Committee Member - American Society of Tropical Medicine and Hygiene
+* Communications and Outreach Committee Co-Chair - GeoHealth Section, American Geophysical Union
+* Associate Editor - Transactions of the Royal Society of Tropical Medicine and Hygiene
+* Scientific Program Committee Member - American Society of Tropical Medicine and Hygiene
 
 ### Recent Grants
 
