@@ -14,7 +14,7 @@ bigimg:
 - Ph.D., Forest Ecology, Oregon State University
 
 ### Research Interests
-Dr. Mike Wimberly is a Professor in the Department of Geography and Environmental Sustainability at the University of Oklahoma and the head of the EcoGRAPH research group. His research combines ecological models with earth observation data to address research questions and create practical applications in the fields of public health and natural resource management. He studies the interactions between wildfire and vegetation dynamics in temperate and tropical forest ecosystems, agricultural expansion and the resulting fragmentation of native forests and grasslands, and the effects of land use and climate  on vector-borne disease transmission. Dr. Wimberly has applied the results of his research to build novel geoinformatics platforms that use satellite remote sensing to predict West Nile virus outbreaks in the United States and malaria in the highlands of East Africa. He has also created a satellite-based monitoring system to track forest degradation in tropical West Africa and developed spatial simulation models to project future landscapes under scenarios of global change. 
+Dr. Mike Wimberly is a Professor in the Department of Geography and Environmental Sustainability at the University of Oklahoma and the head of the EcoGRAPH research group. His research combines ecological models with Earth observation data to address scientific questions and create practical applications in the fields of public health and natural resource management. He studies the interactions between wildfire and vegetation dynamics in temperate and tropical forest ecosystems, agricultural expansion and the resulting fragmentation of native forests and grasslands, and the effects of land use and climate  on vector-borne disease transmission. Dr. Wimberly uses the results of this to build novel geoinformatics platforms that apply satellite remote sensing for decision support. He has developed disease early warning systems to predict West Nile virus outbreaks in the United States and malaria in Ethiopia, used Earth observations to monitor forest degradation in tropical West Africa, and designed spatial simulation models to project future landscapes under scenarios of global change. 
 
 ### Curriculum Vitae - Mike Wimberly
 
@@ -23,13 +23,18 @@ Dr. Mike Wimberly is a Professor in the Department of Geography and Environmenta
 * [ARBOMAP - West Nile Virus Surveillance and Forecasting](https://ecograph.github.io/arbomap)
 * [Tropial Forest Degradation - Monitoring Landscape Change in West Africa](https://ecograph.github.io/degradation)
 * [CHANGE - Integrated Land Use and Vegetation Dynamics Modeling](https://ecograph.github.io/change)
-* [Agricultural Land System - Cropland Expansion and Grassland Loss](https://ecograph.github.io/agriculture)
+* [Agricultural Land Systems - Cropland Expansion and Grassland Loss](https://ecograph.github.io/agriculture)
 
 ### Media Coverage
 
 * [Tools for Forecasting Malaria Outbreaks - Bioscience](https://academic.oup.com/bioscience/article/67/11/1012/4557604)
 * [Mosquito Meets MODIS - NASA Video on West Nile Virus Forecasting](https://www.youtube.com/watch?v=ag-Zo0izSNg)
 * [Biofuels and Grassland Conversion - USA Today](https://www.usatoday.com/story/news/nation/2014/05/01/ozy-bad-side-biofuel/8558385/)
+
+### Professional Service
+Communications and Outreach Committee Co-Chair - GeoHealth Section, American Geophysical Union
+Associate Editor - Transactions of the Royal Society of Tropical Medicine and Hygiene
+Scientific Program Committee Member - American Society of Tropical Medicine and Hygiene
 
 ### Recent Grants
 
