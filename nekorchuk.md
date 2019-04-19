@@ -8,7 +8,6 @@ bigimg:
 # Dr. Dawn Nekorchuk
 ### Postdoctoral Research Associate
 Follow on twitter [@nekodawn](https://twitter.com/nekodawn) or on [linkedin](https://www.linkedin.com/in/dawnnekorchuk/)  
-<img src="img/Dawn.jpg" alt="picture of Dawn Nekorchuk" width="150"/>
 
 
 ### Education
