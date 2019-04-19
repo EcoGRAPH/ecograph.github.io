@@ -17,8 +17,8 @@ EPIDEMIA is being developed and implemented by an interdisciplinary team that in
 
 This research is funded by a grant from the National Institutes of Health, National Institute of Allergy and Infectious Diseases (R01AI079411). Development of software for acquisition and processing of earth observation data has also been supported by NASA (NNX11AF67G).
 
-![EPIDEMIA forecast graph](/img/epidemia_forecast_graph.jpg)<br/>
-*Malaria forecast for Abargelie Woreda, Waghimira Zone, for week 39 of 2016 (Merkord et al. 2017).*
+![EPIDEMIA forecast graph](/img/EPIDEMIA_forecasts_22MAR2019.png)<br/>
+*Malaria forecast for Shew Robit, North Shewa Zone, for week 30 of 2016.*
 
 ## Partner Organizations
 
