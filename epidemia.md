@@ -3,7 +3,7 @@ layout: page
 title: EPIDEMIA
 subtitle: Malaria early warning in the Amhara region of Ethiopia
 bigimg: 
-  - "/img/IMG_1637.JPG" : "this is a comment"
+  - "/img/IMG_1637.JPG" : "Woreta Town Health Center, Amhara Region of Ethiopia"
 ---
 
 ## Project Description
