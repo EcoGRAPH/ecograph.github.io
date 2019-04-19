@@ -27,6 +27,10 @@ This research is funded by a grant from the National Institutes of Health, Natio
 * [Health, Development, and Anti-Malaria Association](http://www.hdama.org/)
 * [Bahir Dar University](http://www.bdu.edu.et/)
 
+## Software and Other Resources
+* [epidemiar - R package for disease modeling, forecasting, and early detection](https://github.com/EcoGRAPH/epidemiar)
+* [epidemiar-demo - Demo implementation of epidemiar for malaria forecasting in Ethiopia](https://github.com/EcoGRAPH/epidemiar-demo)
+
 ## Publications
 
 * Merkord, C. L., Y. Liu, A. Mihretie, T. Gebrehiwot, W. Awoke, E. Bayabil, G. M. Henebry, G. T. Kassa, M. Lake, and M. C. Wimberly. 2017. Integrating malaria surveillance with climate data for outbreak detection and forecasting: the EPIDEMIA system. Malaria Journal 16:89.
