@@ -7,7 +7,7 @@ bigimg:
 
 # Dr. Dawn Nekorchuk
 ## Postdoctoral Research Associate
-Follow on twitter [\@nekodawn](https://twitter.com/nekodawn) or on [linkedin](https://www.linkedin.com/in/dawnnekorchuk/)
+Follow on twitter [@nekodawn](https://twitter.com/nekodawn) or on [linkedin](https://www.linkedin.com/in/dawnnekorchuk/)
 
 ### Education
 * Ph.D. in Geography (Medical Geography) and Certificate in One Health, University of Florida
