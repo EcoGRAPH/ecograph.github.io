@@ -19,7 +19,7 @@ people-list:
     url: https://ecograph.github.io/dwomoh
   - name: Andrea Hess
     img: /img/Andrea.jpg
-    desc: Graduate Research Assistant.
+    desc: Graduate Research Assistant (Ph.D.).
     website: https://ecograph.github.io/hess
     url: https://ecograph.github.io/hess
   - name: Dawn Nekorchuk
@@ -27,6 +27,11 @@ people-list:
     desc: Postdoctoral Research Associate.
     website: https://ecograph.github.io/nekorchuk
     url: https://ecograph.github.io/nekorchuk
+  - name: Dillon Haller
+    img: /img/Dillon.jpg
+    desc: Undergraduate Research Assistant.
+    website: 
+    url:     
 ---
 
 ## Current Group Members
