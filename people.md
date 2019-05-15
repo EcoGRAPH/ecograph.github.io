@@ -31,6 +31,11 @@ people-list:
     img: /img/Dillon.jpg
     desc: Undergraduate Research Assistant.
     website: 
+    url:  
+  - name: Micala Newland
+    img: /img/Micala.jpg
+    desc: Undergraduate Research Assistant.
+    website: 
     url:     
 ---
 
