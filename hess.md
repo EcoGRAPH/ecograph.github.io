@@ -2,7 +2,7 @@
 layout: page
 title: ""
 bigimg: 
-  - "/img/bluesquare.jpg" : "this is a comment"
+  - "/img/trap.jpg" : "trapping mosquitoes"
 ---
 
 # Andrea Hess
