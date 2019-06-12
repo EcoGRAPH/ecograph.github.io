@@ -9,13 +9,7 @@ Tuesday June 18th at 6 pm. Oklahoma City County Health Department, 2700 NE 64rd 
 
 Wednesday June 19th at 6 pm. National Weather Center 120 David L Boren Blvd, Norman OK
 
-If you are interested in participating, please see the following website:
-
-https://observer.globe.gov/do-globe-observer/challenges/go-oklahoma
-
-And fill in the following form to receive information and updates:
-
-https://docs.google.com/forms/d/e/1FAIpQLScivjpr82Z8LMj1BZJQ5794IVhm6Q_N3xzv1-2lR-89scnTHA/viewform
+If you are interested in participating, please [visit our website](https://observer.globe.gov/do-globe-observer/challenges/go-oklahoma) and [fill in this  form to sign up](https://docs.google.com/forms/d/e/1FAIpQLScivjpr82Z8LMj1BZJQ5794IVhm6Q_N3xzv1-2lR-89scnTHA/viewform) and receive information and updates:
 
 Thanks - we hope to see you at one of the meetings!
 
