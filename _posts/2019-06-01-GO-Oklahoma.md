@@ -19,4 +19,4 @@ https://docs.google.com/forms/d/e/1FAIpQLScivjpr82Z8LMj1BZJQ5794IVhm6Q_N3xzv1-2l
 
 Thanks - we hope to see you at one of the meetings!
 
-![Bahir Dar Workshop](/img/EPIDEMIA_Workshop_2018.jpg)
+![GO Oklahoma](/img/GO OK.png)
