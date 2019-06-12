@@ -1,8 +1,22 @@
 ---
 layout: post
-title: EPIDEMIA Workshop
+title: GO Oklahoma! Citizen Science Opportunities for Mosquito Monitoring
 ---
 
-Members of the EcoGRAPH research team presented a workshop on spatial informatics tools for malaria early warning at Bahir Dar University in Ethiopia. Topics covered included basic data manipulation and graphics in the R language and environment, and the epidemiar package for generating malaria early warning forecasts. The workshop was led by Dr. Mike Wimberly, Dr. Dawn Nekorchuk, and Andrea Hess from OU. Participants were from Bahir Dar University, the Amhara Regional Health Bureau, and the Health, Development and Anti-Malaria Association. Thanks for everybody for helping to make this workshop a great success!
+The EcoGRAPH research team is partnering with Southern Nazarene University and the NASA Globe Program to bring a new citizen science opportunity to Oklahoma! We are recruiting citizen scientists of all ages who are interested in contributing to our understanding of mosquito biology and ecology and want to help make Oklahoma safe from mosquito-borne disease. Volunteer scientists will use make observations around their homes and use NASA’s GLOBE Observer (GO) free mobile app to contribute their observations. Organizational meetings will be held at the following times and locations:
+
+Tuesday June 18th at 6 pm. Oklahoma City County Health Department, 2700 NE 64rd St, Oklahoma City OK
+
+Wednesday June 19th at 6 pm. National Weather Center 120 David L Boren Blvd, Norman OK
+
+If you are interested in participating, please see the following website:
+
+https://observer.globe.gov/do-globe-observer/challenges/go-oklahoma
+
+And fill in the following form to receive information and updates:
+
+https://docs.google.com/forms/d/e/1FAIpQLScivjpr82Z8LMj1BZJQ5794IVhm6Q_N3xzv1-2lR-89scnTHA/viewform
+
+Thanks - we hope to see you at one of the meetings!
 
 ![Bahir Dar Workshop](/img/EPIDEMIA_Workshop_2018.jpg)
