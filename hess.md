@@ -14,7 +14,7 @@ bigimg:
 * B.Sc in Geography, University of Bayreuth, Germany
 
 ### Research Interests
-Spatial Epidemiology, Ecological Modeling, Global Change
+Vector borne diseases, landscape ecology, remote sensing, geohealth, global change
 
 ### Publications
 
