@@ -22,6 +22,11 @@ people-list:
     desc: Graduate Research Assistant (Ph.D.).
     website: https://ecograph.github.io/hess
     url: https://ecograph.github.io/hess
+  - name: Avery Taylor
+    img: /img/Andrea.jpg
+    desc: Graduate Research Assistant (M.S.).
+    website: https://ecograph.github.io/taylor
+    url: https://ecograph.github.io/taylor
   - name: Dawn Nekorchuk
     img: /img/Dawn.jpg
     desc: Postdoctoral Research Associate.
