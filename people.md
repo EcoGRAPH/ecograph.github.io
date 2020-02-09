@@ -18,7 +18,7 @@ people-list:
     website: https://ecograph.github.io/hess
     url: https://ecograph.github.io/hess
   - name: Avery Taylor
-    img: /img/avery_taylor.jpg
+    img: /img/avery_taylor2.jpg
     desc: Graduate Research Assistant (M.S.).
     website: https://ecograph.github.io/taylor
     url: https://ecograph.github.io/taylor
@@ -47,7 +47,7 @@ people-list:
 
 ### Postdocs
 
-[Francis Dwomoh (2018-2019)](https://ecograph.github.io/dwomoh)
+[Francis Dwomoh (2018-2019)](https://ecograph.github.io/dwomoh)<br/>
 Current Position: Research Scientist, USGS Center for Earth Resoruces Observation and Science (EROS)
 
 Christopher Merkord (2014-2017)<br/>
