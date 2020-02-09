@@ -12,11 +12,6 @@ people-list:
     desc: Postdoctoral Research Associate.
     website: https://ecograph.github.io/davis
     url: https://ecograph.github.io/davis
-  - name: Francis K. Dwomoh
-    img: /img/Francis.jpg
-    desc: Postdoctoral Research Associate.
-    website: https://ecograph.github.io/dwomoh
-    url: https://ecograph.github.io/dwomoh
   - name: Andrea Hess
     img: /img/Andrea.jpg
     desc: Graduate Research Assistant (Ph.D.).
@@ -52,7 +47,7 @@ people-list:
 
 ### Postdocs
 
-Francis Dwomoh (2018-2019)
+[Francis Dwomoh (2018-2019)](https://ecograph.github.io/dwomoh)
 Current Position: Research Scientist, USGS Center for Earth Resoruces Observation and Science (EROS)
 
 Christopher Merkord (2014-2017)<br/>
