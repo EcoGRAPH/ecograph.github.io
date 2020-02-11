@@ -9,8 +9,8 @@ bigimg:
 ## M.S. Student, Graduate Research Assistant
 
 ### Education
-- Bachelor's Degree
+- B.S. Environmental Science, University of Central Arkansas
 
 ### Research Interests
-Geographic information systems, 
+Geographic information systems, natural resource management, conservation biology
 
