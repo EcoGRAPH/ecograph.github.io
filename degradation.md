@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tropical Forest Degradation
-subtitle: Monitoring forest landscape change in West Africa
+title: Tropical Forest Landscapes
+subtitle: Climate, disturbance, and forest dynamics in West Africa
 bigimg: 
   - "/img/Degraded_Ghana_2013.JPG" : "Degraded Forest, Brong Ahafo Region of Ghana"
 ---
