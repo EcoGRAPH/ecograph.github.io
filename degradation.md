@@ -24,6 +24,12 @@ Given these threats, there is a need for more precise geospatial information abo
 * [Forestry Commission of Ghana](http://www.fcghana.org/)
 * [SERVIR West Africa](https://servirglobal.net/Regions/West-Africa)
 
+## Data and Software
+
+* WAForDD GEE App - Visualize forest change data and download summaries
+* WaForDD GEE Code Archive
+* WAForDD User Guide
+
 ## Publications
 
 * Dwomoh, F. K., M. C. Wimberly, M. A. Cochrane, and I. Numata. 2019. Forest degradation promotes fire during drought in moist tropical forests of Ghana. Forest Ecology and Management 440: 158-158.
