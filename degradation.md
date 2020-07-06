@@ -26,8 +26,8 @@ Given these threats, there is a need for more precise geospatial information abo
 
 ## Data and Software
 
-* WAForDD GEE App - Visualize forest change data and download summaries
-* WaForDD GEE Code Archive
+* [WAForDD GEE App - Visualize forest change data and download summaries](https://mcwimberly.users.earthengine.app/view/wafordd21)
+* [WaForDD GEE Code Archive](https://code.earthengine.google.com/?accept_repo=users/servir_wa/WAforDD)
 * WAForDD User Guide
 
 ## Publications
