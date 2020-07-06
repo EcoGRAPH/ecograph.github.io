@@ -16,7 +16,7 @@ The Upper Guinean Forests of West Africa are among the most vulnerable of the Ea
 Given these threats, there is a need for more precise geospatial information about the amounts and spatial patterns of forest degradation along with projections of the likely effects of future climate and land use change. However, detecting the subtle changes associated with degradation presents a challenge for forest monitoring with satellite remote sensing. To address this challenge, we have developed the West Africa Forest Degradation Dataset (WAForDD), which uses all available imagery from the 18-year archive of Landsat 7 and Landsat 8 imagery in West Africa. We apply time series analysis to detect gradual forest degradation and recovery as well as sudden deforestation events. Our team is working with partners at the University of Ghana and the Forestry Commission of Ghana to estimate emissions from degradation in support of measurement, reporting, and validation for Ghana's REDD+ program.
 
 ![WAForDD Map](/img/tano_offin_timeseries_v2.jpg)<br/>
-*Forest change maps from the West Africa Forest Degradation Data system (WAForDD) Version 2.1. The maps show the Desiri, Tano Offin, and Tano Offin Extension reserves. *
+*Forest change maps from the West Africa Forest Degradation Data system (WAForDD) Version 2.1. The maps show the Desiri, Tano Offin, and Tano Offin Extension reserves.*
 
 ## Partner Organizations
 
