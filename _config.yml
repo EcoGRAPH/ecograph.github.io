@@ -27,6 +27,7 @@ num_latest_news_to_show: 3
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
+  Software: "software"
   News: "news"
   People: "people"
   Publications: "publications"
