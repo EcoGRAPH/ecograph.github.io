@@ -20,10 +20,7 @@ We used spatial statistics to analyze data county-level data from the Behavioral
 
 ## Publications
 
-* Dwomoh, F. K., M. C. Wimberly, M. A. Cochrane, and I. Numata. 2019. Forest degradation promotes fire during drought in moist tropical forests of Ghana. Forest Ecology and Management 440: 158-158.
-* Dwomoh, F. K., and M. C. Wimberly. 2017. Fire regimes and forest resilience: alternative vegetation states in the West African tropics. Landscape Ecology 32: 1849-1865.
-* Dwomoh, F. K., and M. C. Wimberly. 2017. Fire regimes and their drivers in the Upper Guinean Region of West Africa. Remote Sensing 9: 1117.
-* Vogelmann, J. E., P. V. Khoa, D. X. Lan, J. Shermeyer, H. Shi, M. C. Wimberly, H. T. Duong, and L. V. Huong, L.V., 2017. Assessment of Forest Degradation in Vietnam Using Landsat Time Series Data. Forests, 8(7), 238.
-* Liu, Z., M. C. Wimberly, F. K Dwomoh. 2017. Vegetation dynamics in the Upper Guinean Forest region of West Africa from 2001 to 2015. Remote Sensing. 9(1): 5. 
-
-
+* Michimi, A., and M. C. Wimberly. 2015. Food environment and adult obesity in US metropolitan areas. Geospatial Health 10: 368.
+* Michimi, A., and M. C. Wimberly. 2012. Natural environments, obesity, and physical activity in nonmetropolitan areas of the United States. Journal of Rural Health 28: 398-407.
+* Michimi, A., and M. C. Wimberly. 2010a. Spatial patterns of obesity and associated risk factors in the conterminous U.S. American Journal of Preventive Medicine 39: e1-12.
+* Michimi, A., and M. C. Wimberly. 2010b. Associations of supermarket accessibility with obesity and fruit and vegetable consumption in the conterminous United States. International Journal of Health Geographics 9: 49.
