@@ -27,14 +27,11 @@ This research is funded by a grant from the National Institutes of Health, Natio
 
 ## Partner Organizations
 
-* [South Dakota State University](https://www.sdstate.edu/)
+* [Ethiopian Public Health Institute](https://www.ephi.gov.et)
+* [President's Malaria Initiative (PMI)](https://www.pmi.gov)
 * [Amhara Regional Health Bureau](http://www.moh.gov.et/da/web/guest/amhara-regional-health-bureau)
 * [Health, Development, and Anti-Malaria Association](http://www.hdama.org/)
 * [Bahir Dar University](http://www.bdu.edu.et/)
-
-## Software and Other Resources
-* [epidemiar - R package for disease modeling, forecasting, and early detection](https://github.com/EcoGRAPH/epidemiar)
-* [epidemiar-demo - Demo implementation of epidemiar for malaria forecasting in Ethiopia](https://github.com/EcoGRAPH/epidemiar-demo)
 
 ## Publications
 
