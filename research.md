@@ -1,11 +1,11 @@
 ---
 title: Research
 projects-list:
-  - name: EPIDEMIA
+  - name: Malaria Epidemiology
     img: /img/clinic_small.JPG
-    desc: Malaria early warning in the Amhara region of Ethiopia
-    website: https://ecograph.github.io/epidemia
-    url: https://ecograph.github.io/epidemia
+    desc: Climate variation and malaria outbreaks in Ethiopia
+    website: https://ecograph.github.io/malaria
+    url: https://ecograph.github.io/malaria
   - name: ArboMAP
     img: /img/mosquito_small.jpg
     desc: West Nile virus surveillance and forecasting
