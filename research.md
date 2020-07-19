@@ -27,7 +27,7 @@ projects-list:
     website: https://ecograph.github.io/agriculture
     url: https://ecograph.github.io/agriculture
   - name: Obesity in the United States
-    img: /img/wui_small.JPG
+    img: /img/fruits_vegetables_small.jpg
     desc: Influences of physical and social environments
     website: https://ecograph.github.io/obesity
     url: https://ecograph.github.io/obesity
