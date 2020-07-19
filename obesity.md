@@ -3,7 +3,7 @@ layout: page
 title: Obesity in the United States
 subtitle: Influences of build and natural environments
 bigimg: 
-  - "/img/Degraded_Ghana_2013.JPG" : "Degraded Forest, Brong Ahafo Region of Ghana"
+  - "/img/fruits_vegetables.jpg" : "Supermarket fruits and vegetables"
 ---
 
 ## Project Description
