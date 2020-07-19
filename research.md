@@ -26,6 +26,11 @@ projects-list:
     desc: Cropland expansion and grassland loss
     website: https://ecograph.github.io/agriculture
     url: https://ecograph.github.io/agriculture
+  - name: Obesity in the United States
+    img: /img/grassland_conversion_2014_small.JPG
+    desc: Influences of physical and social environments
+    website: https://ecograph.github.io/obesity
+    url: https://ecograph.github.io/obesity
 ---
 
 ## Projects
