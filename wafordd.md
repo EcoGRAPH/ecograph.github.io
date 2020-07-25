@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Tropical Forest Landscapes
-subtitle: Climate, disturbance, and forest dynamics in West Africa
+title: WAForDD
+subtitle: West Africa Forest Degradation Data System
 bigimg: 
   - "/img/Degraded_Ghana_2013.JPG" : "Degraded Forest, Brong Ahafo Region of Ghana"
 ---
 
 ## Project Description
 
-The Upper Guinean Forests of West Africa are among the most vulnerable of the Earth’s tropical ecosystems to human-driven environmental change. They are considered climatically marginal, having the highest temperatures and longest dry seasons of all tropical forest systems worldwide. The region is also under enormous pressure from a rapidly growing human population and its demands for agricultural production as well as wood and other forest products. As a result, much of the original native forest cover has already been lost and the remnants are scattered in isolated fragments. Although Ghana has maintained a substantial area of closed canopy forest in a network of reserves, these reserves are at risk from illegal logging combined with agricultural encroachment and wildfires. The consequence is gradual forest degradation through a positive feedback loop of declining canopy cover and increasing fire frequency, leading to the establishment of fire-prone vegetation dominated by grasses and invasive shrubs
+The West Africa Forest Degradation Data system (WAForDD) was developed to provide annual estimates of canopy cover change in the forest reserves of Ghana. The system uses a historical Landsat imagery to generate a time series of canopy cover from 2001-present along with disturbance and recovery rates from 2003-present. Canopy cover is estimated using a random forests machine learning algorithm and extensive training and validation datasets derived from very-high resolution satellite imagery. The LandTrendr temporal segmentation is then applied to the canopy cover time series for each pixel to distinguish forest disturbance and recovery from periods of relative stability. We found that thsi approach can detect forest degradation that results in partial canopy removal as well as complete forest loss and post-disturbance recovery. Canopy cover remained relatively stable in protected areas such as National Parks, but was reduced by forest degradation and loss from logging, fire, illegal mining, and agricultural encroachment in many of the other forest reserves. 
 
 ![UG Forest Photo](/img/Bobiri_forest_v2.jpg)<br/>
 *Closed canopy forest in the Bobiri Reserve, Ghana.*
 
-Given these threats, there is a need for more precise geospatial information about the amounts and spatial patterns of forest degradation along with projections of the likely effects of future climate and land use change. However, detecting the subtle changes associated with degradation presents a challenge for forest monitoring with satellite remote sensing. To address this challenge, we have developed the West Africa Forest Degradation Dataset (WAForDD), which uses all available imagery from the 18-year archive of Landsat 7 and Landsat 8 imagery in West Africa. We apply time series analysis to detect gradual forest degradation and recovery as well as sudden deforestation events. Our team is working with partners at the University of Ghana and the Forestry Commission of Ghana to estimate emissions from degradation in support of measurement, reporting, and validation for Ghana's REDD+ program.
+WAForDD was impelemented using Google Earth Engine (GEE), a cloud-based platform for geospatial analysis that provides access to the Landsat archive as well as many other Earth observation datasets. A major goal of the WAForDD project was to develop a system that could be transferred to partner organizations in Ghana for sustainable implementation. GEE enables this objective by providing access to data and code through via a web-based intergrated development environment eliminating the need to download, store, and process large volumes of remote sensing imagery. We also developed a stand-along web application to facilitate data visualization and summarization. GEE programmers can explore the  code archive and read the project documentation for more detailed information. Those wishing to explore the annual change data in more detail should use the WAForDD GEE App.
 
 ![WAForDD Map](/img/tano_offin_timeseries_v2.jpg)<br/>
 *Forest change maps from the West Africa Forest Degradation Data system (WAForDD) Version 2.1. The maps show the Desiri, Tano Offin, and Tano Offin Extension reserves.*
@@ -29,11 +29,3 @@ Given these threats, there is a need for more precise geospatial information abo
 * [WAForDD GEE App - Visualize forest change data and download summaries](https://mcwimberly.users.earthengine.app/view/wafordd21)
 * [WaForDD GEE Code Archive (GEE account required)](https://code.earthengine.google.com/?accept_repo=users/servir_wa/WAforDD)
 * [WAForDD User Guide](/docs/WAFORDD_User_Guide_28FEB2020.pdf)
-
-## Publications
-
-* Dwomoh, F. K., M. C. Wimberly, M. A. Cochrane, and I. Numata. 2019. Forest degradation promotes fire during drought in moist tropical forests of Ghana. Forest Ecology and Management 440: 158-158.
-* Dwomoh, F. K., and M. C. Wimberly. 2017. Fire regimes and forest resilience: alternative vegetation states in the West African tropics. Landscape Ecology 32: 1849-1865.
-* Dwomoh, F. K., and M. C. Wimberly. 2017. Fire regimes and their drivers in the Upper Guinean Region of West Africa. Remote Sensing 9: 1117.
-* Vogelmann, J. E., P. V. Khoa, D. X. Lan, J. Shermeyer, H. Shi, M. C. Wimberly, H. T. Duong, and L. V. Huong, L.V., 2017. Assessment of Forest Degradation in Vietnam Using Landsat Time Series Data. Forests, 8(7), 238.
-* Liu, Z., M. C. Wimberly, F. K Dwomoh. 2017. Vegetation dynamics in the Upper Guinean Forest region of West Africa from 2001 to 2015. Remote Sensing. 9(1): 5. 
