@@ -14,8 +14,8 @@ projects-list:
   - name: WAForDD
     img: /img/forest_small.JPG
     desc: West African Forest Degradation Data system
-    website: https://ecograph.github.io/degradation
-    url: https://ecograph.github.io/degradation
+    website: https://ecograph.github.io/wafordd
+    url: https://ecograph.github.io/wafordd
   - name: CHANGE
     img: /img/wui_small.JPG
     desc: Integrated land use change and vegetation dynamics modeling
