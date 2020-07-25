@@ -1,7 +1,7 @@
 ---
 layout: page
 title: West Nile Virus
-subtitle: Environmental determinants of transmission in North America
+subtitle: Environmental determinants of transmission
 bigimg: 
   - "/img/Culex_mosquito.jpg" : "Engorged culicine mosquito (CDC PHIL)"
 ---
