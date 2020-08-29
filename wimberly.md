@@ -43,7 +43,7 @@ Rapid Response to Assess the Risk of Arbovirus Outbreaks Triggered by Climate Ev
 PI: M. C. Wimberly; Co-I: J. K. Davis
 * 9/26/2019-4/30/2021
 USAID Adaptation Thought Leadership and Assessments (AID-OAA-TO-14-00044 SUB-778)
-Investigating and visualizing the links between climate and malaria in Ethiopia
+Scaling Malaria Forecasts to the National Level in Ethiopia: A Feasibility Assessment
 PI: M. C. Wimberly; Co-I: D. M. Nekorchuk
 * 8/1/2016-2/07/2020
 NASA SERVIR Applied Sciences Team (NNX16AN22G)
