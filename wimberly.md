@@ -37,11 +37,14 @@ Dr. Mike Wimberly is a Professor in the Department of Geography and Environmenta
 * Scientific Program Committee Member - American Society of Tropical Medicine and Hygiene
 
 ### Recent Grants
-
 * 6/26/2019-6/25/2021
 NASA Applied Sciences, Health and Air Quality Program (NSSC19K1233)
 Rapid Response to Assess the Risk of Arbovirus Outbreaks Triggered by Climate Events
-PI: M. c. Wimberly; Co-I: J. K. Davis
+PI: M. C. Wimberly; Co-I: J. K. Davis
+* 9/26/2019-4/30/2021
+USAID Adaptation Thought Leadership and Assessments (AID-OAA-TO-14-00044 SUB-778)
+Investigating and visualizing the links between climate and malaria in Ethiopia
+PI: M. C. Wimberly; Co-I: D. M. Nekorchuk
 * 8/1/2016-2/07/2020
 NASA SERVIR Applied Sciences Team (NNX16AN22G)
 Monitoring and Projecting Environmental Change in Fragmented Tropical Forest Landscapes
@@ -69,6 +72,10 @@ PI: M. C. Wimberly; Co-I: Y. Liu
 
 ### Selected Recent Publications
 
+* Wimberly, M. C., J. K. Davis, M. V. Evans, A. Hess, P. M. Newberry, N. Solano-Asamoah, C. C. Murdock. In Press. Land cover affects microclimate and temperature suitability for arbovirus transmission in an urban landscape. PLoS Neglected Tropial Diseases.
+* Davis, J. K., Gebrehiwot, T., Worku. M., Awoke, W., Mihretie, A., Nekorchuk, D., and M. C. Wimberly. 2019. A genetic algorithm for identifying spatially-varying environmental drivers in a malaria time series model. Environmental Modelling and Software 119: 275-284.
+* Dwomoh, F. K., M. C. Wimberly, M. A. Cochrane, and I. Numata. 2019. Forest degradation promotes fire during drought in moist tropical forests of Ghana. Forest Ecology and Management 440: 148-168.
+* Hess, A., J. K. Davis, and M. C. Wimberly. 2018. Identifying environmental risk factors and mapping the distribution of West Nile virus in an endemic region of North America. GeoHealth 2: https://doi.org/10.1029/2018GH000161.
 * Wimberly, M. C., D. M. Narem, P. J. Bauman, B. T. Carlson, and M. A. Ahlering. 2018. Grassland connectivity in fragmented agricultural landscapes of the north-central United States. Biological Conservation 217: 121-130.
 * Davis J. K., Vincent G., Hildreth M. B., Kightlinger L., Carlson C., and M. C. Wimberly. 2017. Integrating Environmental Monitoring and Mosquito Surveillance to Predict Vector-borne Disease: Prospective Forecasts of a West Nile Virus Outbreak. PLOS Currents Outbreaks. 2017 May 23. Edition 1. doi: 10.1371/currents.outbreaks.90e80717c4e67e1a830f17feeaaf85de.
 * Dwomoh, F. K., and M. C. Wimberly. 2017. Fire regimes and forest resilience: alternative vegetation states in the West African tropics. Landscape Ecology 32: 1849-1865.
