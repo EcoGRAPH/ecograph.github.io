@@ -22,12 +22,19 @@ EPIDEMIA is developed by an interdisciplinary team that includes scientists from
 
 ## Software and Data
 
-### epidemiar - R package for disease modeling, forecasting, and early detection
-* [epidemiar GitHub archive](https://github.com/EcoGRAPH/epidemiar)
-
-
-### epidemiar-demo - Example implementation of epidemiar for malaria forecasting in Ethiopia
+### epidemiar-demo - Example implementation of EPIDEMIA for malaria forecasting in Ethiopia
 * [epidemiar-demo GitHub archive](https://github.com/EcoGRAPH/epidemiar-demo)
+* [Detailed Walk-through Guide](https://github.com/EcoGRAPH/epidemiar-demo)
+* [Installation Guide](https://github.com/EcoGRAPH/epidemiar-demo)
+* [Validation Guide](https://github.com/EcoGRAPH/epidemiar-demo)
+
+### R package for disease modeling, forecasting, and early detection
+* [epidemiar GitHub archive](https://github.com/EcoGRAPH/epidemiar): functions for malaria modeling, forecasting, validation, and early detection & early warning alerts.
+* [clusterapply GitHub archive](https://github.com/EcoGRAPH/clusterapply): functions for implementing malaria forecasting models across multiple geographic strata.
+
+### Google Earth Engine (GEE) applications for accessing remotely-sensed data
+* [GEE app for downloading and visualizing woreda-level data](https://dawneko.users.earthengine.app/view/epidemiar-ethiopia-demo). 
+* [GEE scripts for downloading and visulalizing woreda-level data summaries](https://code.earthengine.google.com/d53a6c47f3fe638d469955404273c568). Requires a GEE account to run.
 
 ## Partner Organizations
 
