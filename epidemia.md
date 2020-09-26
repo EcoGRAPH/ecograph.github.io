@@ -8,17 +8,26 @@ bigimg:
 
 ## Project Description
 
-Outbreaks of malaria are often linked to climate variations and land use changes that affect the life cycles of the mosquito vector and the *Plasmodium* parasite. Early warning of the timing and locations of these epidemics can facilitate more effective targeting of resources for disease prevention, control, and treatment. Our research integrates epidemiological data from malaria surveillance systems with climate and land cover data from satellite Earth observations to determine the environmental triggers of malaria outbreaks. We have applied the results to create the Epidemic Prognosis Incorporating Disease and Environmental Monitoring for Integrated Assessment (EPIDEMIA) system, which supports malaria forecasting in epidemic-prone regions of the Ethiopian highlands. EPIDEMIA provides an open-source software toolbox for data harmonization, predictive modeling, and report generation implemented in the R language and software environment. Access to Earth observation data is through a Google Earth Engine application that supports cloud-based data processing and produces downloadable summaries for use with EPIDEMIA. The entire system can be run on a laptop or desktop computer to be usable with existing public health surveillance systems and databases and to be implementable in regional public health offices. 
+Outbreaks of malaria are often linked to climate variations and land use changes that affect the life cycles of the mosquito vector and the Plasmodium parasite. Early warning of the timing and locations of these epidemics can facilitate more effective targeting of resources for disease prevention, control, and treatment. We have developed the Epidemic Prognosis Incorporating Disease and Environmental Monitoring for Integrated Assessment (EPIDEMIA) system to support malaria forecasting in epidemic-prone regions of Ethiopia. EPIDEMIA uses machine-learning methods with malaria surveillance data and environmental data from Earth-observing satellites to determine the relationships between climate variations and malaria outbreaks. The system provides an open-source software toolbox for data harmonization, predictive analytics, and report generation implemented in the R language and software environment. Remotely sensed data are accessed through a Google Earth Engine application that supports cloud-based data processing and produces downloadable summaries for use with EPIDEMIA. The software is usable with existing public health surveillance databases and can be run on a variety of computer systems. 
 
-![EPIDEMIA system flowchart](/img/EPIDEMIA_diagram_22MAR2019.png)<br/>
-*Conceptual diagram of information flow through the EPIDEMIA system.*
+![EPIDEMIA environmental data](/img/EPIDEMIA_diagram_22MAR2019.png)<br/>
+*Examples of remotely-sensed environment data used in EPIDEMIA, including MODIS land surface temperature (left), and rainfall data from the Global Precipitation Mission (GPM).*
 
-EPIDEMIA is being developed and implemented by an interdisciplinary team that includes scientists from the University of Oklahoma along with partners from public health agencies, non-governmental organizations, and universities in Ethiopia. In the first stage of the project, the U.S. research team was responsible for developing software and producing forecasts and the Ethiopian partners were responsible for providing epidemiological data and evaluating the forecasting results. In the second stage of the project, a technical support team was formed in to implement EPIDEMIA in the Amhara region of Ethiopia. This team includes representatives from the Health Development and Malaria Association (an Ethiopian NGO), the Amhara Regional Health Bureau, and Bahir Dar University. Training and technology transfer were provided through workshops in the U.S. and Ethiopia, and this team is currently using the system to produce weekly malaria forecasts for the Amhara region. Our research group continues to work on extending and improving EPIDEMIA. Current efforts include enhancements to the software, testing and improvement of the forecasting models, exploration of new environmental data sources, and design of new data visualization tools.
+The first step in implementing EPIDEMIA is to acquire historical epidemiological and environmental data for the region of interest and develop a harmonized dataset for modeling. These data are then used to identify geographic strata for modeling and calibrate the predictive models. To generate weekly forecasts, the system is updated with recent data, model predictions are generated for the upcoming twelve weeks, and the results are used to generate a formatted report with maps and charts. Forecasting is fully automated, and the necessary data processing, modeling, and report generation steps are carried out by running a single script. A separate validation module can be used to generate retrospective forecasts and evaluate their predictive skill using historical data.
 
 ![EPIDEMIA forecast graph](/img/EPIDEMIA_forecasts_22MAR2019.png)<br/>
-*Examples ouputs generated by EPIDEMIA, including a risk map for P. falciparum malaria outbreaks in the Amhara region and control charts for Shewa Robit district from week 30 of 2016.*
+*Flowchart of the EPIDEMIA system illustrating the steps for generating a weekly forecast.*
 
-This research is funded by a grant from the National Institutes of Health, National Institute of Allergy and Infectious Diseases (R01AI079411). Development of software for acquisition and processing of earth observation data has also been supported by NASA (NNX11AF67G).
+EPIDEMIA is developed by an interdisciplinary team that includes scientists from the University of Oklahoma along with collaborators from Ethiopian public health agencies, non-governmental organizations, and universities. The system has been piloted and tested through a demonstration project in the Amhara region of Ethiopia. We are now working with United State Agency for International Development and the U.S. President’s Malaria Initiative to develop a roadmap for scaling up malaria early warning with EPIDEMIA to a national level. This work involves evaluating national-level malaria surveillance datasets, using these data to assess malaria environment relationships, upgrading the EPIDEMIA software system, and engaging with a variety of stakeholders in Ethiopia. This page provides links to project outputs including software code, documentation, and data. More details about the underlying research are provided on our malaria epidemiology page. For more information about EPIDEMIA contact Dr. Michael Wimberly, the principal investigator.
+
+## Software and Data
+
+### epidemiar - R package for disease modeling, forecasting, and early detection
+* [epidemiar GitHub archive](https://github.com/EcoGRAPH/epidemiar)
+
+
+### epidemiar-demo - Example implementation of epidemiar for malaria forecasting in Ethiopia
+* [epidemiar-demo GitHub archive](https://github.com/EcoGRAPH/epidemiar-demo)
 
 ## Partner Organizations
 
@@ -26,10 +35,6 @@ This research is funded by a grant from the National Institutes of Health, Natio
 * [Amhara Regional Health Bureau](http://www.moh.gov.et/da/web/guest/amhara-regional-health-bureau)
 * [Health, Development, and Anti-Malaria Association](http://www.hdama.org/)
 * [Bahir Dar University](http://www.bdu.edu.et/)
-
-## Software and Other Resources
-* [epidemiar - R package for disease modeling, forecasting, and early detection](https://github.com/EcoGRAPH/epidemiar)
-* [epidemiar-demo - Demo implementation of epidemiar for malaria forecasting in Ethiopia](https://github.com/EcoGRAPH/epidemiar-demo)
 
 ## Publications
 
