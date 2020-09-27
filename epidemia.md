@@ -24,9 +24,9 @@ EPIDEMIA is developed by an interdisciplinary team that includes scientists from
 
 ### epidemiar-demo - Example implementation of EPIDEMIA for malaria forecasting in Ethiopia
 * [epidemiar-demo GitHub archive](https://github.com/EcoGRAPH/epidemiar-demo)
-* [Detailed Walk-through Guide](https://github.com/EcoGRAPH/epidemiar-demo)
-* [Installation Guide](https://github.com/EcoGRAPH/epidemiar-demo)
-* [Validation Guide](https://github.com/EcoGRAPH/epidemiar-demo)
+* [Detailed Walk-through Guide](https://github.com/EcoGRAPH/epidemiar-demo/blob/master/documentation/epidemiar-demo_EPIDEMIA_walkthrough.pdf)
+* [Installation Guide](https://github.com/EcoGRAPH/epidemiar-demo/blob/master/documentation/epidemiar-demo_installation_guide.pdf)
+* [Validation Guide](https://github.com/EcoGRAPH/epidemiar-demo/blob/master/documentation/epidemiar-demo_validation_guide.pdf)
 
 ### R package for disease modeling, forecasting, and early detection
 * [epidemiar GitHub archive](https://github.com/EcoGRAPH/epidemiar): functions for malaria modeling, forecasting, validation, and early detection & early warning alerts.
