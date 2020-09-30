@@ -18,7 +18,7 @@ The first step in implementing EPIDEMIA is to acquire historical epidemiological
 ![EPIDEMIA forecast graph](/img/EPIDEMIA_diagram_25SEP2020.JPG)<br/>
 *Flowchart of the EPIDEMIA system illustrating the steps for generating a weekly forecast.*
 
-EPIDEMIA is developed by an interdisciplinary team that includes scientists from the University of Oklahoma along with collaborators from Ethiopian public health agencies, non-governmental organizations, and universities. The system has been piloted and tested through a demonstration project in the Amhara region of Ethiopia. We are now working with United State Agency for International Development and the U.S. President’s Malaria Initiative to develop a roadmap for scaling up malaria early warning with EPIDEMIA to a national level. This work involves evaluating national-level malaria surveillance datasets, using these data to assess malaria environment relationships, upgrading the EPIDEMIA software system, and engaging with a variety of stakeholders in Ethiopia. This page provides links to project outputs including software code, documentation, and data. More details about the underlying research are provided on our malaria epidemiology page. For more information about EPIDEMIA contact Dr. Michael Wimberly, the principal investigator.
+EPIDEMIA is developed by an interdisciplinary team that includes scientists from the University of Oklahoma along with collaborators from Ethiopian public health agencies, non-governmental organizations, and universities. The system has been piloted and tested through a demonstration project in the Amhara region of Ethiopia. We are now working with United State Agency for International Development and the U.S. President’s Malaria Initiative to develop a roadmap for scaling up malaria early warning with EPIDEMIA to a national level. This work involves evaluating national-level malaria surveillance datasets, using these data to assess malaria environment relationships, upgrading the EPIDEMIA software system, and engaging with a variety of stakeholders in Ethiopia. This page provides links to project outputs including software code, documentation, and data. More details about the underlying research are provided on our [malaria epidemiology page](https://github.com/EcoGRAPH/ecograph.github.io/blob/master/malaria.md). For more information about EPIDEMIA contact Dr. Michael Wimberly, the principal investigator.
 
 ## Software and Data
 
@@ -34,11 +34,11 @@ EPIDEMIA is developed by an interdisciplinary team that includes scientists from
 
 ### Google Earth Engine (GEE) applications for accessing remotely-sensed data
 * [GEE app for downloading and visualizing woreda-level data](https://dawneko.users.earthengine.app/view/epidemiar-ethiopia-demo). 
-* [GEE scripts for downloading and visulalizing woreda-level data summaries](https://code.earthengine.google.com/d53a6c47f3fe638d469955404273c568). Requires a GEE account to run.
+* [GEE scripts for downloading and visualizing woreda-level data summaries](https://code.earthengine.google.com/d53a6c47f3fe638d469955404273c568). Requires a GEE account to run.
 * [GEE App and Script Walk-Through Guide](https://github.com/EcoGRAPH/ecograph.github.io/blob/master/docs/GEE_app_ce_walkthrough_20200901.pdf)
 
 ## Partner Organizations
-* [Amhara Regional Health Bureau](http://www.moh.gov.et/da/web/guest/amhara-regional-health-bureau)
+* [Amhara Public Health Institute](https://www.facebook.com/HealthofInstitute/)
 * [Bahir Dar University](http://www.bdu.edu.et/)
 * [Ethiopian Public Health Institute](https://www.ephi.gov.et/)
 * [Health, Development, and Anti-Malaria Association](http://www.hdama.org/)
