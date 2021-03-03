@@ -18,12 +18,18 @@ We have applied these results to develop a WNV early warning system for South Da
 ![ArboMAP predictions](/img/WNV_predictions.jpg)<br/>
 *Prospective WNV forecasts. Black line/Gray shading: prediction with 95% intervals; Red line: Observed cases in 2016 or 2017; Dashed line: Observed cases in 2012; Dotted line: Observed cases in 2015.*
 
+## Software and Data
+
+[ArboMAP Software Archive](https://github.com/EcoGRAPH/ArboMAP)
+
 ## Partner Organizations
 
-* South Dakota State University
+* Louisiana Department of Health
+* OKC County Health Department
+* Oklahoma State Department of Health 
+* Michigan Department of Health and Human Services
 * South Dakota Department of Health
-* City of Sioux Falls Health Department
-* City of Aberdeen Parks Department
+* South Dakota State University
 
 ## Publications
 
