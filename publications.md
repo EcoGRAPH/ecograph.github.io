@@ -2,13 +2,12 @@
 layout: page
 title: Publications
 ---
-
 ### 2020
-* Alemu, W. G., and M. C. Wimberly. 2020. [Evaluation of remotely sensed and interpolated environmental datasets for vector-borne disease monitoring using *in situ* observations over the Amhara Region](https://www.mdpi.com/1424-8220/20/5/1316/htm), Ethiopia. Sensors 20: 1316.
+* Alemu, W. G., and M. C. Wimberly. 2020. [Evaluation of remotely sensed and interpolated environmental datasets for vector-borne disease monitoring using *in situ* observations over the Amhara Region, Ethiopia](https://www.mdpi.com/1424-8220/20/5/1316/htm). Sensors 20: 1316.
+* Haller, D. J., and M. C. Wimberly. 2020. [Estimating the potential for forest degradation in the eastern United States woodlands from an introduction of sudden oak death](https://www.mdpi.com/1999-4907/11/12/1334). Forests 11: 1334.
 * Rehr, R. C., C. Bandaragoda, B. F. Zaitchik, and M. C. Wimberly. 2020. [A GeoHealth response to a geoscience community climate change position statement](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000265). GeoHealth 4: e2020GH000265.
 * Vincent, G. P., J. K. Davis, M. J. Wittry, M. C. Wimberly, Chris D. Carlson, D. L. Patton, and M. B. Hildreth. 2020. [Epidemic West Nile Virus Infection Rates and Endemic Population Dynamics Among South Dakota Mosquitoes: A 15-yr Study from the United States Northern Great Plains](https://academic.oup.com/jme/advance-article-abstract/doi/10.1093/jme/tjz231/5651347?redirectedFrom=fulltext). Journal of Medical Entomology 57: 862–871.
 * Wimberly, M. C., J. K. Davis, M. V. Evans, A. Hess, P. M. Newberry, N. Solano-Asamoah, C. C. Murdock. 2020. [Land cover affects microclimate and temperature suitability for arbovirus transmission in an urban landscape](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008614). PLoS Neglected Tropial Diseases 14(9): e0008614.
-
 ### 2019
 * Davis, J. K., Gebrehiwot, T., Worku. M., Awoke, W., Mihretie, A., Nekorchuk, D., and M. C. Wimberly. 2019. [A genetic algorithm for identifying spatially-varying environmental drivers in a malaria time series model](https://www.sciencedirect.com/science/article/pii/S136481521930129X). Environmental Modelling and Software 119: 275-284.
 * Dwomoh, F. K., M. C. Wimberly, M. A. Cochrane, and I. Numata. 2019. [Forest degradation promotes fire during drought in moist tropical forests of Ghana](https://www.sciencedirect.com/science/article/pii/S0378112718321893). Forest Ecology and Management 440: 148-168.
