@@ -7,11 +7,6 @@ people-list:
     website: https://ecograph.github.io/wimberly
     url: https://ecograph.github.io/wimberly
     twitter: https://twitter.com/mcwimberly
-  - name: Justin K. Davis
-    img: /img/Justin.jpg
-    desc: Postdoctoral Research Associate.
-    website: https://ecograph.github.io/davis
-    url: https://ecograph.github.io/davis
   - name: Andrea Hess
     img: /img/Andrea.jpg
     desc: Graduate Research Assistant (Ph.D.).
@@ -27,16 +22,6 @@ people-list:
     desc: Postdoctoral Research Associate.
     website: https://ecograph.github.io/nekorchuk
     url: https://ecograph.github.io/nekorchuk
-  - name: Dillon Haller
-    img: /img/Dillon.jpg
-    desc: Undergraduate Research Assistant.
-    website: 
-    url:  
-  - name: Micala Newland
-    img: /img/Micala.jpg
-    desc: Undergraduate Research Assistant.
-    website: 
-    url:     
 ---
 
 ## Current Group Members
@@ -46,6 +31,8 @@ people-list:
 ## Former Group Members
 
 ### Postdocs
+[Justin Davis (2016-2020)](https://ecograph.github.io/davis)<br/>
+Current Position: Research Analyst, Oklahoma Health Care Authority
 
 [Francis Dwomoh (2018-2019)](https://ecograph.github.io/dwomoh)<br/>
 Current Position: Research Scientist, USGS Center for Earth Resoruces Observation and Science (EROS)
@@ -118,3 +105,8 @@ Dissertation: Identification of the Wildland-Urban Interface at Regional and Lan
 Matthew Reilly (8/2004)<br/>
 M.S. in Forest Biology, University of Georgia<br/>
 Thesis: Plant Community Dynamics Following Wildfire in the South Appalachians: Changes in Diversity at Multiple Spatial Scales.
+
+### Undergraduate Students
+Dillon Haller (2019-2020)
+
+Micala Newland (2019-2020)
