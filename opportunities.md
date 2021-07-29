@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Opportunities
 ---
 ### Postdoc Positions (Applications Currently Being Accepted)
 The EcoGRAPH group is looking for two new postdoctoral research associates to join our team. These individuals will work on two exciting new research projects: 1) Drought, Fire, and Forest Carbon Dyanmics in West Africa (supported by the NASA Carbon Cycle Science program), and 2) Urban Microclimates and Disease Transmission in India (supported by the National Institute of Allergy and Infectious Diseases). For both positions, a Ph.D. with research experience using satellite Earth observations is required. The Ph.D. must be completed before starting the position. The desired candidate would have strong writing and communication skills combined with programming experience using relevant platforms such as R, Python, or the Google Earth Engine API. Strong interest in studying fire and forest dynamics, urban systems, or vector-borne disease ecology is also desirable. These positions are available as early as September 1, 2021, although a later start date is negotiable, and will remain open until filled. To apply, please send a letter of interest and a CV to Dr. Mike Wimberly at mcwimberly@ou.edu. For more information, please see the following document.
