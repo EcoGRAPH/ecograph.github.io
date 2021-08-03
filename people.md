@@ -12,16 +12,22 @@ people-list:
     desc: Graduate Research Assistant (Ph.D.).
     website: https://ecograph.github.io/hess
     url: https://ecograph.github.io/hess
-  - name: Avery Taylor
-    img: /img/avery_taylor2.jpg
-    desc: Graduate Research Assistant (M.S.).
-    website: https://ecograph.github.io/taylor
-    url: https://ecograph.github.io/taylor
+  - name: Andrews Korah
+    img: /img/AndrewsKorah.jpg
+    desc: Graduate Research Assistant (Ph.D.).
+    website: https://ecograph.github.io/korah
+    url: https://ecograph.github.io/korah
   - name: Dawn Nekorchuk
     img: /img/Dawn.jpg
     desc: Postdoctoral Research Associate.
     website: https://ecograph.github.io/nekorchuk
     url: https://ecograph.github.io/nekorchuk
+  - name: Avery Taylor
+    img: /img/avery_taylor2.jpg
+    desc: Graduate Research Assistant (M.S.).
+    website: https://ecograph.github.io/taylor
+    url: https://ecograph.github.io/taylor
+
 ---
 
 ## Current Group Members
