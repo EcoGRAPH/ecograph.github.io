@@ -37,6 +37,10 @@ Dr. Mike Wimberly is a Professor in the Department of Geography and Environmenta
 * Scientific Program Committee Member - American Society of Tropical Medicine and Hygiene
 
 ### Recent Grants
+* 9/14/2020-8/31/2025
+National Institute of Allergy and Infectious Diseases (R01AI153444)
+Redefining thermal suitability for urban malaria transmission in the context of humidity
+PI: C. C. Murdock; Co-Is: M. Pascual, M. C. Wimberly
 * 6/26/2019-6/25/2021
 NASA Applied Sciences, Health and Air Quality Program (NSSC19K1233)
 Rapid Response to Assess the Risk of Arbovirus Outbreaks Triggered by Climate Events
@@ -71,11 +75,13 @@ Expanding Earth Science Data Access for Public Health Research and Applications
 PI: M. C. Wimberly; Co-I: Y. Liu
 
 ### Selected Recent Publications
-
-* Wimberly, M. C., J. K. Davis, M. V. Evans, A. Hess, P. M. Newberry, N. Solano-Asamoah, C. C. Murdock. In Press. Land cover affects microclimate and temperature suitability for arbovirus transmission in an urban landscape. PLoS Neglected Tropial Diseases.
+* McMahon, A., A. Mihretie, A. A. Ahmed, M. Lake, W. Awoke, and M. C. Wimberly. 2021. Remote sensing of environmental risk factors for malaria in different geographic contexts. International Journal of Health Geographics 20: 28.
+* Nekorchuk, D. M., T. Gebrehiwot, M. Lake, W. Awoke, A. Mihretie, and M. C. Wimberly. 2021. Comparing malaria early detection methods in a declining transmission setting in northwestern Ethiopia. BMC Public Health 21: 788.
+* Wimberly, M. C., K. M. de Beurs, T. V. Loboda, W. K. Pan. 2021. Satellite observations and malaria: new opportunities for research and applications. Trends in Parasitology 37: 525-537.
+* Wimberly, M. C., J. K. Davis, M. V. Evans, A. Hess, P. M. Newberry, N. Solano-Asamoah, C. C. Murdock. In Press. Land cover affects microclimate and temperature suitability for arbovirus transmission in an urban landscape. PLoS Neglected Tropial Diseases s 14(9): e0008614.
 * Davis, J. K., Gebrehiwot, T., Worku. M., Awoke, W., Mihretie, A., Nekorchuk, D., and M. C. Wimberly. 2019. A genetic algorithm for identifying spatially-varying environmental drivers in a malaria time series model. Environmental Modelling and Software 119: 275-284.
 * Dwomoh, F. K., M. C. Wimberly, M. A. Cochrane, and I. Numata. 2019. Forest degradation promotes fire during drought in moist tropical forests of Ghana. Forest Ecology and Management 440: 148-168.
-* Hess, A., J. K. Davis, and M. C. Wimberly. 2018. Identifying environmental risk factors and mapping the distribution of West Nile virus in an endemic region of North America. GeoHealth 2: https://doi.org/10.1029/2018GH000161.
+* Hess, A., J. K. Davis, and M. C. Wimberly. 2018. Identifying environmental risk factors and mapping the distribution of West Nile virus in an endemic region of North America. GeoHealth 2: 395-409.
 * Wimberly, M. C., D. M. Narem, P. J. Bauman, B. T. Carlson, and M. A. Ahlering. 2018. Grassland connectivity in fragmented agricultural landscapes of the north-central United States. Biological Conservation 217: 121-130.
 * Davis J. K., Vincent G., Hildreth M. B., Kightlinger L., Carlson C., and M. C. Wimberly. 2017. Integrating Environmental Monitoring and Mosquito Surveillance to Predict Vector-borne Disease: Prospective Forecasts of a West Nile Virus Outbreak. PLOS Currents Outbreaks. 2017 May 23. Edition 1. doi: 10.1371/currents.outbreaks.90e80717c4e67e1a830f17feeaaf85de.
 * Dwomoh, F. K., and M. C. Wimberly. 2017. Fire regimes and forest resilience: alternative vegetation states in the West African tropics. Landscape Ecology 32: 1849-1865.
@@ -121,7 +127,11 @@ PI: M. C. Wimberly; Co-I: Y. Liu
 
 ### Graduate Student Supervised
 * Andrea Hess (In Progress)
-Ph.D. in Geospatial Science and Engineering, South Dakota State University
+Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
+* Andrews Korah (In Progress)
+Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
+* Avery Taylor (In Progress)
+M.S. in Geography and Environmental Sustainability, University of Oklahoma
 * Francis Dwomoh (5/2018)
 Ph.D. in Geospatial Science and Engineering, South Dakota State University
 Dissertation: Vulnerability of Protected Areas to Human Encroachment, Climate Change and Fire in the Fragmented Tropical Forests of West Africa
@@ -160,21 +170,22 @@ M.S. in Forest Biology, University of Georgia
 Thesis: Plant Community Dynamics Following Wildfire in the South Appalachians: Changes in Diversity at Multiple Spatial Scales.
 
 ### Postdoctoral Scholars Supervised
-
-* Francis Dwomoh (2018-present)
 * Dawn Nekorchuk (2017-present)
-* Justin Davis (2016-present)
+* Justin Davis (2016-2020)
+Current Position: Research Analyst, Oklahoma Health Care Authority
+* Francis Dwomoh (2018-present)
+Current Position: Research Scientist, USGS Earth Resources Observation and Science Center
 * Christopher Merkord (2014-2017)
 Current Position: Assistant Professor, Minnesota State University Mankato
 * Zhihua Liu (2012-2016)
-Current Position: Postdoctoral Scholar, University of Montana
+Current Position: Research Scientist, Numerical Terradynamics Simulation Group, University of Montana
 * Ramu Sudhagoni (2012-2013)
 Current Position: Assistant Professor, University of South Dakota
 * Chris Wright (2011-2013)
 Current Position: Research Associate, Natural Resources Research Institute
 * Ting-Wu Chuang (2009-2012)
-Current Position: Assistant Professor, Taipei Medical University
+Current Position: Associate Professor, Taipei Medical University
 * Aki Michimi (2008-2011)
 Current Position: Adjunct Professor, Eastern Connecticut State University
 * Mirela Tulbure (2008-2010)
-Current Position: Senior Lecturer, University of New South Wales
+Current Position: Associate Professor, North Carolina State University
