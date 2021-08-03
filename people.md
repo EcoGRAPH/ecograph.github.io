@@ -14,7 +14,7 @@ people-list:
     url: https://ecograph.github.io/hess
   - name: Andrews Korah
     img: /img/AndrewsKorah.jpg
-    desc: Graduate Research Assistant (Ph.D.).
+    desc: Graduate Teaching Assistant (Ph.D.).
     website: https://ecograph.github.io/korah
     url: https://ecograph.github.io/korah
   - name: Dawn Nekorchuk
