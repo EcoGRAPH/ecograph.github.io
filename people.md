@@ -41,30 +41,29 @@ Christopher Merkord (2014-2017)<br/>
 Current Position: Assistant Professor, Minnesota State University Mankato
 
 Zhihua Liu (2012-2016)<br/>
-Current Position: Postdoctoral Scholar, University of Montana
-
-Ramu Sudhagoni (2012-2013)<br/>
-Current Position: Assistant Professor, University of South Dakota
+Current Position: Research Scientist, University of Montana
 
 Chris Wright (2011-2013)<br/>
 Current Position: Research Associate, Natural Resources Research Institute
 
 Ting-Wu Chuang (2009-2012)<br/>
-Current Position: Assistant Professor, Taipei Medical University
+Current Position: Associate Professor, Taipei Medical University
 
 Aki Michimi (2008-2011)<br/>
 Current Position: Adjunct Professor, Eastern Connecticut State University
 
 Mirela Tulbure (2008-2010)<br/>
-Current Position: Senior Lecturer, University of New South Wales
+Current Position: Associate Professor, North Carolina State University
 
 ### Graduate Students
 
 Francis Dwomoh (5/2018)<br/>
 Ph.D. in Geospatial Science and Engineering, South Dakota State University
+Dissertation: Vulnerability of Protected Areas to Human Encroachment, Climate Change and Fire in the Fragmented Tropical Forests of West Africa.
 
 Kyle Kaskie (5/2018)<br/>
 M.S. in Biological Sciences, South Dakota State University
+Thesis: Mapping and Risk Assessment of Juniper Encroachment Into a Prairie Landscape.
 
 Henok Alemu (5/2015)<br/>
 Ph.D. in Geospatial Science and Engineering, South Dakota State University<br/>
