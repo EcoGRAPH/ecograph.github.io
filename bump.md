@@ -5,7 +5,7 @@ bigimg:
   - "/img/bluesquare.jpg"
 ---
 
-# Dr. Francis Dwomoh
+# Eric Bump
 ## Ph.D. Student, Graduate Teaching Assistant
 
 ### Education
