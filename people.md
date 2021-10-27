@@ -8,8 +8,8 @@ people-list:
     url: https://ecograph.github.io/wimberly
     twitter: https://twitter.com/mcwimberly
   - name: Eric Bump
-    img: /img/Andrea.jpg
-    desc: Graduate Research Assistant (Ph.D.).
+    img: /img/bump.jpg
+    desc: Graduate Teaching Assistant (Ph.D.).
     website: https://ecograph.github.io/hess
     url: https://ecograph.github.io/hess
   - name: Andrews Korah
