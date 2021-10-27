@@ -10,8 +10,11 @@ people-list:
   - name: Eric Bump
     img: /img/bump.jpg
     desc: Graduate Teaching Assistant (Ph.D.).
-    website: https://ecograph.github.io/hess
-    url: https://ecograph.github.io/hess
+    website: https://ecograph.github.io/bump
+    url: https://ecograph.github.io/bump
+  _ name: Michael Glessner
+    img: /img/mglessner.jpg
+    desc: Undergraduate Research Assistant.
   - name: Andrews Korah
     img: /img/AndrewsKorah.jpg
     desc: Graduate Teaching Assistant (Ph.D.).
