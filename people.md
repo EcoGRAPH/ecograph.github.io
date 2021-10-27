@@ -7,7 +7,7 @@ people-list:
     website: https://ecograph.github.io/wimberly
     url: https://ecograph.github.io/wimberly
     twitter: https://twitter.com/mcwimberly
-  - name: Andrea Hess
+  - name: Eric Bump
     img: /img/Andrea.jpg
     desc: Graduate Research Assistant (Ph.D.).
     website: https://ecograph.github.io/hess
@@ -62,6 +62,10 @@ Mirela Tulbure (2008-2010)<br/>
 Current Position: Associate Professor, North Carolina State University
 
 ### Graduate Students
+
+Andrea McMahon (8/2021<br>
+Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
+Dissertation: Earth Observation and Mosquito-Borne Diseases: Assessing Environmental Risk Factors for Transmission via Remote Sensing Data
 
 Francis Dwomoh (5/2018)<br/>
 Ph.D. in Geospatial Science and Engineering, South Dakota State University
