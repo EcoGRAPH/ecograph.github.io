@@ -13,7 +13,7 @@ people-list:
     website: https://ecograph.github.io/bump
     url: https://ecograph.github.io/bump
   - name: Michael Glessner
-    img: /img/mglessner.jpg
+    img: /img/michaelg.jpg
     desc: Undergraduate Research Assistant
   - name: Andrews Korah
     img: /img/AndrewsKorah.jpg
