@@ -12,11 +12,9 @@ people-list:
     desc: Graduate Teaching Assistant (Ph.D.).
     website: https://ecograph.github.io/bump
     url: https://ecograph.github.io/bump
-  - name: Avery Taylor
-    img: /img/avery_taylor2.jpg
-    desc: Graduate Research Assistant (M.S.).
-    website: https://ecograph.github.io/taylor
-    url: https://ecograph.github.io/taylor
+  - name: Michael Glessner
+    img: /img/mglessner.jpg
+    desc: Undergraduate Research Assistant
   - name: Andrews Korah
     img: /img/AndrewsKorah.jpg
     desc: Graduate Teaching Assistant (Ph.D.).
