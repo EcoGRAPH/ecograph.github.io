@@ -3,9 +3,14 @@ layout: page
 title: Publications
 ---
 ### 2021
+* Keyel A. C., M. E., Gorri, I. Rochlin, J. A. Uelmen, L. F. Chaves, G. L. Hamer, I. K. Moise, M. Shocket, A. M. Kilpatrick, N. B. DeFelice, J. K. Davis, E. Little, P. Irwin, A. J. Tyre, K. H. Smith, C. M. Fredregill, O. I. Timm, K. M. Holcomb, M. C. Wimberly, M. J. Ward, C. M. Barker, C. G. Rhodes, and R. L. Smith. [A proposed framework for the development and qualitative evaluation of West Nile virus models and their application to local public health decision-making] (https://doi.org/10.1371/journal.pntd.0009653). PLOS Neglected Tropical Diseases 15(9): e0009653.
 * McMahon, A., A. Mihretie, A. A. Ahmed, M. Lake, W. Awoke, and M. C. Wimberly. 2021. [Remote sensing of environmental risk factors for malaria in different geographic contexts](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-021-00282-0). International Journal of Health Geographics 20: 28.
 * Nekorchuk, D. M., T. Gebrehiwot, M. Lake, W. Awoke, A. Mihretie, and M. C. Wimberly. 2021. [Comparing malaria early detection methods in a declining transmission setting in northwestern Ethiopia](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10850-5). BMC Public Health 21: 788.
 * Wimberly, M. C., K. M. de Beurs, T. V. Loboda, W. K. Pan. 2021. [Satellite observations and malaria: new opportunities for research and applications](https://www.cell.com/trends/parasitology/fulltext/S1471-4922(21)00055-6). Trends in Parasitology 37: 525-537.
+* Wimberly, M. C., and D. M. Nekorchuk. 2021. [Malaria Early Warning in Ethiopia: A Roadmap for Scaling to the National Level] (https://www.climatelinks.org/resources/malaria-early-warning-ethiopia-roadmap-scaling-national-level). U.S. Agency for International Development. 
+
+eyel, A.C., Gorris, M.E., Rochlin, I., Uelmen, J.A., Chaves, L.F., Hamer, G.L., Moise, I.K., Shocket, M., Kilpatrick, A.M., DeFelice, N.B.,
+
 
 ### 2020
 * Alemu, W. G., and M. C. Wimberly. 2020. [Evaluation of remotely sensed and interpolated environmental datasets for vector-borne disease monitoring using *in situ* observations over the Amhara Region, Ethiopia](https://www.mdpi.com/1424-8220/20/5/1316/htm). Sensors 20: 1316.
