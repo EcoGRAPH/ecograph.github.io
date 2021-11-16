@@ -37,11 +37,15 @@ Dr. Mike Wimberly is a Professor in the Department of Geography and Environmenta
 * Scientific Program Committee Member - American Society of Tropical Medicine and Hygiene
 
 ### Recent Grants
+* 8/2/2021-8/1/2024
+NASA Carbon Cycle Science Program (80NSSC21K1714)
+Drought, Disturbance, and Carbon Dynamics of West African Tropical Forests
+PI: M. C. Wimberly; Co-I S. Crowell
 * 9/14/2020-8/31/2025
 National Institute of Allergy and Infectious Diseases (R01AI153444)
 Redefining thermal suitability for urban malaria transmission in the context of humidity
 PI: C. C. Murdock; Co-Is: M. Pascual, M. C. Wimberly
-* 6/26/2019-6/25/2021
+* 6/26/2019-6/25/2022
 NASA Applied Sciences, Health and Air Quality Program (NSSC19K1233)
 Rapid Response to Assess the Risk of Arbovirus Outbreaks Triggered by Climate Events
 PI: M. C. Wimberly; Co-I: J. K. Davis
@@ -126,12 +130,15 @@ PI: M. C. Wimberly; Co-I: Y. Liu
 2000, 2001
 
 ### Graduate Student Supervised
-* Andrea Hess (In Progress)
+* Eric Bump (In Progress)
 Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
 * Andrews Korah (In Progress)
 Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
 * Avery Taylor (In Progress)
 M.S. in Geography and Environmental Sustainability, University of Oklahoma
+* Andrea McMahon (In 8/2021)
+Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
+Dissertation: Earth Observation and Mosquito-Borne Diseases: Assessing Environmental Risk Factors for Disease Transmission via Rremote Sensing Data
 * Francis Dwomoh (5/2018)
 Ph.D. in Geospatial Science and Engineering, South Dakota State University
 Dissertation: Vulnerability of Protected Areas to Human Encroachment, Climate Change and Fire in the Fragmented Tropical Forests of West Africa
