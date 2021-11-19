@@ -30,6 +30,7 @@ Dr. Mike Wimberly is a Professor in the Department of Geography and Environmenta
 * [Tools for Forecasting Malaria Outbreaks - Bioscience](https://academic.oup.com/bioscience/article/67/11/1012/4557604)
 * [Mosquito Meets MODIS - NASA Video on West Nile Virus Forecasting](https://www.youtube.com/watch?v=ag-Zo0izSNg)
 * [Biofuels and Grassland Conversion - USA Today](https://www.usatoday.com/story/news/nation/2014/05/01/ozy-bad-side-biofuel/8558385/)
+* [Eyes in the Sky - Proto Magazine](http://protomag.com/articles/eyes-sky)
 
 ### Professional Service
 * Communications and Outreach Committee Co-Chair - GeoHealth Section, American Geophysical Union
@@ -104,7 +105,11 @@ PI: M. C. Wimberly; Co-I: Y. Liu
 
 #### University of Oklahoma
 * GIS 4453/5453 - Advanced GIS and Spatial Analysis (3 semester credits, lecture/lab)
-2019
+2019, 2020, 2021
+* GEOG 3890 - Pandemics and Place, the Geography of Infectious Diseases (3 semester credits, lecture/discussion)
+2021
+* GEOG 6240 - Graduate Seminar in Climate and Health (3 semester credits, lecture/discussion)
+2020
 #### South Dakota State University
 * GSE 743 – Geospatial Analysis (3 semester credits, lecture/lab)
 2007, 2008, 2010, 2012, 2013, 2015, 2017
@@ -136,7 +141,7 @@ Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
 Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
 * Avery Taylor (In Progress)
 M.S. in Geography and Environmental Sustainability, University of Oklahoma
-* Andrea McMahon (In 8/2021)
+* Andrea McMahon (8/2021)
 Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
 Dissertation: Earth Observation and Mosquito-Borne Diseases: Assessing Environmental Risk Factors for Disease Transmission via Rremote Sensing Data
 * Francis Dwomoh (5/2018)
