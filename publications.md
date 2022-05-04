@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 ### 2022
-Wimberly, M. C., F. K. Dwomoh, I. Numata, F. Mensah, J. Amoako, D. M. Nekorchuk, and A. McMahon. 2022. [Historical trends of degradation, loss, and recovery in the tropical forest reserves of Ghana](https://www.tandfonline.com/doi/full/10.1080/17538947.2021.2012533). International Journal of Digital Earth, 15(1), 30-51.
 * Kaskie, K. D., M. C. Wimberly, and P. J. Bauman. 2022. [Predictive Mapping of Low-Density Juniper Stands in Prairie Landscapes of the Northern Great Plains](https://www.sciencedirect.com/science/article/pii/S1550742422000367). Rangeland Ecology & Management, 83, 81-90.
+* Wimberly, M. C., F. K. Dwomoh, I. Numata, F. Mensah, J. Amoako, D. M. Nekorchuk, and A. McMahon. 2022. [Historical trends of degradation, loss, and recovery in the tropical forest reserves of Ghana](https://www.tandfonline.com/doi/full/10.1080/17538947.2021.2012533). International Journal of Digital Earth, 15(1), 30-51.
 
 ### 2021
 * Keyel A. C., M. E. Gorri, I. Rochlin, J. A. Uelmen, L. F. Chaves, G. L. Hamer, I. K. Moise, M. Shocket, A. M. Kilpatrick, N. B. DeFelice, J. K. Davis, E. Little, P. Irwin, A. J. Tyre, K. H. Smith, C. M. Fredregill, O. I. Timm, K. M. Holcomb, M. C. Wimberly, M. J. Ward, C. M. Barker, C. G. Rhodes, and R. L. Smith. 2021. [A proposed framework for the development and qualitative evaluation of West Nile virus models and their application to local public health decision-making](https://doi.org/10.1371/journal.pntd.0009653). PLOS Neglected Tropical Diseases 15(9): e0009653.
