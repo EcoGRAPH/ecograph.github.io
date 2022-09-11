@@ -4,6 +4,7 @@ title: Publications
 ---
 ### 2022
 * Kaskie, K. D., M. C. Wimberly, and P. J. Bauman. 2022. [Predictive mapping of low-density juniper stands in prairie landscapes of the northern Great Plains](https://www.sciencedirect.com/science/article/pii/S1550742422000367). Rangeland Ecology & Management  83: 81-90.
+* McMahon, A., C. M. B. Franca, and M. C. Wimberly. In Press. Comparing satellite and ground-based measurements of environmental suitability for vector mosquitoes in an urban landscape. Journal of Medical Entomology.
 * Wimberly, M. C., J. K. Davis, M. B. Hildreth, and J. Clayton. 2022. [Integrated forecasts based on public health surveillance and meteorological information predict West Nile virus in a high-risk region of North America](https://ehp.niehs.nih.gov/doi/10.1289/EHP10287). Environmental Health Perspectives 130(8): 087006.
 * Wimberly, M. C., F. K. Dwomoh, I. Numata, F. Mensah, J. Amoako, D. M. Nekorchuk, and A. McMahon. 2022. [Historical trends of degradation, loss, and recovery in the tropical forest reserves of Ghana](https://www.tandfonline.com/doi/full/10.1080/17538947.2021.2012533). International Journal of Digital Earth: 15(1), 30-51.
 * Wimberly, M. C., D. M. Nekorchuk, and R. R. Kankanala. 2022. [Cloud-based applications for accessing satellite Earth observations to support malaria early warning](https://www.nature.com/articles/s41597-022-01337-y). Scientific Data 9: 208. 
