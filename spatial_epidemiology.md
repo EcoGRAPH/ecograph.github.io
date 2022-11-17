@@ -1,11 +1,5 @@
 ---
 layout: page
-title: Malaria Epidemiology
-subtitle: Climate variation and malaria outbreaks in Ethiopia
-bigimg: 
-  - "/img/IMG_1637.JPG" : "Woreta Town Health Center, Amhara Region of Ethiopia"
----
-layout: page
 title: Spatial Epidemiology
 subtitle: Environmental effects on health outcomes
 bigimg: 
