@@ -1,0 +1,14 @@
+Disease Ecology: Vectors, hosts, and pathogens
+Mosquitoes
+Mosquitoes are tiny, ectothermic organisms and are highly sensitive to temperature and humidity. Larvae require suitable aquatic habitats, and adults use a variety of natural and human-created structures for resting habitats. However, these environmental relationships vary depending on the mosquito species and the environmental context. 
+In South Dakota, the abundance of Aedes vexans, a floodwater mosquito increases following heavy rainfall when there is high cover of surface water (Chuang et al. 2011; Chuang et al. 2012). Culex tarsalis, an important vector of West Nile virus, has a weaker relationship with rainfall and a strong relationship with temperature. Aedes vexans is associated with wetland habitats, whereas Culex tarsalis is associated with grassland habitats (Chuang et al. 2011). In Oklahoma, the abundances of Culex quinquefasciatus and Aedes albopictus are highest on warm humid days with little precipitation in the previous two weeks (McMahon et al. 2022). Culex quinquefasciatus is most abundant in landscapes with high densities of buildings and roads and Aedes albopictus is most abundant in landscapes with low tree cover. 
+The environmental factors that influence mosquitoes can be mapped and monitored through time using data from Earth observing satellites (Wimberly et al. 2021). These remotely sensed measurements have been shown to perform as well as or better than ground based environmental measurements when developing models of mosquito abundance (Chuang et al. 2012; McMahon et al. 2022).
+Chuang et al. (2011) 
+Chuang et al. (2012)
+Wimberly et al. (2021)
+McMahon et al. (2022)
+Tickborne pathogens
+Ticks are blood-sucking arthropods that can transmit a variety of disease-causing pathogens. These pathogens are typically sustained in enzootic cycles involving multiple host species and transmitted to humans through infected tick bites. We studied the geographic distributions of two tick-borne pathogens, Ehrlichia chaffeensis and Anaplasma phagocytiphilum, in the southern United States. The prevalence of these pathogens was associated with multiple climate and land cover variables (Yabsley et al. 2005). However, the most important environmental predictors varied geographically, reflecting distinctive ecological conditions in different parts of the species’ ranges (Wimberly et al. 2008a). A subregional analysis focused on the Mississippi Alluvial Valley found strong effects of forest cover and flooding on the distributions of both pathogens (Manangan et al. 2007). Environmental models that incorporated environmental predictors and accounted for the spatial autocorrelation of pathogen occurrence were developed to predict the regional distributions of Ehrlichia chaffeensis and Anaplasma phagocytophilum (Wimberly et al. 2008b). 
+
+Wimberly, Yabsley, Manangan
+
