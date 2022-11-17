@@ -3,6 +3,7 @@ layout: page
 title: Publications
 ---
 ### 2022
+* Neta, G., W. Pan, K. Ebi, D. F. Buss, T. Castranio, R. Lowe, A. M. Stewart-Ibarra, L. K. Hapairai, M. Sehgal, M. C. Wimberly, L. Rollock, M. Lichtveld, J. Balbus. 2022. [Advancing climate change health adaptation through implementation science](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00199-1/fulltext). The Lancet Planetary Health 6: e909-18. 
 * Kaskie, K. D., M. C. Wimberly, and P. J. Bauman. 2022. [Predictive mapping of low-density juniper stands in prairie landscapes of the northern Great Plains](https://www.sciencedirect.com/science/article/pii/S1550742422000367). Rangeland Ecology & Management 83: 81-90.
 * McMahon, A., C. M. B. Franca, and M. C. Wimberly. 2022. [Comparing satellite and ground-based measurements of environmental suitability for vector mosquitoes in an urban landscape](https://academic.oup.com/jme/article/59/6/1936/6747053). Journal of Medical Entomology 59: 1936-1946.
 * Wimberly, M. C., J. K. Davis, M. B. Hildreth, and J. Clayton. 2022. [Integrated forecasts based on public health surveillance and meteorological information predict West Nile virus in a high-risk region of North America](https://ehp.niehs.nih.gov/doi/10.1289/EHP10287). Environmental Health Perspectives 130(8): 087006.
