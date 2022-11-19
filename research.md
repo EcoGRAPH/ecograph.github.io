@@ -19,13 +19,13 @@ projects-list:
   - name: Land System Science
     img: /img/wui_small.JPG
     desc: Land cover and land use change
-    website: https://ecograph.github.io/change
-    url: https://ecograph.github.io/change
+    website: https://ecograph.github.io/lulcc
+    url: https://ecograph.github.io/lulcc
   - name: Pyrogeography
     img: /img/grassland_conversion_2014_small.JPG
     desc: Drivers and ecological effects of wildland fire
-    website: https://ecograph.github.io/agriculture
-    url: https://ecograph.github.io/agriculture
+    website: https://ecograph.github.io/pyrogeography
+    url: https://ecograph.github.io/pyrogeography
   - name: Obesity in the United States
     img: /img/fruits_vegetables_small.jpg
     desc: Influences of physical and social environments
