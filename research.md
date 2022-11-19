@@ -6,24 +6,24 @@ projects-list:
     desc: Environmental effects on health outcomes
     website: https://ecograph.github.io/spatial_epidemiology
     url: https://ecograph.github.io/spatial_epidemiology
-  - name: West Nile Virus
+  - name: title: Disease Ecology
     img: /img/mosquito_small.jpg
-    desc: Environmental determinants of transmission
-    website: https://ecograph.github.io/westnile
-    url: https://ecograph.github.io/westnile
-  - name: Tropical Forest Landscapes
+    desc: Vectors, hosts, and pathogens
+    website: https://ecograph.github.io/disease_ecology
+    url: https://ecograph.github.io/disease_ecology
+  - name: Disease Forecasting
     img: /img/forest_small.JPG
-    desc: Monitoring forest landscape change in West Africa
-    website: https://ecograph.github.io/degradation
-    url: https://ecograph.github.io/degradation
-  - name: CHANGE
+    desc: Early warning systems
+    website: https://ecograph.github.io/disease_forecasting
+    url: https://ecograph.github.io/disease_forecasting
+  - name: Land System Science
     img: /img/wui_small.JPG
-    desc: Integrated land use change and vegetation dynamics modeling
+    desc: Land cover and land use change
     website: https://ecograph.github.io/change
     url: https://ecograph.github.io/change
-  - name: Agricultural Land Systems
+  - name: Pyrogeography
     img: /img/grassland_conversion_2014_small.JPG
-    desc: Cropland expansion and grassland loss
+    desc: Drivers and ecological effects of wildland fire
     website: https://ecograph.github.io/agriculture
     url: https://ecograph.github.io/agriculture
   - name: Obesity in the United States
