@@ -1,11 +1,11 @@
 ---
 title: Research
 projects-list:
-  - name: Malaria Epidemiology
+  - name: Spatial Epidemiology
     img: /img/clinic_small.JPG
-    desc: Climate variation and malaria outbreaks in Ethiopia
-    website: https://ecograph.github.io/malaria
-    url: https://ecograph.github.io/malaria
+    desc: Environmental effects on health outcomes
+    website: https://ecograph.github.io/spatial_epidemiology
+    url: https://ecograph.github.io/spatial_epidemiology
   - name: West Nile Virus
     img: /img/mosquito_small.jpg
     desc: Environmental determinants of transmission
