@@ -26,11 +26,11 @@ projects-list:
     desc: Drivers and ecological effects of wildland fire
     website: https://ecograph.github.io/pyrogeography
     url: https://ecograph.github.io/pyrogeography
-  - name: Obesity in the United States
-    img: /img/fruits_vegetables_small.jpg
-    desc: Influences of physical and social environments
-    website: https://ecograph.github.io/obesity
-    url: https://ecograph.github.io/obesity
+  - name: Built Environments
+    img: /img/ghana_sprawl_small.jpg
+    desc: Urban growth and urban health
+    website: https://ecograph.github.io/urban
+    url: https://ecograph.github.io/urban
 ---
 
 ## Projects
