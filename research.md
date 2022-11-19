@@ -12,17 +12,17 @@ projects-list:
     website: https://ecograph.github.io/disease_ecology
     url: https://ecograph.github.io/disease_ecology
   - name: Disease Forecasting
-    img: /img/forest_small.JPG
+    img: /img/ethiopia_malchart_small.JPG
     desc: Early warning systems
     website: https://ecograph.github.io/disease_forecasting
     url: https://ecograph.github.io/disease_forecasting
   - name: Land System Science
-    img: /img/wui_small.JPG
+    img: /img/forest_small.JPG
     desc: Land cover and land use change
     website: https://ecograph.github.io/lulcc
     url: https://ecograph.github.io/lulcc
   - name: Pyrogeography
-    img: /img/grassland_conversion_2014_small.JPG
+    img: /img/Camp_32_Fire_small.jpg.JPG
     desc: Drivers and ecological effects of wildland fire
     website: https://ecograph.github.io/pyrogeography
     url: https://ecograph.github.io/pyrogeography
