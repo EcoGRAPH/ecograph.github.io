@@ -11,9 +11,9 @@ projects-list:
     desc: Vectors, hosts, and pathogens
     website: https://ecograph.github.io/disease_ecology
     url: https://ecograph.github.io/disease_ecology
-  - name: Disease Forecasting
+  - name: Outbreak Forecasting
     img: /img/ethiopia_malchart_small.jpg
-    desc: Early warning systems
+    desc: Disease early warning systems
     website: https://ecograph.github.io/disease_forecasting
     url: https://ecograph.github.io/disease_forecasting
   - name: Land System Science
@@ -33,6 +33,6 @@ projects-list:
     url: https://ecograph.github.io/urban
 ---
 
-## Projects
+## Topics
 
 {% include list-circles.html items=page.projects-list %}
