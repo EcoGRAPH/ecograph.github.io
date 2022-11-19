@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pyrogeography
-subtitle: Patterns and dynamics of wildland fire
+subtitle: Drivers and ecological effects of wildland fire
 bigimg: 
   - "/img/Degraded_Ghana_2013.JPG" : "Degraded Forest, Brong Ahafo Region of Ghana"
 ---
