@@ -6,7 +6,7 @@ projects-list:
     desc: Environmental effects on health outcomes
     website: https://ecograph.github.io/spatial_epidemiology
     url: https://ecograph.github.io/spatial_epidemiology
-  - name: title: Disease Ecology
+  - name: Disease Ecology
     img: /img/mosquito_small.jpg
     desc: Vectors, hosts, and pathogens
     website: https://ecograph.github.io/disease_ecology
