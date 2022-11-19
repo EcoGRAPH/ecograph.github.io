@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Land Use and Land Cover Change
-subtitle: Climate, disturbance, and forest dynamics in West Africa
+title: Land System Science
+subtitle: Land cover and land use change
 bigimg: 
   - "/img/Degraded_Ghana_2013.JPG" : "Degraded Forest, Brong Ahafo Region of Ghana"
 ---
