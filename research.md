@@ -12,7 +12,7 @@ projects-list:
     website: https://ecograph.github.io/disease_ecology
     url: https://ecograph.github.io/disease_ecology
   - name: Disease Forecasting
-    img: /img/ethiopia_malchart_small.JPG
+    img: /img/ethiopia_malchart_small.jpg
     desc: Early warning systems
     website: https://ecograph.github.io/disease_forecasting
     url: https://ecograph.github.io/disease_forecasting
@@ -22,7 +22,7 @@ projects-list:
     website: https://ecograph.github.io/lulcc
     url: https://ecograph.github.io/lulcc
   - name: Pyrogeography
-    img: /img/Camp_32_Fire_small.jpg.JPG
+    img: /img/Camp_32_Fire_small.jpg
     desc: Drivers and ecological effects of wildland fire
     website: https://ecograph.github.io/pyrogeography
     url: https://ecograph.github.io/pyrogeography
