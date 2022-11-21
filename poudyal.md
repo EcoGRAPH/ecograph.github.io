@@ -6,4 +6,6 @@ bigimg:
 ---
 
 # Nikhil Poudyal
-## Graduate Assistant - Ph.D. Student
+## Ph.D. Student, Graduate Research Assistant
+
+
