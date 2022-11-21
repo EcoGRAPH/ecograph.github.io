@@ -9,7 +9,7 @@ people-list:
     twitter: https://twitter.com/mcwimberly
   - name: Eric Bump
     img: /img/bump.jpg
-    desc: Graduate Teaching Assistant (Ph.D.).
+    desc: Graduate Assistant (Ph.D.).
     website: https://ecograph.github.io/bump
     url: https://ecograph.github.io/bump
   - name: Michael Glessner
@@ -17,7 +17,7 @@ people-list:
     desc: Undergraduate Research Assistant
   - name: Andrews Korah
     img: /img/AndrewsKorah.jpg
-    desc: Graduate Teaching Assistant (Ph.D.).
+    desc: Graduate Assistant (Ph.D.).
     website: https://ecograph.github.io/korah
     url: https://ecograph.github.io/korah
   - name: Dawn Nekorchuk
@@ -25,12 +25,16 @@ people-list:
     desc: Postdoctoral Research Associate.
     website: https://ecograph.github.io/nekorchuk
     url: https://ecograph.github.io/nekorchuk
-  - name: Avery Taylor
-    img: /img/avery_taylor2.jpg
-    desc: Graduate Research Assistant (M.S.).
-    website: https://ecograph.github.io/taylor
-    url: https://ecograph.github.io/taylor
-
+  - name: Nikhil Poudyal
+    img: /img/Nikhil.jpg
+    desc: Graduate Assistant (Ph.D.).
+    website: https://ecograph.github.io/poudyal
+    url: https://ecograph.github.io/poudyal  
+  - name: Dan Wanyama
+    img: /img/Dan_Wanyama.jpeg
+    desc: Postdoctoral Research Associate.
+    website: https://ecograph.github.io/wanyama
+    url: https://ecograph.github.io/wanyama
 ---
 
 ## Current Group Members
@@ -66,7 +70,10 @@ Current Position: Associate Professor, North Carolina State University
 
 ### Graduate Students
 
-Andrea McMahon (8/2021<br>
+Avery Taylor (5/2022)<br>
+M.S. in Geography and Environmental Sustainability, University of Oklahoma
+
+Andrea McMahon (8/2021)<br>
 Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
 Dissertation: Earth Observation and Mosquito-Borne Diseases: Assessing Environmental Risk Factors for Transmission via Remote Sensing Data
 
