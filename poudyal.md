@@ -8,10 +8,12 @@ bigimg:
 # Nikhil Poudyal
 ## Ph.D. Student, Graduate Research Assistant
 
-Education: 
+### Education
 
-M.S. Earth Science, Land cover change, GIS, Micro-Wave remote sensing (Glacier tracking), Chiba University, Japan; B.E. Electrical and Electronics, Kathmandu University, Nepal
+B.E. Electrical and Electronics, Kathmandu University, Nepal
 
-Areas of Research: 
+M.S. Earth Science, Land cover change, GIS, Microwave Remote Sensing (Glacier tracking), Chiba University, Japan 
+
+### Research Interests 
 
 Land Cover/Use Change, Pattern Recognition, Environment and Climate Change Studies, Livelihood, Public Health
