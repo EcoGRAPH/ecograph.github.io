@@ -26,6 +26,10 @@ WAForDD was impelemented using Google Earth Engine (GEE), a cloud-based platform
 
 ## Data and Software
 
-* [WAForDD GEE App - Visualize forest change data and download summaries](https://mcwimberly.users.earthengine.app/view/wafordd21)
+* [WAForDD GEE App - Visualize forest change data and download summaries](https://mcwimberly.users.earthengine.app/view/wafordd22)
 * [WaForDD GEE Code Archive (GEE account required)](https://code.earthengine.google.com/?accept_repo=users/servir_wa/WAforDD)
 * [WAForDD User Guide](/docs/WAFORDD_User_Guide_28FEB2020.pdf)
+
+## Publications
+
+* Wimberly, M. C., F. K. Dwomoh, I. Numata, F. Mensah, J. Amoako, D. M. Nekorchuk, and A. McMahon. 2022. [Historical trends of degradation, loss, and recovery in the tropical forest reserves of Ghana](https://www.tandfonline.com/doi/full/10.1080/17538947.2021.2012533). International Journal of Digital Earth: 15(1), 30-51.
