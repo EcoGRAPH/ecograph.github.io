@@ -18,7 +18,7 @@ The first step in implementing EPIDEMIA is to acquire historical epidemiological
 ![EPIDEMIA forecast graph](/img/EPIDEMIA_diagram_25SEP2020.JPG)<br/>
 *Flowchart of the EPIDEMIA system illustrating the steps for generating a weekly forecast.*
 
-EPIDEMIA is developed by an interdisciplinary team that includes scientists from the University of Oklahoma along with collaborators from Ethiopian public health agencies, non-governmental organizations, and universities. The system has been piloted and tested through a demonstration project in the Amhara region of Ethiopia. We are now working with United State Agency for International Development and the U.S. President’s Malaria Initiative to develop a roadmap for scaling up malaria early warning with EPIDEMIA to a national level. This work involves evaluating national-level malaria surveillance datasets, using these data to assess malaria environment relationships, upgrading the EPIDEMIA software system, and engaging with a variety of stakeholders in Ethiopia. This page provides links to project outputs including software code, documentation, and data. More details about the underlying research are provided on our [malaria epidemiology page](http://ecograph.net/malaria/). For more information about EPIDEMIA contact Dr. Michael Wimberly, the principal investigator.
+EPIDEMIA is developed by an interdisciplinary team that includes scientists from the University of Oklahoma along with collaborators from Ethiopian public health agencies, non-governmental organizations, and universities. The system has been piloted and tested through a demonstration project in the Amhara region of Ethiopia. We are now working with United State Agency for International Development and the U.S. President’s Malaria Initiative to develop a roadmap for scaling up malaria early warning with EPIDEMIA to a national level. This work involves evaluating national-level malaria surveillance datasets, using these data to assess malaria environment relationships, upgrading the EPIDEMIA software system, and engaging with a variety of stakeholders in Ethiopia. This page provides links to project outputs including software code, documentation, and data. For more information about EPIDEMIA contact Dr. Michael Wimberly, the principal investigator.
 
 ## Software and Data
 
@@ -28,7 +28,7 @@ EPIDEMIA is developed by an interdisciplinary team that includes scientists from
 * [Installation Guide](https://github.com/EcoGRAPH/epidemiar-demo/blob/master/documentation/epidemiar-demo_installation_guide.pdf)
 * [Validation Guide](https://github.com/EcoGRAPH/epidemiar-demo/blob/master/documentation/epidemiar-demo_validation_guide.pdf)
 
-### R package for disease modeling, forecasting, and early detection
+### R packages for disease modeling, forecasting, and early detection
 * [epidemiar GitHub archive](https://github.com/EcoGRAPH/epidemiar): functions for malaria modeling, forecasting, validation, and early detection & early warning alerts.
 * [clusterapply GitHub archive](https://github.com/EcoGRAPH/clusterapply): functions for implementing malaria forecasting models across multiple geographic strata.
 
@@ -44,11 +44,14 @@ EPIDEMIA is developed by an interdisciplinary team that includes scientists from
 * [Health, Development, and Anti-Malaria Association](http://www.hdama.org/)
 
 ## Funding Sources
-* NASA (NNX11AF67G
 * NIAID (R01AI079411)
 * USAID (AID-OAA-TO-14-00044 SUB-778)
 
 ## Publications
+* Wimberly, M. C., D. M. Nekorchuk, and R. R. Kankanala. 2022. [Cloud-based applications for accessing satellite Earth observations to support malaria early warning](https://www.nature.com/articles/s41597-022-01337-y). Scientific Data 9: 208. 
+* McMahon, A., A. Mihretie, A. A. Ahmed, M. Lake, W. Awoke, and M. C. Wimberly. 2021. [Remote sensing of environmental risk factors for malaria in different geographic contexts](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-021-00282-0). International Journal of Health Geographics 20: 28.
+* Nekorchuk, D. M., T. Gebrehiwot, M. Lake, W. Awoke, A. Mihretie, and M. C. Wimberly. 2021. [Comparing malaria early detection methods in a declining transmission setting in northwestern Ethiopia](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10850-5). BMC Public Health 21: 788.
+* Wimberly, M. C., and D. M. Nekorchuk. 2021. [Malaria Early Warning in Ethiopia: A Roadmap for Scaling to the National Level](https://www.climatelinks.org/resources/malaria-early-warning-ethiopia-roadmap-scaling-national-level). U.S. Agency for International Development.
 * Davis, J. K., Gebrehiwot, T., Worku. M., Awoke, W., Mihretie, A., Nekorchuk, D., and M. C. Wimberly. 2019. [A genetic algorithm for identifying spatially-varying environmental drivers in a malaria time series model](https://www.sciencedirect.com/science/article/pii/S136481521930129X?via%3Dihub). Environmental Modelling and Software 119: 275-284.
 * Merkord, C. L., Y. Liu, A. Mihretie, T. Gebrehiwot, W. Awoke, E. Bayabil, G. M. Henebry, G. T. Kassa, M. Lake, and M. C. Wimberly. 2017. [Integrating malaria surveillance with climate data for outbreak detection and forecasting: the EPIDEMIA system](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-017-1735-x). Malaria Journal 16:89.
 * Liu, Y., J. Hu, I. Snell-Feikema, M. S. VanBemmel, A. Lamsal, M. C. Wimberly. 2015. [Software to facilitate remote sensing data access for disease early warning systems](https://www.sciencedirect.com/science/article/pii/S1364815215300116). Environmental Modelling and Software 74: 238-246. 
