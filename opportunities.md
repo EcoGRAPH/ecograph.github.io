@@ -2,7 +2,7 @@
 layout: page
 title: Opportunities
 ---
-### Postdoc in Remote Sensing of Environment Change
+### Postdoc in Remote Sensing of Environmental Change
 The EcoGRAPH group in the Department of Geography and Environmental Sustainability (DGES) at the University of Oklahoma is looking for a postdoctoral research associate to join our team. This individual will be engaged with our ongoing research projects supported by NIH and NASA. Topics include the effects of urban land use change on microclimate and habitat suitability for mosquito-borne disease transmission in India, and the influences of climate change on degradation and fire susceptibility of African tropical forests. The postdoc may work in one or both of these areas depending on their interests and expertise. They will have opportunities to contribute to development of the research methodology and to extend the work to address new questions. 
 
 A Ph.D. and research experience with geospatial data analysis and satellite remote sensing is required for the position. The Ph.D. must be completed before starting the position. The desired candidate would have strong writing and communication skills combined with programming experience using relevant platforms such as R, Python, or the Google Earth Engine API. This position is available beginning in September 2023, although a later start date is negotiable. To apply, please send a letter of interest, CV, and contact information for three references to Dr. Mike Wimberly at mcwimberly@ou.edu. Review of applications will begin in August 2023 and will continue until the position is filled. Feel free to send Dr. Wimberly an email first if you have questions about the position.
