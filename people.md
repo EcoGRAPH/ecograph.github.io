@@ -44,6 +44,12 @@ people-list:
 ## Former Group Members
 
 ### Postdocs
+[Dan Wanyama (2021-2023)](https://ecograph.github.io/wanyama)<br/>
+Current Position: Senior Scientist, Spatial Informatics Group
+
+[Dawn Nekorchuk (2017-2022)](https://ecograph.github.io/nekorchuk)<br/>
+Current Position: Senior Scientist, Spatial Informatics Group
+
 [Justin Davis (2016-2020)](https://ecograph.github.io/davis)<br/>
 Current Position: Research Analyst, Oklahoma Health Care Authority
 
