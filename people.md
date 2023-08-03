@@ -13,18 +13,16 @@ people-list:
     website: https://ecograph.github.io/bump
     url: https://ecograph.github.io/bump
   - name: Dr. Russ Doughty
-    img: /img/michaelg.jpg
+    img: /img/Doughty.jpg
     desc: Research Scientist
   - name: Andrews Korah
-    img: /img/Doughty.jpg
+    img: /img/AndrewsKorah.jpg
     desc: Graduate Assistant (Ph.D.)
     website: https://ecograph.github.io/korah
     url: https://ecograph.github.io/korah
   - name: Robert Moore
     img: /img/Tornado.jpg
     desc: Graduate Assistant (M.S.)
-    website: https://ecograph.github.io/nekorchuk
-    url: https://ecograph.github.io/nekorchuk
   - name: Nikhil Poudyal
     img: /img/Nikhil.jpg
     desc: Graduate Assistant (Ph.D.)
