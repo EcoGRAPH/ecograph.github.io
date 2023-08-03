@@ -2,6 +2,12 @@
 layout: page
 title: Publications
 ---
+### 2023
+* Brown, J. J., M. Pascual, M. C. Wimberly, L. R. Johnson, and C. C. Murdock. 2023. [Humidity – The overlooked variable in the thermal biology of mosquito-borne disease](https://onlinelibrary.wiley.com/doi/10.1111/ele.14228) Ecology Letters 26: 1029-1049.
+* Liu Z, W. J. Wang, A. Ballantyne, H. S. He, X. Wang, S. Liu, P. Ciais, M. C. Wimberly, S. Piao, K. Yu, Q. Yao. 2023. [Forest disturbance decreased in China from 1986 to 2020 despite regional variations](https://www.nature.com/articles/s43247-023-00676-x). Communications Earth & Environment 4(1):15.
+* Wanyama, D., M. C. Wimberly, F. Mensah. 2023. [Patterns and drivers of disturbance in tropical forest reserves of southern Ghana](https://iopscience.iop.org/article/10.1088/1748-9326/acd399). Environmental Research Letters 18: 064022.
+* Wimberly, M. C. 2023. [Geospatial Environmental Data for Planetary Health Applications](https://link.springer.com/chapter/10.1007/978-981-19-8765-6_7). Pages 123-141 In: T. Hung Wen, T. Chuang, and M. Tipayamongkholgul, editors. Earth Data Analytics for Planetary Health. Springer, New York.
+
 ### 2022
 * Neta, G., W. Pan, K. Ebi, D. F. Buss, T. Castranio, R. Lowe, A. M. Stewart-Ibarra, L. K. Hapairai, M. Sehgal, M. C. Wimberly, L. Rollock, M. Lichtveld, J. Balbus. 2022. [Advancing climate change health adaptation through implementation science](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00199-1/fulltext). The Lancet Planetary Health 6: e909-18. 
 * Kaskie, K. D., M. C. Wimberly, and P. J. Bauman. 2022. [Predictive mapping of low-density juniper stands in prairie landscapes of the northern Great Plains](https://www.sciencedirect.com/science/article/pii/S1550742422000367). Rangeland Ecology & Management 83: 81-90.
