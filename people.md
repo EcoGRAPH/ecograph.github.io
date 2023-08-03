@@ -16,12 +16,12 @@ people-list:
     img: /img/michaelg.jpg
     desc: Research Scientist
   - name: Andrews Korah
-    img: /img/AndrewsKorah.jpg
+    img: /img/Doughty.jpg
     desc: Graduate Assistant (Ph.D.)
     website: https://ecograph.github.io/korah
     url: https://ecograph.github.io/korah
   - name: Robert Moore
-    img: /img/Dawn.jpg
+    img: /img/Tornado.jpg
     desc: Graduate Assistant (M.S.)
     website: https://ecograph.github.io/nekorchuk
     url: https://ecograph.github.io/nekorchuk
@@ -127,6 +127,8 @@ M.S. in Forest Biology, University of Georgia<br/>
 Thesis: Plant Community Dynamics Following Wildfire in the South Appalachians: Changes in Diversity at Multiple Spatial Scales.
 
 ### Undergraduate Students
+Michael Glessner (2021-2022)
+
 Dillon Haller (2019-2020)
 
 Micala Newland (2019-2020)
