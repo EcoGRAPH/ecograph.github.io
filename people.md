@@ -1,7 +1,7 @@
 ---
 title: People
 people-list:
-  - name: Michael C. Wimberly
+  - name: Dr. Michael C. Wimberly
     img: /img/Wimberly.jpg
     desc: Principal Investigator. 
     website: https://ecograph.github.io/wimberly
@@ -9,32 +9,27 @@ people-list:
     twitter: https://twitter.com/mcwimberly
   - name: Eric Bump
     img: /img/bump.jpg
-    desc: Graduate Assistant (Ph.D.).
+    desc: Graduate Assistant (Ph.D.)
     website: https://ecograph.github.io/bump
     url: https://ecograph.github.io/bump
-  - name: Michael Glessner
+  - name: Dr. Russ Doughty
     img: /img/michaelg.jpg
-    desc: Undergraduate Research Assistant
+    desc: Research Scientist
   - name: Andrews Korah
     img: /img/AndrewsKorah.jpg
-    desc: Graduate Assistant (Ph.D.).
+    desc: Graduate Assistant (Ph.D.)
     website: https://ecograph.github.io/korah
     url: https://ecograph.github.io/korah
-  - name: Dawn Nekorchuk
+  - name: Robert Moore
     img: /img/Dawn.jpg
-    desc: Postdoctoral Research Associate.
+    desc: Graduate Assistant (M.S.)
     website: https://ecograph.github.io/nekorchuk
     url: https://ecograph.github.io/nekorchuk
   - name: Nikhil Poudyal
     img: /img/Nikhil.jpg
-    desc: Graduate Assistant (Ph.D.).
+    desc: Graduate Assistant (Ph.D.)
     website: https://ecograph.github.io/poudyal
     url: https://ecograph.github.io/poudyal  
-  - name: Dan Wanyama
-    img: /img/Dan_Wanyama.jpeg
-    desc: Postdoctoral Research Associate.
-    website: https://ecograph.github.io/wanyama
-    url: https://ecograph.github.io/wanyama
 ---
 
 ## Current Group Members
@@ -45,7 +40,7 @@ people-list:
 
 ### Postdocs
 [Dan Wanyama (2021-2023)](https://ecograph.github.io/wanyama)<br/>
-Current Position: Senior Scientist, Spatial Informatics Group
+Current Position: Assistant Professor, University of Connecticut
 
 [Dawn Nekorchuk (2017-2022)](https://ecograph.github.io/nekorchuk)<br/>
 Current Position: Senior Scientist, Spatial Informatics Group
@@ -57,7 +52,7 @@ Current Position: Research Analyst, Oklahoma Health Care Authority
 Current Position: Research Scientist, USGS Center for Earth Resoruces Observation and Science (EROS)
 
 Christopher Merkord (2014-2017)<br/>
-Current Position: Assistant Professor, Minnesota State University Mankato
+Current Position: Associate Professor, Minnesota State University Mankato
 
 Zhihua Liu (2012-2016)<br/>
 Current Position: Research Scientist, University of Montana
