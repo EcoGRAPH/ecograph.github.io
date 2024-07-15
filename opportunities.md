@@ -7,13 +7,13 @@ We are looking for a postdoctoral research associate to conduct research on urba
 
 A Ph.D. and research experience with geospatial data analysis and satellite remote sensing is required for the position. The Ph.D. must be completed before starting the position. The desired candidate should have strong writing and communication skills combined with programming experience using relevant platforms such as R, Python, or the Google Earth Engine API. This position is available beginning in September 2024, although a later start date is negotiable. To apply, please send a letter of interest, CV, and contact information for three references to Dr. Mike Wimberly at mcwimberly@ou.edu. Review of applications will begin in August 2024 and will continue until the position is filled. Feel free to send Dr. Wimberly an email first if you have questions about the position.
 
-## Equal Employment Opportunity Statement
+#### Equal Employment Opportunity Statement
 The University of Oklahoma, in compliance with all applicable federal and state laws and regulations, does not discriminate on the basis of race, color, national origin, sex, sexual orientation, genetic information, gender identity, gender expression, age, religion, disability, political beliefs, or status as a veteran in any of its policies, practices, or procedures. This includes, but is not limited to:  admissions, employment, financial aid, housing, services in educational programs or activities, or health care services that the University operates or provides.
 
-## Diversity Statement 
+#### Diversity Statement 
 The University of Oklahoma is committed to achieving a diverse, equitable and inclusive university community by recognizing each person's unique contributions, background, and perspectives. The University of Oklahoma strives to cultivate a sense of belonging and emotional support for all, recognizing that fostering an inclusive environment for all is vital in the pursuit of academic and inclusive excellence in all aspects of our institutional mission.
 
-Mission of the University of Oklahoma
+#### Mission of the University of Oklahoma
 The Mission of the University of Oklahoma is to provide the best possible educational experience for our students through excellence in teaching, research and creative activity, and service to the state and society.
 
 
