@@ -6,7 +6,8 @@ bigimg:
 ---
 
 # Dr. Michael C. Wimberly
-## Professor, Department of Geography and Environmental Sustainability, University of Oklahoma
+## Professor, [Department of Geography and Environmental Sustainability](https://www.ou.edu/ags/geography), University of Oklahoma
+## Associate Director, [Data Institute for Societal Challenges](https://www.ou.edu/disc)
 
 ### Education
 - B.A., Environmental Science, University of Virginia
@@ -38,11 +39,19 @@ Dr. Mike Wimberly is a Professor in the Department of Geography and Environmenta
 * Scientific Program Committee Member - American Society of Tropical Medicine and Hygiene
 
 ### Recent Grants
-* 8/2/2021-8/1/2024
+* 2/1/2024-1/31/2027
+NASA Land Cover and Land Use Change (80NSSC24K0357)
+Multi-Source, Multi-Resolution Imaging of Urban Land Cover to Improve Predictions of Human Heat Exposures
+PI: M. C. Wimberly; Co-Is: C. Deng, C. Wang
+* 4/1/2022-12/31/2024
+National Science Foundation (2200299)
+PIPP Phase I: Next Generation Surveillance Incorporating Public Health, One Health, and Data Science to Detect Emerging Pathogens of Pandemic Potential
+PI: D. S. Ebert, Co-Is: M. C. Wimberly, J. R. Vogel, T. Venkatesan, A. M. Wendelboe
+* 8/2/2021-8/1/2025
 NASA Carbon Cycle Science Program (80NSSC21K1714)
 Drought, Disturbance, and Carbon Dynamics of West African Tropical Forests
 PI: M. C. Wimberly; Co-I S. Crowell
-* 9/14/2020-8/31/2025
+* 9/14/2020-8/31/2026
 National Institute of Allergy and Infectious Diseases (R01AI153444)
 Redefining thermal suitability for urban malaria transmission in the context of humidity
 PI: C. C. Murdock; Co-Is: M. Pascual, M. C. Wimberly
