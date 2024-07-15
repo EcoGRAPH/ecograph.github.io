@@ -2,6 +2,13 @@
 layout: page
 title: Publications
 ---
+### 2024
+* Korah, A., & M. C. Wimberly. 2024. [Smaller cities have large impacts on West Africa's expanding urban system](https://doi.org/10.1016/j.scs.2024.105381) Sustainable Cities and Society, 106, 105381.
+* Korah, A., J. A. M. Koch, and M. C. Wimberly. 2024. [Understanding urban growth modeling in Africa: Dynamics, drivers, and challenges](https://doi.org/10.1016/j.cities.2023.104734). Cities 146: 104734.
+* Nekorchuk, D. M., A. Bharadwaja, S. Simonson, E. Ortega, C. M. B. Franca, E. Dinh, R. Reik, R. Burkholder, and M. C. Wimberly. 2024. [The Arbovirus Mapping and Prediction (ArboMAP) system for West Nile virus forecasting](https://doi.org/10.1093/jamiaopen/ooad110). JAMIA Open 7: ooad110.
+* Wimberly, M. C., D. Wanyama, R. Doughty, H. Peiro, and S. Crowell. 2024. [Increasing fire activity in African tropical forests is associated with deforestation and climate change](https://doi.org/10.1029/2023GL106240). Geophysical Research Letters, 51(9), e2023GL106240.
+
+
 ### 2023
 * Brown, J. J., M. Pascual, M. C. Wimberly, L. R. Johnson, and C. C. Murdock. 2023. [Humidity – The overlooked variable in the thermal biology of mosquito-borne disease](https://onlinelibrary.wiley.com/doi/10.1111/ele.14228) Ecology Letters 26: 1029-1049.
 * Liu Z, W. J. Wang, A. Ballantyne, H. S. He, X. Wang, S. Liu, P. Ciais, M. C. Wimberly, S. Piao, K. Yu, and Q. Yao. 2023. [Forest disturbance decreased in China from 1986 to 2020 despite regional variations](https://www.nature.com/articles/s43247-023-00676-x). Communications Earth & Environment 4(1):15.
