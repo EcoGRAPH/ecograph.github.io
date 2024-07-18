@@ -6,7 +6,7 @@ bigimg:
 ---
 
 # Dr. Michael C. Wimberly
-## Professor, [Department of Geography and Environmental Sustainability](https://www.ou.edu/ags/geography), University of Oklahoma
+## Professor, [Department of Geography and Environmental Sustainability, University of Oklahoma](https://www.ou.edu/ags/geography)
 ## Associate Director, [Data Institute for Societal Challenges](https://www.ou.edu/disc)
 
 ### Education
