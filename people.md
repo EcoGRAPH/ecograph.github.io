@@ -73,26 +73,26 @@ Chris Wright (2011-2013)<br/>
 Current Position: Research Associate, Natural Resources Research Institute
 
 Ting-Wu Chuang (2009-2012)<br/>
-Current Position: Associate Professor, Taipei Medical University
+Current Position: Professor, Taipei Medical University
 
 Aki Michimi (2008-2011)<br/>
-Current Position: Adjunct Professor, Eastern Connecticut State University
+Current Position: Adjunct Professor, University of Connecticut
 
 Mirela Tulbure (2008-2010)<br/>
-Current Position: Associate Professor, North Carolina State University
+Current Position: Professor, North Carolina State University
 
 ### Graduate Students
 Andrews Korah (8/2024)<br/>
 Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
-Dissertation: 
+Dissertation: Using Satellite Observations to Understand and Project the Urban Expansion Dynamics of the West Africa Urban System ﻿
 
 Nikhil Poudyal (8/2024)<br/>
 M.S. in Geography and Environmetal Sustainability, University of Oklahoma
-Thesis: 
+Thesis: Diurnal Changes in Surface Urban Heat Islands and their Relationships with Land Cover
 
 Robert Moore (5/2024)<br/>
 M.S. in Geography and Enivonmental Sustainability, University of Oklahoma
-Thesis: 
+Thesis: Enhanced Assessments of Tornado Locations and Damage Using Geospatial Technologies ﻿
 
 Avery Taylor (5/2022)<br/>
 M.S. in Geography and Environmental Sustainability, University of Oklahoma
