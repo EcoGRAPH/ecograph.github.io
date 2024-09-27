@@ -8,31 +8,40 @@ people-list:
     url: https://ecograph.github.io/wimberly
     twitter: https://twitter.com/mcwimberly
   - name: Emmanuel Adeleke
-    img: /img/tornado.jpg
+    img: /img/Tornado.jpg
     desc: Graduate Assistant (Ph.D.)
     website: https://ecograph.github.io/adeleke
-    url: https://ecograph.github.io/bump
+    url: https://ecograph.github.io/adeleke
   - name: Eric Bump
     img: /img/bump.jpg
     desc: Graduate Assistant (Ph.D.)
     website: https://ecograph.github.io/bump
     url: https://ecograph.github.io/bump
-  - name: Dr. Russ Doughty
-    img: /img/Doughty.jpg
-    desc: Research Scientist
-  - name: Andrews Korah
+  - name: Bridget Greb
+    img: /img/Tornado.jpg
+    desc: Graduate Assistant (M.S.)
+    website: https://ecograph.github.io/greb
+    url: https://ecograph.github.io/greb
+  - name: Dr. Yusuf Jamal
+    img: /img/Tornado.jpg
+    desc: Postdoctoral Research Associate
+    website: https://ecograph.github.io/jamal
+    url: https://ecograph.github.io/jamal  
+  - name: Dr. Andrews Korah
     img: /img/AndrewsKorah.jpg
-    desc: Graduate Assistant (Ph.D.)
+    desc: Postdoctoral Reseach Associate
     website: https://ecograph.github.io/korah
     url: https://ecograph.github.io/korah
   - name: Robert Moore
     img: /img/Tornado.jpg
-    desc: Graduate Assistant (M.S.)
-  - name: Nikhil Poudyal
-    img: /img/Nikhil.jpg
     desc: Graduate Assistant (Ph.D.)
-    website: https://ecograph.github.io/poudyal
-    url: https://ecograph.github.io/poudyal  
+    website: https://ecograph.github.io/moore
+    url: https://ecograph.github.io/moore
+  - name: Ryan Penic
+    img: /img/Tornado.jpg
+    desc: Research Assistant
+    website: https://ecograph.github.io/penic
+    url: https://ecograph.github.io/penic
 ---
 
 ## Current Group Members
