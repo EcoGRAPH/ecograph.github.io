@@ -7,6 +7,11 @@ people-list:
     website: https://ecograph.github.io/wimberly
     url: https://ecograph.github.io/wimberly
     twitter: https://twitter.com/mcwimberly
+  - name: Emmanuel Adeleke
+    img: /img/tornado.jpg
+    desc: Graduate Assistant (Ph.D.)
+    website: https://ecograph.github.io/adeleke
+    url: https://ecograph.github.io/bump
   - name: Eric Bump
     img: /img/bump.jpg
     desc: Graduate Assistant (Ph.D.)
@@ -68,11 +73,22 @@ Mirela Tulbure (2008-2010)<br/>
 Current Position: Associate Professor, North Carolina State University
 
 ### Graduate Students
+Andrews Korah (8/2024)<br/>
+Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
+Dissertation: 
 
-Avery Taylor (5/2022)<br>
+Nikhil Poudyal (8/2024)<br/>
+M.S. in Geography and Environmetal Sustainability, University of Oklahoma
+Thesis: 
+
+Robert Moore (5/2024)<br/>
+M.S. in Geography and Enivonmental Sustainability, University of Oklahoma
+Thesis: 
+
+Avery Taylor (5/2022)<br/>
 M.S. in Geography and Environmental Sustainability, University of Oklahoma
 
-Andrea McMahon (8/2021)<br>
+Andrea McMahon (8/2021)<br/>
 Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
 Dissertation: Earth Observation and Mosquito-Borne Diseases: Assessing Environmental Risk Factors for Transmission via Remote Sensing Data
 
