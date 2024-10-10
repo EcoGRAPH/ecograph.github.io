@@ -6,8 +6,8 @@ people-list:
     desc: Principal Investigator. 
     website: https://ecograph.github.io/wimberly
     url: https://ecograph.github.io/wimberly
+    linkedin: mcwimberly
     twitter: https://twitter.com/mcwimberly
-    linkedin: https://www.linkedin.com/in/mcwimberly
   - name: Dr. Yusuf Jamal
     img: /img/Tornado.jpg
     desc: Postdoctoral Research Associate
