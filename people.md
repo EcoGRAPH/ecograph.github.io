@@ -7,21 +7,6 @@ people-list:
     website: https://ecograph.github.io/wimberly
     url: https://ecograph.github.io/wimberly
     twitter: https://twitter.com/mcwimberly
-  - name: Emmanuel Adeleke
-    img: /img/Tornado.jpg
-    desc: Graduate Assistant (Ph.D.)
-    website: https://ecograph.github.io/adeleke
-    url: https://ecograph.github.io/adeleke
-  - name: Eric Bump
-    img: /img/bump.jpg
-    desc: Graduate Assistant (Ph.D.)
-    website: https://ecograph.github.io/bump
-    url: https://ecograph.github.io/bump
-  - name: Bridget Greb
-    img: /img/Tornado.jpg
-    desc: Graduate Assistant (M.S.)
-    website: https://ecograph.github.io/greb
-    url: https://ecograph.github.io/greb
   - name: Dr. Yusuf Jamal
     img: /img/Tornado.jpg
     desc: Postdoctoral Research Associate
@@ -37,6 +22,21 @@ people-list:
     desc: Graduate Assistant (Ph.D.)
     website: https://ecograph.github.io/moore
     url: https://ecograph.github.io/moore
+  - name: Emmanuel Adeleke
+    img: /img/Tornado.jpg
+    desc: Graduate Assistant (Ph.D.)
+    website: https://ecograph.github.io/adeleke
+    url: https://ecograph.github.io/adeleke
+  - name: Eric Bump
+    img: /img/bump.jpg
+    desc: Graduate Assistant (Ph.D.)
+    website: https://ecograph.github.io/bump
+    url: https://ecograph.github.io/bump
+  - name: Bridget Greb
+    img: /img/Tornado.jpg
+    desc: Graduate Assistant (M.S.)
+    website: https://ecograph.github.io/greb
+    url: https://ecograph.github.io/greb
   - name: Ryan Penic
     img: /img/Tornado.jpg
     desc: Research Assistant
