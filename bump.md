@@ -2,7 +2,7 @@
 layout: page
 title: ""
 bigimg: 
-  - "/img/bluesquare.jpg"
+  - "/img/ClimateHealthBanner.jpg"
 ---
 
 # Eric Bump
