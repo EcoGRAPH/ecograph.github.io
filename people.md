@@ -9,7 +9,7 @@ people-list:
     linkedin: https://linkedin.com/in/mcwimberly
     twitter: https://twitter.com/mcwimberly
   - name: Dr. Yusuf Jamal
-    img: /img/Tornado.jpg
+    img: /img/Yusuf_photo.jpg
     desc: Postdoctoral Research Associate
     website: https://ecograph.github.io/jamal
     url: https://ecograph.github.io/jamal  
@@ -24,7 +24,7 @@ people-list:
     website: https://ecograph.github.io/moore
     url: https://ecograph.github.io/moore
   - name: Eric Bump
-    img: /img/bump.jpg
+    img: /img/EricBump.JPG
     desc: Graduate Assistant (Ph.D.)
     website: https://ecograph.github.io/bump
     url: https://ecograph.github.io/bump
@@ -34,7 +34,7 @@ people-list:
     website: https://ecograph.github.io/greb
     url: https://ecograph.github.io/greb
   - name: Ryan Penic
-    img: /img/Tornado.jpg
+    img: /img/RyanPenic.jpg
     desc: Research Assistant
     website: https://ecograph.github.io/penic
     url: https://ecograph.github.io/penic
