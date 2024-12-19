@@ -7,6 +7,7 @@ bigimg:
 
 # Eric Bump
 ## Ph.D. Student, Graduate Teaching Assistant
+## Department of Geography and Environmental Sustainability, University of Oklahoma
 
 ### Education
 - MPH in Epidemiology, University of Oklahoma Health Sciences Center
