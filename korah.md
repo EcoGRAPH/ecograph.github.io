@@ -7,6 +7,7 @@ bigimg:
 
 # Andrews Korah
 ## Ph.D. Student, Graduate Teaching Assistant
+## Department of Geography and Environmental Sustainability, University of Oklahoma
 
 ### Education
 - B.A. Geography and Rural Development, Kwame Nkrumah University of Science and Technology
