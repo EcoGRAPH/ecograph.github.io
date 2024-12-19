@@ -29,7 +29,7 @@ people-list:
     website: https://ecograph.github.io/bump
     url: https://ecograph.github.io/bump
   - name: Bridget Greb
-    img: /img/HeadshotGreb.JPG
+    img: /img/HeadshotGreb2.JPG
     desc: Graduate Assistant (M.S.)
     website: https://ecograph.github.io/greb
     url: https://ecograph.github.io/greb
