@@ -6,8 +6,8 @@ bigimg:
 ---
 
 # Bridget Greb
-## Department of Geography and Environmental Sustainability, University of Oklahoma
 ## M.S. Student, Graduate Teaching Assistant
+## Department of Geography and Environmental Sustainability, University of Oklahoma
 
 ### Education
 B.S., Mathematics and Atmospheric Science with GIS and Climate Change Certificates, University of Kansas
