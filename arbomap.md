@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ArboMAP
-subtitle: Arbovirus Mapping and Prediction to Forecast Mosuqito-Borne Disease Outbreaks
+subtitle: Arbovirus Mapping and Prediction to Forecast Mosquito-Borne Disease Outbreaks
 bigimg: 
   - "/img/Culex_mosquito.jpg" : "Engorged culicine mosquito (CDC PHIL)"
 ---
