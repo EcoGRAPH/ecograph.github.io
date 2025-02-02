@@ -4,9 +4,9 @@ title: Publications
 ---
 ### 2024
 * Korah, A., & M. C. Wimberly. 2024. [Smaller cities have large impacts on West Africa's expanding urban system](https://doi.org/10.1016/j.scs.2024.105381) Sustainable Cities and Society, 106, 105381.
-* Korah, A., & M. C. Wimberly. 2024. [Annual impervious surface data from 2001-2020 for West African countries: Ghana, Togo, Benin, and Nigeria](https://www.nature.com/articles/s41597-024-03610-8](https://doi.org/10.1038/s41597-024-03610-8) Scientific Data, 11, 791.
+* Korah, A., & M. C. Wimberly. 2024. [Annual impervious surface data from 2001-2020 for West African countries: Ghana, Togo, Benin, and Nigeria](https://doi.org/10.1038/s41597-024-03610-8) Scientific Data, 11, 791.
 * Korah, A., J. A. M. Koch, and M. C. Wimberly. 2024. [Understanding urban growth modeling in Africa: Dynamics, drivers, and challenges](https://doi.org/10.1016/j.cities.2023.104734). Cities 146: 104734.
-* Nekorchuk, D. M., A. Bharadwaja, S. Simonson, E. Ortega, C. M. B. Franca, E. Dinh, R. Reik, R. Burkholder, and M. C. Wimberly. 2024. [The Arbovirus Mapping and Prediction (ArboMAP) system for West Nile virus forecasting](https://doi.org/10.1093/jamiaopen/ooad110). JAMIA Open 7: ooad110.
+* Nekorchuk, D. M., A. Bharadwaja, S. Simonson, E. Ortega, C. M. B. Franca, E. Dinh, R. Reik, R. Burkholder, and M. C. Wimberly. 2024. [The Arbovirus Mapping and Prediction (ArboMAP) system for West Nile virus forecasting](https://doi.org/10.1093/jamiaopen/ooad110). JAMIA Open, 7: ooad110.
 * Wimberly, M. C., D. Wanyama, R. Doughty, H. Peiro, and S. Crowell. 2024. [Increasing fire activity in African tropical forests is associated with deforestation and climate change](https://doi.org/10.1029/2023GL106240). Geophysical Research Letters, 51(9), e2023GL106240.
 
 
