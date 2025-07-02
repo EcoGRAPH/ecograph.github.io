@@ -6,7 +6,7 @@ bigimg:
 ---
 
 # Eric Bump
-## Ph.D. Student, Graduate Teaching Assistant
+## Ph.D. Student, Graduate Research Assistant
 ## Department of Geography and Environmental Sustainability, University of Oklahoma
 
 ### Education
@@ -14,4 +14,4 @@ bigimg:
 - B.S. in Health and Exercise Science, University of Oklahoma
 
 ### Research Interests
-Vector-borne diseases, disease ecology, public health, spatial epidemiology, GIS, remote sensing
+Vector-borne diseases, disease ecology, public health, climate epidemiology
