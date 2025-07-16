@@ -3,7 +3,7 @@ title: People
 people-list:
   - name: Dr. Michael C. Wimberly
     img: /img/Wimberly.jpg
-    desc: Principal Investigator. 
+    desc: Principal Investigator 
     website: https://ecograph.github.io/wimberly
     url: https://ecograph.github.io/wimberly
     linkedin: https://linkedin.com/in/mcwimberly
