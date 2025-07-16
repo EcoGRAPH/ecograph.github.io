@@ -11,7 +11,7 @@ bigimg:
 
 ### Education
 - B.A. Geography and Rural Development, Kwame Nkrumah University of Science and Technology
-- M.A. Geography, Miami University
+- M.A. Geography, Miami (OH) University
 
 ### Research Interests
 Geographic information systems, satellite remote sensing, urban land use
