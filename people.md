@@ -18,16 +18,17 @@ people-list:
     desc: Postdoctoral Reseach Associate
     website: https://ecograph.github.io/korah
     url: https://ecograph.github.io/korah
-  - name: Robert Moore
-    img: /img/Tornado.jpg
-    desc: Graduate Assistant (Ph.D.)
-    website: https://ecograph.github.io/moore
-    url: https://ecograph.github.io/moore
   - name: Eric Bump
     img: /img/EricBump.JPG
     desc: Graduate Assistant (Ph.D.)
     website: https://ecograph.github.io/bump
     url: https://ecograph.github.io/bump
+    linkedin: https://linkedin.com/in/ericbump
+  - name: Robert Moore
+    img: /img/Tornado.jpg
+    desc: Graduate Assistant (Ph.D.)
+    website: https://ecograph.github.io/moore
+    url: https://ecograph.github.io/moore
   - name: Bridget Greb
     img: /img/HeadshotGreb2.JPG
     desc: Graduate Assistant (M.S.)
