@@ -12,7 +12,7 @@ bigimg:
 ### Education
 - Ph.D., Environmental Engineering Sciences, University of Florida, Gainesville, USA
 - M. Tech., Civil Engineering, Indian Institute of Technology Kanpur, India
-- B.Tech., Civil Engineering, Aligarh Muslim University, India
+- B. Tech., Civil Engineering, Aligarh Muslim University, India
 	
 ### Research Interests
 Dr. Yusuf Jamal is a Postdoctoral Research Associate in the Department of Geography and Environmental Sustainability at the University of Oklahoma. His areas of study include environmental sustainability, climate epidemiology, GIS and remote sensing, and urban environmental modeling for disease prediction. A civil engineer by training, he integrates life sciences and data science to understand how climate affects public health. He is committed to developing data-driven computational approaches that enhance resilience and improve health outcomes in communities worldwide.
