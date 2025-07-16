@@ -10,8 +10,9 @@ bigimg:
 ## Department of Geography and Environmental Sustainability, University of Oklahoma
 
 ### Education
-- B.A. Geography and Rural Development, Kwame Nkrumah University of Science and Technology
-- M.A. Geography, Miami (OH) University
+- Ph.D., Geography and Environmental Sustainability, University of Oklahoma
+- M.A., Geography, Miami (OH) University
+- B.A., Geography and Rural Development, Kwame Nkrumah University of Science and Technology
 
 ### Research Interests
 Geographic information systems, satellite remote sensing, urban land use
