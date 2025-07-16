@@ -3,6 +3,7 @@ layout: page
 title: Publications
 ---
 ### 2025
+* Bump, E. R., Bharadwaja, A., Simonson, S., Ortega, E., & Wimberly, M. C. (2025). [Integrating wind speed into climate‐based West Nile virus models: A comparative analysis in two distinct regions](https://doi.org/10.1029/2024GH001320). GeoHealth, 9, e2024GH001320. 
 * Doughty, R., Wimberly, M. C., Wanyama, D., Peiro, H., Parazoo, N., Crowell, S., Cho, M. A. 2025. [Seasonality and synchrony of photosynthesis in African forests inferred from spaceborne chlorophyll fluorescence and vegetation indices](https://doi.org/10.5194/bg-22-1985-2025). Biogeosciences, 22, 1985–2004.
 * Korah, A., Smith, L., Wimberly, M. C. [Understanding urban expansion across primary and secondary cities in Ghana](https://doi.org/10.1016/j.habitatint.2025.103339). Habitat International, 158, 103339.
 * Marquez, M. R., Talukder, H., Cheng, W., Becker, D. J., Wimberly, M. C., Yang, A. 2025. [Micro-and Macroenvironment and Habitat Influences on Tick Abundance in Oklahoma City Urban Parks](https://doi.org/10.4269/ajtmh.24-0418). American Journal of Tropical Medicine and Hygiene, 113, 187-199.
