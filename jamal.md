@@ -15,7 +15,7 @@ bigimg:
 - B.Tech. in Civil Engineering, Aligarh Muslim University, India
 	
 ### Research Interests
-Yusuf Jamal is a Postdoctoral Research Associate in the Department of Geography and Environmental Sustainability at the University of Oklahoma. His areas of study include environmental sustainability, climate epidemiology, GIS and remote sensing, and urban environmental modeling for disease prediction. A civil engineer by training, he integrates life sciences and data science to understand how climate affects public health. He is committed to developing data-driven computational approaches that enhance resilience and improve health outcomes in communities worldwide.
+Dr. Yusuf Jamal is a Postdoctoral Research Associate in the Department of Geography and Environmental Sustainability at the University of Oklahoma. His areas of study include environmental sustainability, climate epidemiology, GIS and remote sensing, and urban environmental modeling for disease prediction. A civil engineer by training, he integrates life sciences and data science to understand how climate affects public health. He is committed to developing data-driven computational approaches that enhance resilience and improve health outcomes in communities worldwide.
 
 ### Publications
 - Usmani, M., Brumfield, K. D., **Jamal, Y**., Huq, A., Colwell, R. R., & Jutla, A. (2021). A Review of the Environmental Trigger and Transmission Components for Prediction of Cholera. Tropical Medicine and Infectious Disease, 6(3), 147. <https://doi.org/10.3390/tropicalmed6030147>
