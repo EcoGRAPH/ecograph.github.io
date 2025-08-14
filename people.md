@@ -42,7 +42,7 @@ people-list:
     desc: Research Assistant
     website: https://ecograph.github.io/penic
     url: https://ecograph.github.io/penic
-    linkedin: https://linkedin.com/in/ryan-penic-187814137 
+    linkedin: https://linkedin.com/in/ryan-penić-187814137 
 ---
 
 ## Current Group Members
