@@ -11,10 +11,10 @@ Follow on twitter [@nekodawn](https://twitter.com/nekodawn) or on [linkedin](htt
 
 
 ### Education
-* Ph.D. in Geography (Medical Geography) and Certificate in One Health, University of Florida
+* Ph.D., Geography (Medical Geography) and Certificate in One Health, University of Florida
 * Graduate Diploma in Geographic Information Systems, Flinders University, Australia
-* M.S. in Public Health and Certificate in Disaster Management & Humanitarian Assistance, University of Hawai‘i at Mānoa
-* B.S. in Biology, Massachusetts Institute of Technology
+* M.S., Public Health and Certificate in Disaster Management & Humanitarian Assistance, University of Hawai‘i at Mānoa
+* B.S., Biology, Massachusetts Institute of Technology
 
 
 ### Research & Interests
