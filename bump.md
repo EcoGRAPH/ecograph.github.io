@@ -2,7 +2,7 @@
 layout: page
 title: ""
 bigimg: 
-  - "/img/mosquitoes_banner_1200x300.jpg"
+  - "/img/earth_mos_image.jpg"
 ---
 
 # Eric Bump
