@@ -2,7 +2,7 @@
 layout: page
 title: ""
 bigimg: 
-  - "https://www.health.ny.gov/diseases/mosquitoes/images/mosquitoes_banner_1200x300.jpg"
+  - "/img/mosquitoes_banner_1200x300.jpg"
 ---
 
 # Eric Bump
