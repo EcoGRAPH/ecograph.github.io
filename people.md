@@ -62,10 +62,10 @@ Current Position: Senior Scientist, Spatial Informatics Group
 Current Position: Research Analyst, Oklahoma Health Care Authority
 
 [Francis Dwomoh (2018-2019)](https://ecograph.github.io/dwomoh)<br/>
-Current Position: Research Scientist, USGS Center for Earth Resoruces Observation and Science (EROS)
+Current Position: Research Scientist, USGS Center for Earth Resources Observation and Science (EROS)
 
 Christopher Merkord (2014-2017)<br/>
-Current Position: Associate Professor, Minnesota State University Mankato
+Current Position: Associate Professor, Minnesota State University, Mankato
 
 Zhihua Liu (2012-2016)<br/>
 Current Position: Research Scientist, University of Montana
@@ -88,11 +88,11 @@ Ph.D. in Geography and Environmental Sustainability, University of Oklahoma
 Dissertation: Using Satellite Observations to Understand and Project the Urban Expansion Dynamics of the West Africa Urban System ﻿
 
 Nikhil Poudyal (8/2024)<br/>
-M.S. in Geography and Environmetal Sustainability, University of Oklahoma
+M.S. in Geography and Environmental Sustainability, University of Oklahoma
 Thesis: Diurnal Changes in Surface Urban Heat Islands and their Relationships with Land Cover
 
 Robert Moore (5/2024)<br/>
-M.S. in Geography and Enivonmental Sustainability, University of Oklahoma
+M.S. in Geography and Environmental Sustainability, University of Oklahoma
 Thesis: Enhanced Assessments of Tornado Locations and Damage Using Geospatial Technologies ﻿
 
 Avery Taylor (5/2022)<br/>
