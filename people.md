@@ -36,6 +36,7 @@ people-list:
     desc: Graduate Assistant (M.S.)
     website: https://ecograph.github.io/greb
     url: https://ecograph.github.io/greb
+    linkedin: https://linkedin.com/in/bridget-greb-3a9902244
   - name: Ryan Penic
     img: /img/RyanPenic.jpg
     desc: Research Assistant
