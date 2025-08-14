@@ -10,9 +10,9 @@ bigimg:
 ## Associate Director, [Data Institute for Societal Challenges](https://www.ou.edu/disc)
 
 ### Education
-- B.A., Environmental Science, University of Virginia
-- M.S., Quantitative Resource Management, University of Washington
 - Ph.D., Forest Ecology, Oregon State University
+- M.S., Quantitative Resource Management, University of Washington
+- B.A., Environmental Science, University of Virginia
 
 ### Research Interests
 Dr. Mike Wimberly is a Professor in the Department of Geography and Environmental Sustainability at the University of Oklahoma and the head of the EcoGRAPH research group. His research combines ecological models with satellite Earth observations to address scientific questions and develop applications in the fields of public health and natural resource management. Areas of study include wildfire and vegetation dynamics in temperate and tropical forest ecosystems, drivers and consequences of urbanization and agricultural expansion, and the effects of land use and climate on vector-borne disease transmission. Dr. Wimberly builds upon this research to create software that applies geospatial data and analytics for decision support. He has developed disease early warning systems to predict West Nile virus outbreaks in the United States and malaria in Ethiopia, used Earth observations to monitor forest degradation and urban growth in West Africa, and designed spatial simulation models to project future landscapes under scenarios of global change.
