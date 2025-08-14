@@ -9,9 +9,9 @@ bigimg:
 ## Postdoctoral Research Associate
 
 ### Education 
-- Ph.D. in Geography and Geospatial Science, Michigan State University 
-- MS in Geospatial Science, University of North Alabama
-- BS in Environmental Studies and Community Development, Kenyatta University, Kenya
+- Ph.D., Geography and Geospatial Science, Michigan State University 
+- M.S., Geospatial Science, University of North Alabama
+- B.S., Environmental Studies and Community Development, Kenyatta University, Kenya
 
 ### Research Interests 
 Dan Wanyama is a Postdoctoral Research Associate in the Department of Geography and Environmental Sustainability at the University of Oklahoma. Dan’s research uses geospatial data and techniques to characterize the differentiated impacts of climate change on local livelihoods and systems, with the aim of devising practical and contextualized ways to mitigate and adapt to the changing climate. At EcoGRAPH, Dan is using multiple satellite sensors to study the interactive effects of drought, land use change, and fire on tropical forests in Africa. 
