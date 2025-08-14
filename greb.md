@@ -10,7 +10,7 @@ bigimg:
 ## Department of Geography and Environmental Sustainability, University of Oklahoma
 
 ### Education
-- B.S., Mathematics; B.S., Atmospheric Science, Minor in Geography, University of Kansas
+- B.S., Mathematics; B.S., Atmospheric Science, Minor: Geography, University of Kansas
 - Geographic Information Science Undergraduate Certificate, University of Kansas
 - Climate and Climate Change Undergraduate Certificate, University of Kansas
 
