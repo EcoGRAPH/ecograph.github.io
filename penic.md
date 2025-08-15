@@ -5,7 +5,8 @@ bigimg:
   - "/img/bluesquare.jpg"
 ---
 
-# Ryan Penic
+# Ryan Penić
+
 ## Research Assistant
 
 ### Education
