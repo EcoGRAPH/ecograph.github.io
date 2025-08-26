@@ -31,7 +31,7 @@ people-list:
     desc: Graduate Assistant (Ph.D.)
     website: https://ecograph.github.io/moore
     url: https://ecograph.github.io/moore
-    name: Bright Andoh
+  - name: Bright Andoh
     img: /img/Bright_Andoh.jpg
     desc: Graduate Assistant (Ph.D.)
     website: https://ecograph.github.io/andoh
