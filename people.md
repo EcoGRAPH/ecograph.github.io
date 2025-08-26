@@ -31,6 +31,12 @@ people-list:
     desc: Graduate Assistant (Ph.D.)
     website: https://ecograph.github.io/moore
     url: https://ecograph.github.io/moore
+    name: Bright Andoh
+    img: 
+    desc: Graduate Assistant (Ph.D.)
+    website: https://ecograph.github.io/andoh
+    url: https://ecograph.github.io/andoh
+    linkedin: https://linkedin.com/in/bright-andoh-151ba419b
   - name: Bridget Greb
     img: /img/HeadshotGreb2.JPG
     desc: Graduate Assistant (M.S.)
