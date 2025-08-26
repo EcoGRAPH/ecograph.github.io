@@ -2,7 +2,7 @@
 layout: page
 title: ""
 bigimg: 
-  - "/img/mosquitoes_banner_1200x300.jpg"
+  - "/img/andoh_banner.jpg"
 ---
 
 # Bright Andoh
