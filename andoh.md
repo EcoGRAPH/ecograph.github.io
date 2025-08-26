@@ -10,7 +10,7 @@ bigimg:
 ## Department of Geography and Environmental Sustainability, University of Oklahoma
 
 ### Education
-- MSc., Applied Geographical Information Systems and Remote Sensing, University of Southampton
+- MSc, Applied Geographical Information Systems and Remote Sensing, University of Southampton
 - B.A., Geography and Rural Development, Kwame Nkrumah University of Science and Technology
 
 ### Research Interests
