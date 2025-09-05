@@ -43,6 +43,12 @@ people-list:
     website: https://ecograph.github.io/greb
     url: https://ecograph.github.io/greb
     linkedin: https://linkedin.com/in/bridget-greb-3a9902244
+    name: Natalie Cross
+    img: 
+    desc: Research Assistant
+    website: https://ecograph.github.io/cross
+    url: https://ecograph.github.io/cross
+    linkedin: https://linkedin.com/in/nataliehcross
   - name: Ryan Penic
     img: /img/RyanPenic.jpg
     desc: Research Assistant
