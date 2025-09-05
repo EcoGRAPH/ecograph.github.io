@@ -2,7 +2,7 @@
 layout: page
 title: ""
 bigimg: 
-  - "/img/bluesquare.jpg" : "this is a comment"
+  - "/img/korah_tree.jpg"
 ---
 
 # Andrews Korah
