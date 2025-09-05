@@ -2,7 +2,7 @@
 layout: page
 title: ""
 bigimg: 
-  - "/img/"
+  - "/img/cross_flowers.jpg"
 ---
 
 # Natalie Cross
