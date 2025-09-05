@@ -16,7 +16,7 @@ people-list:
     linkedin: https://linkedin.com/in/yusuf-jamal-9142a8101 
   - name: Dr. Andrews Korah
     img: /img/AndrewsKorah.jpg
-    desc: Postdoctoral Reseach Associate
+    desc: Postdoctoral Research Associate
     website: https://ecograph.github.io/korah
     url: https://ecograph.github.io/korah
     linkedin: https://linkedin.com/in/andrews-korah 
