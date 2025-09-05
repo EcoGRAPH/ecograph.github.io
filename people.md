@@ -44,7 +44,7 @@ people-list:
     url: https://ecograph.github.io/greb
     linkedin: https://linkedin.com/in/bridget-greb-3a9902244
   - name: Natalie Cross
-    img: /img/cross_pic.jpg
+    img: /img/
     desc: Graduate Assistant (M.S.)
     website: https://ecograph.github.io/cross
     url: https://ecograph.github.io/cross
