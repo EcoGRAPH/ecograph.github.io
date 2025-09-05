@@ -24,7 +24,8 @@ Andrews Korah is a Postdoctoral Research Associate in Geography and Environmenta
 - **Korah, A.**, Koch, J. A. M., & Wimberly, M. C. (2024). Understanding urban growth modeling in Africa: Dynamics, drivers, and challenges. Cities, 146, 104734. <https://doi.org/10.1016/j.cities.2023.104734>
 - Korah, P. I., **Korah, A.**, & Ahmed, A. (2023). Spatio-temporal dynamics of tree cover change in semi-arid Ghana: Evidence from Sentinel-2 time series data. African Geographical Review, 0(0), 1–15 <https://doi.org/10.1080/19376812.2023.2190140>
 
-### University Courses Taught 
+### University Courses Taught
+
 #### University of Oklahoma
 - GIS 5453 – Advanced GIS and Spatial Analysis (3 semester credits, lecture/lab) 2025
 - GEOG 1114 – Physical Geography (4 semester credits, lecture/lab) 2022, 2023
