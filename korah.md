@@ -6,7 +6,7 @@ bigimg:
 ---
 
 # Andrews Korah
-## Ph.D. Student, Graduate Teaching Assistant
+## Postdoctoral Research Associate
 ## Department of Geography and Environmental Sustainability, University of Oklahoma
 
 ### Education
