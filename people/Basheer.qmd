@@ -1,6 +1,6 @@
 ---
 title: "Dr. Aseel Basheer"
-description: "Posdoctoral Research Associate"
+description: "Postdoctoral Research Associate"
 image: "../images/aseel.jpg"
 order: 3
 format: 
@@ -18,6 +18,47 @@ format:
           </style>
 ---
 
-### Education
+## Short Biography
 
-### Research Interests
+**Aseel Basheer, Ph.D.** is a Postdoctoral Research Associate at the University of Oklahoma. She received her Ph.D. in Computer Science from the University of Oklahoma, where her research focused on developing visual analytics approaches for syndromic surveillance and pandemic readiness within a One Health framework.
+
+Her research integrates data science, visual analytics, geospatial analysis, and statistical modeling to support infectious disease surveillance, epidemic forecasting, and public health decision-making. She is particularly interested in developing interactive, data-driven systems that integrate human, animal, and environmental health data to improve understanding of complex disease dynamics.
+
+Her recent work includes the development of OH-MEMA, an integrated One Health mixed-effects modeling and visual analytics framework, and contributions to EPIDEMIA, a climate-sensitive malaria early-warning and decision-support platform for Ethiopia. Her broader research aims to bridge methodological advances in data science with practical tools that support public health professionals, researchers, and decision-makers.
+
+## Education
+
+- Ph.D., Computer Science, University of Oklahoma
+- M.Sc., Computer Science, Oklahoma City University
+- B.A., Computer Science, University of Baghdad
+
+## Statement of Research Interests
+
+My research interests lie at the intersection of **data science, visual analytics, computational epidemiology, and One Health**. I focus on developing interactive and interpretable analytical systems that integrate heterogeneous data sources to support infectious disease surveillance, epidemic forecasting, and public health decision-making.
+
+My research explores the following areas:
+
+- **One Health and Infectious Disease Surveillance:** Integrating human, animal, and environmental health data to investigate disease dynamics and strengthen early-warning systems.
+- **Visual Analytics and Decision Intelligence:** Designing interactive visual analytics systems that combine statistical analysis, geospatial visualization, and human-centered interaction to facilitate exploration and interpretation of complex data.
+- **Epidemic Modeling and Forecasting:** Applying statistical and machine learning methods, including mixed-effects models and time-series forecasting, to understand and predict infectious disease patterns.
+- **Climate-Sensitive Diseases and Environmental Epidemiology:** Investigating relationships between environmental and climatic factors and infectious disease transmission, particularly malaria.
+- **Geospatial Data Science:** Leveraging spatial analysis, remote sensing, and environmental datasets to understand geographic variations in disease risk.
+- **Human-Centered AI and Decision Support:** Exploring how interactive AI-driven analytical tools can support domain experts in interpreting model outputs, evaluating evidence, and making informed decisions.
+
+A central theme of my work is bridging the gap between predictive modeling and actionable insights through transparent, interactive, and human-centered decision-support systems.
+
+## Selected Publications
+
+1. [A One Health Visual Analytics Approach for Syndromic Surveillance](https://doi.org/10.1016/j.onehlt.2026.101561). *One Health*, 2026.
+2. [Integrated One Health Mixed-Effects Modeling for Syndromic Surveillance and Visual Analytics](https://doi.org/10.3390/jcm15082966). *Journal of Clinical Medicine*, 2026, 15(8), 2966.
+3. [A One Health Review of Visual Analytics and Integrated Health Surveillance](https://doi.org/10.1016/j.onehlt.2025.101253). *One Health*, 2025.
+
+## Research Projects and Platforms
+
+- **[EPIDEMIA 2.0](../software/epidemia2.html):** Development of next-generation tools for improved forecasting of climate-sensitive diseases, particularly malaria, in Ethiopia.
+- **OH-MEMA:** An integrated One Health mixed-effects modeling and visual analytics framework for syndromic surveillance.
+- **Predictive Intelligence for Pandemic Prevention (PIPP):** Visual analytics and predictive modeling for pandemic surveillance and readiness through the integration of diverse health and environmental datasets.
+
+## Professional and Research Interests
+
+One Health | Visual Analytics | Data Science | Computational Epidemiology | Infectious Disease Surveillance | Epidemic Forecasting | Geospatial Analytics | Climate-Sensitive Diseases | Human-Centered AI | Decision Intelligence
