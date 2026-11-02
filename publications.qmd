@@ -5,6 +5,7 @@ title: Publications
 
 ### 2026
 
+- Basheer, A., S. J. Saidi, P. M. Khiabani, W. Jentner, A. Wendelboe, J. Vogel, K. Kuhn, M. C. Wimberly, J. A. Morrison, K. Topdjian, D. Hougen, and D. Ebert. 2026. [A one health visual analytics approach for syndromic surveillance](https://doi.org/10.1016/j.onehlt.2026.101561). One Health, 23: 101561.
 - Basheer, A., P. M. Khiabani, W. Jentner, A. Wendelboe, J. R. Vogel, K. G. Kuhn, M. C. Wimberly, D. Hougen, and D. Ebert. 2026. [OH-MEMA: An Integrated One Health Mixed-Effects Modeling Approach for Syndromic Surveillance](https://doi.org/10.3390/jcm15082966). Journal of Clinical Medicine, 15: 2966.
 - Batheja, D., D. Samria, M. C. Wimberly, M. Pascual, R. K. Baharia, A. K. Mohanty, V. Desai, K. Vaishnav, R. Sharma, V. Kohli, S. A. Sharma, A. Anvikar, C. C. Murdock, and A. Nandi. 2026. [Socioeconomic and household water management determinants of malaria and other vector-borne disease prevention in Urban Gujarat, India](https://doi.org/10.1186/s12936-026-05830-2). Malaria Journal, 25: 141.
 - Bhattarai, R., J. Koch, W. Jentner, M. Habib, M. C. Wimberly, D. Ebert. 2026. [Scale, trust, and the digital divide: a systematic review of AI and ML for agricultural applications](https://doi.org/10.3389/frai.2026.1798896). Frontiers in Artificial Intelligence, 9:1798896.
