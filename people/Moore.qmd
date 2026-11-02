@@ -1,7 +1,7 @@
 ---
 title: "Robert Moore"
 description: "Ph.D. Student"
-image: "../images/test.jpg"
+image: "../images/tornado.jpg"
 order: 4
 format: 
   html:
@@ -20,6 +20,4 @@ format:
 
 ### Education
 
-
 ### Research Interests
-

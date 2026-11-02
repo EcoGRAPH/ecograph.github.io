@@ -1,7 +1,7 @@
 ---
 title: "Dr. Andrews Korah"
 description: "Postdoctoral Research Associate"
-image: "../images/test.jpg"
+image: "../images/AndrewsKorah.jpg"
 order: 2
 format: 
   html:
@@ -20,8 +20,4 @@ format:
 
 ### Education
 
-
-
 ### Research Interests
-
-

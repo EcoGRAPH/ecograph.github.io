@@ -1,7 +1,7 @@
 ---
 title: "Dr. Aseel Basheer"
 description: "Posdoctoral Research Associate"
-image: "../images/test.jpg"
+image: "../images/aseel.jpg"
 order: 3
 format: 
   html:
@@ -20,7 +20,4 @@ format:
 
 ### Education
 
-
-
 ### Research Interests
-
