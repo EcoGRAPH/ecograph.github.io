@@ -1,0 +1,40 @@
+[
+  {
+    "listing": "/software.html",
+    "items": [
+      "/software/epidemia2.html",
+      "/software/arbomap2.html",
+      "/software/epidemia.html",
+      "/software/arbomap.html",
+      "/software/wafordd.html",
+      "/software/change.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/climateepi.html",
+      "/research/landepi.html",
+      "/research/urban_health.html",
+      "/research/mosquito.html",
+      "/research/malaria_forecasting.html",
+      "/research/wnv_forecasting.html",
+      "/research/tropical_forest.html",
+      "/research/urban_expansion.html",
+      "/research/grassland.html",
+      "/research/ruralhealth.html",
+      "/research/pyrogeography.html",
+      "/research/ticks.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/wimberly.html",
+      "/people/Korah.html",
+      "/people/Basheer.html",
+      "/people/Moore.html",
+      "/people/Bright.html"
+    ]
+  }
+]

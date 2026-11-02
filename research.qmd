@@ -1,0 +1,20 @@
+---
+title: Research
+listing:
+  id: research-list
+  contents: research
+  type: grid
+  grid-columns: 3
+  image-height: 220px
+  sort: order
+  fields:
+    - image
+    - title
+    - description
+---
+
+## Topics
+
+::: {#research-list}
+<!-- This serves as a blank spacer column -->
+:::

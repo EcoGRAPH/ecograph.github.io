@@ -1,0 +1,20 @@
+---
+title: Software and Data
+listing:
+  id: research-list
+  contents: software
+  type: grid
+  grid-columns: 3
+  image-height: 220px
+  sort: order
+  fields:
+    - image
+    - title
+    - description
+---
+
+## Topics
+
+::: {#software-list}
+<!-- This serves as a blank spacer column -->
+:::

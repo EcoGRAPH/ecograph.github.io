@@ -1,0 +1,25 @@
+---
+title: "Bright Andoh"
+description: "Ph.D. Student"
+image: "../images/test.jpg"
+order: 5
+format: 
+  html:
+    include-in-header:
+      - text: |
+          <style>
+           #title-block-header .title {
+            font-size: 3.5rem !important; /* Increased from default */
+          }
+          #title-block-header .description {
+            font-size: 1.8rem !important; /* Increased from default */
+            margin-top: 10px;             /* Adds spacing below the title */
+          }
+          </style>
+---
+
+### Education
+
+
+### Research Interests
+

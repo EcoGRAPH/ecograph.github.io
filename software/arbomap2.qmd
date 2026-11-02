@@ -1,0 +1,40 @@
+---
+title: "ArboMAP 2.0"
+description: "Next-generating system for West Nile virus forecasting"
+image: "../images/mosquito_small.jpg"
+order: 2
+format: 
+  html:
+    include-in-header:
+      - text: |
+          <style>
+           #title-block-header .title {
+            font-size: 3.5rem !important; /* Increased from default */
+          }
+          #title-block-header .description {
+            font-size: 1.8rem !important; /* Increased from default */
+            margin-top: 10px;             /* Adds spacing below the title */
+          }
+          </style>
+---
+
+## Project Description
+
+Arthropod-borne viruses such as West Nile virus (WNV) impose significant public health burdens across the United States. Although environmental drivers of transmission are well understood and forecasting techniques have advanced rapidly, operational uptake remains limited by fragmented tools, inconsistent workflows, and barriers to scalability. Building on more than a decade of development and real-world implementation, this project will create ArboMAP 2.0, a next-generation, nationally scalable platform for arbovirus risk forecasting and decision support. The goal is to transform ArboMAP from a successful regional forecasting system into a widely accessible, interoperable platform serving stakeholders at CDC and state and local health departments nationwide.
+
+ArboMAP 2.0 will provide a unified, infrastructure for generating actionable forecasts of arbovirus risk across diverse ecological and institutional settings. The effort will combine technical modernization with coordinated stakeholder engagement to ensure the platform is scientifically robust, operationally relevant, and widely adopted. We will redesign the application with a modern, user-centered interface with simplified workflows, automated data ingestion, and clear visualization of risk and uncertainty to reduce barriers to adoption and support real-time decision-making. Modern software design frameworks will make it straightforward to deploy in the cloud, on local networks, or on individual workstations. Improved data integration with NASA Earth science datasets and public health surveillance will enable interoperability with a variety of public health data systems. The updated framework will support modular workflows that allow adaptation to multiple pathogens, locations, and data environments. Flexible model pipelines will accommodate new data types and emerging machine learning and AI modeling techniques.
+
+A central component of this effort will be building a national community of ArboMAP users and contributors. We will develop connections with national and state health departments to co-develop use cases and pilot deployments. A user network will be established to share best practices in arbovirus forecasting and public health response. Training, documentation, and implementation toolkits will be tailored to the needs of public health practitioners. By lowering technical barriers and fostering a community of practice, the project will accelerate the translation of forecasting science into routine public health action. The resulting infrastructure will support earlier detection of outbreaks and better targeting vector control and disease prevention efforts. More broadly, this effort will provide a model for transforming forecasting models informed by NASA data into durable, national public health capabilities.
+
+## Partner Organizations
+
+- Louisiana Department of Health
+- OKC County Health Department
+- Oklahoma State Department of Health
+- Michigan Department of Health and Human Services
+- South Dakota Department of Health
+- South Dakota State University
+
+## Funding Sources
+
+- NASA

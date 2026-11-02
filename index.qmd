@@ -1,0 +1,41 @@
+---
+title: EcoGRAPH
+subtitle: Ecological and Geospatial Research and Applications in Planetary Health
+title-block-banner: images/amhara_flood_2.jpg
+format: 
+  html:
+    include-in-header:
+      - text: |
+          <style>
+          #title-block-header.quarto-title-block {
+            height: 500px;
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            display: flex;
+            align-items: center;
+          }
+          .quarto-title-banner {
+            height: 100%;
+          }
+          /* Targeted sizing and coloring for text */
+          #title-block-header .title {
+            color: #ffffff !important;
+            font-size: 3.6rem !important; /* Increased from default */
+          }
+          #title-block-header .subtitle {
+            color: #ffffff !important;
+            font-size: 1.8rem !important; /* Increased from default */
+            font-weight: 500 !important;
+            margin-top: 10px;             /* Adds spacing below the title */
+          }
+          /* Reduce space below the title block */
+          #title-block-header {
+            margin-bottom: 0 !important;
+          }
+          </style>
+---
+
+The EcoGRAPH research group is based in the Department of [Geography and Environmental Sustainability](http://www.ou.edu/ags/geography) at the [University of Oklahoma](http://www.ou.edu/). Our research investigates how changing climate and landscapes influence ecosystems and human health, integrating satellite Earth observations, environmental monitoring, and geospatial modeling to understand and anticipate these changes. We emphasize translating scientific knowledge into predictive tools and actionable information to support public health, land-use planning, and natural resource management.
+
+Our work spans landscape to global scales, addressing topics such as climate-sensitive infectious diseases, forest degradation and wildfire, agricultural and urban expansion, and the ecological consequences of climate and land-use change. Through research collaborations across North America, Africa, and Asia, we seek to advance understanding of environmental change while developing practical approaches to anticipating and managing its impacts.

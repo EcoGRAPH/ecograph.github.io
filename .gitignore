@@ -1,9 +1,9 @@
-# project
-_site
-.sass-cache
-.vagrant
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
 
-# general
-.DS_Store
-Thumbs.db
-ehthumbs.db
+/.quarto/
+**/*.quarto_ipynb
+_site/
+.quarto/

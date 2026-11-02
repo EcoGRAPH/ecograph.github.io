@@ -1,0 +1,43 @@
+---
+title: "EPIDEMIA 2.0"
+description: "Enhanced tools for malaria early warning"
+image: "../images/clinic_small.jpg"
+order: 1
+format: 
+  html:
+    include-in-header:
+      - text: |
+          <style>
+           #title-block-header .title {
+            font-size: 3.5rem !important; /* Increased from default */
+          }
+          #title-block-header .description {
+            font-size: 1.8rem !important; /* Increased from default */
+            margin-top: 10px;             /* Adds spacing below the title */
+          }
+          </style>
+---
+
+## Project Description
+
+In Ethiopia, confirmed malaria cases have increased threefold since 2019. This resurgence is driven by multiple factors, including conflict, drug and insecticide resistance, and climate fluctuations. There is currently a strong demand for integrated surveillance and forecasting tools that can predict future outbreaks and allow proactive interventions to reduce outbreak severity. To address this needs, the Epidemic Prognosis Incorporating Disease and Environmental Monitoring for Integrated Assessment (EPIDEMIA) system was co-developed by a team us U.S. and Ethiopian scientists and public health professionals. EPIDEMIA is a suite of software tools uses forecasting models driven by NASA Earth Observations to predict epidemics associated with climate fluctuations. Advanced outbreak detection algorithms are also applied to predict epidemics driven by non-climatic factors. The system has been tested and piloted at a regional level, and the opportunities and barriers associated with broader implementation have been assessed. To support scale up, there is a need to enhance EPIDEMIA by expanding the utilization of NASA Earth observations, increasing forecasting accuracy, and improving the end user experience. The overarching goal of this project is to develop EPIDEMIA 2.0, a next-generation software system, by achieving the following objectives.
+
+1.  Improve the user interface to streamline the modeling process and support interactive visualization for decision support,
+2.  Integrate new sources of environmental data from satellite Earth observations,
+3.  Incorporate multiple modeling approaches for outbreak detection and forecasting, and
+4.  Include additional climate-sensitive diseases besides malaria.
+
+This work builds upon previous work that included basic research to understand climate-malaria relationships, the development of software tools for predicting malaria, and engaging with public health stakeholders to understand the opportunities and barriers associated with national-level implementation of these tools. The research proposed here will substantially extend the previous work by supporting the sustainable expansion of EPIDEMIA throughout Ethiopia, incorporating additional streams of Earth observation data to enhance predictions, and extending the approach to other climate-sensitive diseases.
+
+## Partner Organizations
+
+- [Amhara Public Health Institute](https://aphi.gov.et/)
+- [Bahir Dar University](http://www.bdu.edu.et/)
+- [Ethiopian Public Health Institute](https://www.ephi.gov.et/)
+- [Health, Development, and Anti-Malaria Association](http://www.hdama.org/)
+
+## Funding
+
+- NIAID (R01AI079411)
+- USAID (AID-OAA-TO-14-00044 SUB-778)
+- NASA (80NSSC25K0352)

@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "EcoGRAPH"
+  site-url: https://ecograph.github.io/
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - people.qmd
+      - research.qmd
+      - software.qmd
+      - publications.qmd
+    right:
+      - icon: github
+        href: https://github.com
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
