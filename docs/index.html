@@ -79,15 +79,21 @@ background-size: cover;
 </style>
 <style>
 #title-block-header.quarto-title-block {
-  height: 500px;
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  display: flex;
-  align-items: center;
+  width: 100%;
+  height: auto;
+  margin-bottom: 0 !important;
+  display: block;
 }
-.quarto-title-banner {
-  height: 100%;
+#title-block-header .quarto-title-banner {
+  width: 100vw;
+  max-width: 100vw;
+  min-height: 500px;
+  height: 500px;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
 }
 /* Targeted sizing and coloring for text */
 #title-block-header .title {
