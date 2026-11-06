@@ -104,6 +104,167 @@ background-size: cover;
 #title-block-header {
   margin-bottom: 0 !important;
 }
+.hiring-callout {
+  margin: 2rem 0 0.5rem;
+  padding: 1.35rem 1.6rem 1.25rem 1.7rem;
+  border-radius: 12px;
+  background: linear-gradient(120deg, #6e1214 0%, #841617 48%, #a33b2b 100%);
+  color: #ffffff;
+  box-shadow: 0 10px 28px rgba(132, 22, 23, 0.28);
+  position: relative;
+  overflow: hidden;
+}
+.hiring-callout::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 8px;
+  background: #f2c14e;
+}
+.hiring-kicker {
+  display: inline-block;
+  margin: 0 0 0.55rem;
+  padding: 0.2rem 0.75rem;
+  border-radius: 999px;
+  background: #f2c14e;
+  color: #5c1012;
+  font-size: 1.15rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.hiring-callout p:last-child {
+  margin-bottom: 0;
+  font-size: 1.08rem;
+  line-height: 1.55;
+}
+.hiring-callout a {
+  color: #ffe08a;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+.hiring-callout a:hover {
+  color: #ffffff;
+}
+#title-block-header .quarto-title-banner {
+  position: relative;
+}
+#title-block-header .quarto-title-banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(100deg, rgba(16, 20, 22, 0.78) 0%, rgba(16, 20, 22, 0.42) 58%, rgba(16, 20, 22, 0.18) 100%);
+}
+#title-block-header .quarto-title {
+  position: relative;
+  z-index: 1;
+}
+#title-block-header .title,
+#title-block-header .subtitle {
+  text-shadow: 0 2px 16px rgba(0, 0, 0, 0.35);
+}
+#title-block-header .subtitle {
+  max-width: 40rem;
+}
+.home-lead {
+  font-size: 1.14rem;
+  line-height: 1.7;
+}
+.home-section {
+  margin-top: 2.4rem;
+}
+.home-kicker {
+  margin: 0 0 0.3rem;
+  color: #841617;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.home-section h2 {
+  margin: 0 0 0.55rem;
+  font-size: 1.7rem;
+}
+.theme-grid,
+.explore-grid {
+  display: grid;
+  gap: 0.9rem;
+  margin-top: 1.1rem;
+}
+.theme-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.explore-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.theme-card,
+.explore-card {
+  display: block;
+  overflow: hidden;
+  border-radius: 14px;
+  text-decoration: none;
+  color: inherit;
+}
+.theme-card {
+  background: #ffffff;
+  border: 1px solid rgba(28, 36, 40, 0.08);
+  box-shadow: 0 8px 22px rgba(28, 32, 36, 0.08);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.theme-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 30px rgba(28, 32, 36, 0.14);
+  color: inherit;
+  text-decoration: none;
+}
+.theme-card img {
+  display: block;
+  width: 100%;
+  height: 148px;
+  object-fit: cover;
+}
+.theme-card div {
+  padding: 0.85rem 1rem 1rem;
+}
+.theme-card h3 {
+  margin: 0 0 0.2rem;
+  font-size: 1.12rem;
+}
+.theme-card p,
+.explore-card span {
+  margin: 0;
+  color: #5c676e;
+  font-size: 0.94rem;
+}
+.explore-card {
+  padding: 0.95rem 1rem;
+  background: #f4f7f6;
+  border: 1px solid #e3e8e6;
+  font-weight: 700;
+}
+.explore-card span {
+  display: block;
+  margin-top: 0.25rem;
+  font-weight: 500;
+}
+.explore-card:hover {
+  background: #841617;
+  border-color: #841617;
+  color: #ffffff;
+  text-decoration: none;
+}
+.explore-card:hover span {
+  color: #f6e2c4;
+}
+@media (max-width: 800px) {
+  .theme-grid,
+  .explore-grid {
+    grid-template-columns: 1fr;
+  }
+}
 </style>
 
 
@@ -192,8 +353,34 @@ background-size: cover;
 
 
 
+<div class="home-lead">
 <p>The EcoGRAPH research group is based in the Department of <a href="http://www.ou.edu/ags/geography">Geography and Environmental Sustainability</a> at the <a href="http://www.ou.edu/">University of Oklahoma</a>. Our research investigates how changing climate and landscapes influence ecosystems and human health, integrating satellite Earth observations, environmental monitoring, and geospatial modeling to understand and anticipate these changes. We emphasize translating scientific knowledge into predictive tools and actionable information to support public health, land-use planning, and natural resource management.</p>
+</div>
+<section class="home-section">
+<p class="home-kicker">What we study</p>
+<h2>From landscapes to global change</h2>
 <p>Our work spans landscape to global scales, addressing topics such as climate-sensitive infectious diseases, forest degradation and wildfire, agricultural and urban expansion, and the ecological consequences of climate and land-use change. Through research collaborations across North America, Africa, and Asia, we seek to advance understanding of environmental change while developing practical approaches to anticipating and managing its impacts.</p>
+<div class="theme-grid">
+<a class="theme-card" href="research/climateepi.html"><img src="images/climate_epi.jpeg" alt="Satellite view used in climate and disease research"><div><h3>Climate-sensitive disease</h3><p>Climate variation and infectious diseases</p></div></a>
+<a class="theme-card" href="research/tropical_forest.html"><img src="images/forest_small.jpg" alt="Tropical forest canopy"><div><h3>Forests and wildfire</h3><p>Degradation, disturbance, and fire</p></div></a>
+<a class="theme-card" href="research/grassland.html"><img src="images/grassland.jpg" alt="Grassland landscape"><div><h3>Agricultural expansion</h3><p>Cropland growth and grassland change</p></div></a>
+<a class="theme-card" href="research/urban_expansion.html"><img src="images/ghana_sprawl_small.jpg" alt="Expanding urban area in West Africa"><div><h3>Urban expansion</h3><p>Drivers and impacts of urban growth</p></div></a>
+</div>
+</section>
+<section class="home-section">
+<p class="home-kicker">Explore</p>
+<h2>Around the group</h2>
+<div class="explore-grid">
+<a class="explore-card" href="people.html">People<span>Researchers in the EcoGRAPH group</span></a>
+<a class="explore-card" href="research.html">Research<span>Climate, disease, fire, and land change</span></a>
+<a class="explore-card" href="software.html">Software and Data<span>Forecasting and monitoring tools</span></a>
+<a class="explore-card" href="publications.html">Publications<span>Papers from the research group</span></a>
+</div>
+</section>
+<div class="hiring-callout">
+<p><span class="hiring-kicker">We are hiring!</span></p>
+<p>The EcoGRAPH group has an opening for a postdoctoral associate to work on a new NASA project focused on predicting mosquito-borne disease outbreaks in the United States. We will begin evaluating applications on December 1, 2026. Follow <a href="https://ecograph.net/documents/NASA_ArboMAP_Postdoc_05NOV2026.pdf">this link</a> for the full job announcement.</p>
+</div>
 
 
 
