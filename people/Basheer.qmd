@@ -49,9 +49,9 @@ A central theme of my work is bridging the gap between predictive modeling and a
 
 ## Selected Publications
 
-1. [A One Health Visual Analytics Approach for Syndromic Surveillance](https://doi.org/10.1016/j.onehlt.2026.101561). *One Health*, 2026.
-2. [Integrated One Health Mixed-Effects Modeling for Syndromic Surveillance and Visual Analytics](https://doi.org/10.3390/jcm15082966). *Journal of Clinical Medicine*, 2026, 15(8), 2966.
-3. [A One Health Review of Visual Analytics and Integrated Health Surveillance](https://doi.org/10.1016/j.onehlt.2025.101253). *One Health*, 2025.
+1. **Basheer, A.**, Saidi, S.J., Khiabani, P.M., Jentner, W., Wendelboe, A., Vogel, J., Kuhn, K., Wimberly, M.C., Morrison, J.A., Topdjian, K. and Hougen, D. (2026). [A one health visual analytics approach for syndromic surveillance](https://doi.org/10.1016/j.onehlt.2026.101561). *One Health*, p.101561.
+2. **Basheer, A.**, Khiabani, P.M., Jentner, W., Wendelboe, A., Vogel, J.R., Kuhn, K.G., Wimberly, M.C., Hougen, D. and Ebert, D. (2026). [OH-MEMA: An Integrated One Health Mixed-Effects Modeling Approach for Syndromic Surveillance](https://doi.org/10.3390/jcm15082966). *Journal of Clinical Medicine*, 15(8), p.2966.
+3. **Basheer, A.**, Tran, M., Khan, B., Jentner, W., Wendelboe, A., Vogel, J., Kuhn, K., Wimberly, M.C. and Ebert, D. (2025). [Comprehensive review of One Health systems for emerging infectious disease detection and management](https://doi.org/10.1016/j.onehlt.2025.101253). *One Health*, p.101253.
 
 ## Research Projects and Platforms
 
