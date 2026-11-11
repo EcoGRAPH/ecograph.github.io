@@ -18,6 +18,46 @@ format:
           </style>
 ---
 
-### Education
+Department of Geography and Environmental Sustainability, University of Oklahoma, Norman
 
-### Research Interests
+Email: [andrews.korah@ou.edu](mailto:andrews.korah@ou.edu); LinkedIn: [andrews-korah](https://www.linkedin.com/in/andrews-korah); ORCID: [0000-0002-2663-7857](https://orcid.org/0000-0002-2663-7857)
+
+## Education
+
+- Ph.D., Geography and Environmental Sustainability, University of Oklahoma
+- M.A., Geography, Miami (OH) University
+- B.A., Geography and Rural Development, Kwame Nkrumah University of Science and Technology
+
+## Research Interests
+
+Andrews Korah is a Postdoctoral Research Associate in Geography and Environmental Sustainability at the University of Oklahoma. His research integrates remote sensing, GIS, GeoAI/machine learning, spatial modeling, and mixed methods to examine urban expansion, land use and land cover change, vegetation dynamics, and temperature changes. I generate satellite-based datasets and predictive models to understand the drivers and impacts of current and future urbanization on people and the environment, such as diurnal heat patterns, microclimate-LST dynamics, and tree cover change. I build on this research to develop platforms that translate geospatial data into decision-support systems, such as the West Africa Dataset of Impervious Surface Change (WADISC) platform, which advances urban expansion monitoring in West Africa, and GeoHeat-SSA, which supports urban heat governance.
+
+## Research Projects
+
+- **GeoHeat-SSA:** A geo-intelligence decision-support platform for urban heat governance in Sub-Saharan Africa (SSA) that addresses the growing threat of extreme urban heat in rapidly expanding cities.
+- **WADISC:** West Africa Dataset of Impervious Surface Change, a 30-m annual dataset developed to monitor urban expansion across different-sized cities in Ghana, Togo, Benin, and Nigeria, urbanization hotspots in West Africa. Available as a Google Earth Engine App (WADISC-Dashboard).
+
+## Recent Grants and Fellowships
+
+- **Urban Studies Foundation (GBP £34,650 | US$46,000):** 12/01/2026 – 05/31/2028. Urban Urgencies (USF-URU-260702) GeoHeat-SSA: A GeoAI decision-support platform for urban heat governance in Sub-Saharan Africa (PI: A. Korah; Co-Is: K. Twum, E. Anorrey).
+- **World Bank Group Africa Fellowship:** 01/02/2024 – 06/30/2024. City Resilience Program, Global Facility for Disaster Reduction and Recovery (GFDRR).
+- **Robberson Research Grant ($1,000):** April 2023. Graduate College, University of Oklahoma.
+- **DGES Foundation Student Field Research Grant ($1,000):** June 2023. Department of Geography and Environmental Sustainability, University of Oklahoma.
+
+## Publications
+
+1. Twum, K. O., **Korah, A.**, Lartey, D., Asibey, M. O., Attiah, G., Sarfo A., & Frimpong Boamah, E. (2026). [Mapping urban heat dynamics in Sub-Saharan Africa: a multi-city analysis of drivers of urban heat island across African cities](https://doi.org/10.1080/19376812.2026.2742326). *African Geographical Review*, 1-29.
+2. **Korah, A.**, & Wimberly, M. C. (2026). [Expansion of cities drives tree cover loss in rapidly urbanizing regions of West Africa](https://doi.org/10.1016/j.ufug.2026.129434). *Urban Forestry & Urban Greening*, 120, 129434.
+3. **Korah, A.**, Smith, L. C., & Wimberly, M. C. (2025). [Understanding urban expansion across primary and secondary cities in Ghana](https://doi.org/10.1016/j.habitatint.2025.103339). *Habitat International*, 158, 103339.
+4. **Korah, A.**, & Wimberly, M. C. (2024). [Annual Impervious Surface Data from 2001–2020 for West African Countries: Ghana, Togo, Benin and Nigeria](https://doi.org/10.1038/s41597-024-03610-8). *Scientific Data*, 11(1), 791.
+5. **Korah, A.**, & Wimberly, M. C. (2024). [Smaller cities have large impacts on West Africa’s expanding urban system](https://doi.org/10.1016/j.scs.2024.105381). *Sustainable Cities and Society*, 106, 105381.
+6. **Korah, A.**, Koch, J. A. M., & Wimberly, M. C. (2024). [Understanding urban growth modeling in Africa: Dynamics, drivers, and challenges](https://doi.org/10.1016/j.cities.2023.104734). *Cities*, 146, 104734.
+7. Korah, P. I., **Korah, A.**, & Ahmed, A. (2023). [Spatio-temporal dynamics of tree cover change in semi-arid Ghana: Evidence from Sentinel-2 time series data](https://doi.org/10.1080/19376812.2023.2190140). *African Geographical Review*, 0(0), 1–15.
+
+## University Courses Taught
+
+University of Oklahoma
+
+- GIS 5453 – Advanced GIS and Spatial Analysis (3 semester credits, lecture/lab) 2025, 2026, 2027
+- GEOG 1114 – Physical Geography (4 semester credits, lecture/lab) 2022, 2023
+- GEOG 2603 – World Regional Geography (3 semester credits, lecture) 2021, 2022
