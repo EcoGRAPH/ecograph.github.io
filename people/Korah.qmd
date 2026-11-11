@@ -30,12 +30,12 @@ Email: [andrews.korah@ou.edu](mailto:andrews.korah@ou.edu); LinkedIn: [andrews-k
 
 ## Research Interests
 
-Andrews Korah is a Postdoctoral Research Associate in Geography and Environmental Sustainability at the University of Oklahoma. His research integrates remote sensing, GIS, GeoAI/machine learning, spatial modeling, and mixed methods to examine urban expansion, land use and land cover change, vegetation dynamics, and temperature changes. I generate satellite-based datasets and predictive models to understand the drivers and impacts of current and future urbanization on people and the environment, such as diurnal heat patterns, microclimate-LST dynamics, and tree cover change. I build on this research to develop platforms that translate geospatial data into decision-support systems, such as the West Africa Dataset of Impervious Surface Change (WADISC) platform, which advances urban expansion monitoring in West Africa, and GeoHeat-SSA, which supports urban heat governance.
+Andrews Korah is a Postdoctoral Research Associate in Geography and Environmental Sustainability at the University of Oklahoma. His research integrates remote sensing, GIS, GeoAI/machine learning, spatial modeling, and mixed methods to examine urban expansion, land use and land cover change, vegetation dynamics, and temperature changes. I generate satellite-based datasets and predictive models to understand the drivers and impacts of current and future urbanization on people and the environment, such as diurnal heat patterns, microclimate-LST dynamics, and tree cover change. I build on this research to develop platforms that translate geospatial data into decision-support systems, such as the West Africa Dataset of Impervious Surface Change ([WADISC](https://ee-kora0003.projects.earthengine.app/view/wadisc-dashboard)) platform, which advances urban expansion monitoring in West Africa, and GeoHeat-SSA, which supports urban heat governance.
 
 ## Research Projects
 
 - **GeoHeat-SSA:** A geo-intelligence decision-support platform for urban heat governance in Sub-Saharan Africa (SSA) that addresses the growing threat of extreme urban heat in rapidly expanding cities.
-- **WADISC:** West Africa Dataset of Impervious Surface Change, a 30-m annual dataset developed to monitor urban expansion across different-sized cities in Ghana, Togo, Benin, and Nigeria, urbanization hotspots in West Africa. Available as a Google Earth Engine App (WADISC-Dashboard).
+- **WADISC:** West Africa Dataset of Impervious Surface Change, a 30-m annual dataset developed to monitor urban expansion across different-sized cities in Ghana, Togo, Benin, and Nigeria, urbanization hotspots in West Africa. Available as a Google Earth Engine App ([WADISC-Dashboard](https://ee-kora0003.projects.earthengine.app/view/wadisc-dashboard)).
 
 ## Recent Grants and Fellowships
 
