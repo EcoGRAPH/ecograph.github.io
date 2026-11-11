@@ -1,8 +1,0 @@
----
-layout: page
-title: Documents
----
-
-### Position announcements
-
-- [Postdoctoral Research Associate in Satellite Earth Observation and Infectious Disease Forecasting](documents/NASA_ArboMAP_Postdoc_05NOV2026.pdf). University of Oklahoma. Review of applications begins December 1, 2026.

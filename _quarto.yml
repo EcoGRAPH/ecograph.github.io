@@ -15,7 +15,6 @@ website:
       - research.qmd
       - software.qmd
       - publications.qmd
-      - documents.qmd
     right:
       - icon: github
         href: https://github.com
